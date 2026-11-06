@@ -1,7 +1,5 @@
 # Regulation B model evaluation
 
-Jason Zou · [jzou1@uchicago.edu](mailto:jzou1@uchicago.edu)
-
 This is the project behind my work sample for CTGT's AI Evaluation Research internship. The question was simple: can today's AI models apply a real lending rule correctly, and where do they go wrong?
 
 ## The rule
