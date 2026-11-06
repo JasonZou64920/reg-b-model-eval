@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C36",
+    "label": "complies",
+    "reasoning": "Section 1002.9(b)(2) only governs how specific the stated reasons must be when an adverse action notice is required and given, and because the buyer expressly accepted and used the credit Bank A offered on the dealer-submitted application, 1002.9(g) relieves Banks B, C and D of any duty to notify, so their sending no notice does not violate (b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

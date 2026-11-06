@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "Because the denial rested on the applicant scoring below the cutoff, 12 CFR 1002.9(b)(2) (as interpreted in comment 9(b)(2)-4) requires the reasons to relate only to factors actually scored, so listing the four scored characteristics with the largest shortfalls is a permissible way to state the principal reasons, and the unscored prior charge-off need not and should not be listed.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I to Part 1002, comments 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C58",
+    "label": "depends",
+    "reasoning": "The stated reason is specific rather than a reference to internal standards or a failed score, but 12 CFR 1002.9(b)(2) (with comment 9(b)(2)-4) requires it to reflect the factor actually scored that was a principal reason for the decline, which turns on how the model used the two income inputs.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I to Part 1002, comment 9(b)(2)-4",
+    "deciding_fact": "Whether the model actually scores the gap between stated and bureau-estimated income and that gap was a principal reason for the decline, as opposed to the decline being driven by the low estimated income level itself or by other scored factors not listed on the notice."
+  },
+  {
+    "id": "C54",
+    "label": "complies",
+    "reasoning": "Where the missing income prevented the model from evaluating the application, 'Credit application incomplete' is the specific principal reason for the adverse action under 12 CFR 1002.9(b)(2), and 12 CFR 1002.9(c)(1)(i) and the Appendix C sample forms permit an adverse action notice giving that reason for an incomplete application.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); Appendix C to Part 1002 (Form C-1)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "A single third-party notice for multiple creditors may be used under 12 CFR 1002.9(g), but to satisfy 12 CFR 1002.9(b)(2) when it states reasons it must give the principal reasons each creditor relied on and clearly indicate which reasons relate to which creditor (comment 9(g)-1), and this notice pools the two reasons without attributing them to Bank A versus Banks B and C.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g); Supplement I to Part 1002, comment 9(g)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

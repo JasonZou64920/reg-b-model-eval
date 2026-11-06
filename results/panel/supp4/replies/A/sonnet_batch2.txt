@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C48",
+    "label": "complies",
+    "reasoning": "Closing the card because of delinquency on that same account is an action relating to an account taken in connection with delinquency, which 12 CFR 1002.2(c)(2)(ii) excludes from the definition of adverse action, so no notice or statement of specific reasons under 1002.9(b)(2) was required and sending none does not violate it.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(2)(ii)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

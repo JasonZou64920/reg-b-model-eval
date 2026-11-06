@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C50",
+    "label": "violates",
+    "reasoning": "The cardholder's app request for a $2,000 increase, made under the app's own procedures, was an application, so its denial was adverse action that required a statement of specific principal reasons under 1002.9(a)(2)(i) and (b)(2), yet Northgate sent no notice and the in-app message 'Purchase declined: over limit' addressed only the purchase and gave no reason for refusing the increase.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(iii)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

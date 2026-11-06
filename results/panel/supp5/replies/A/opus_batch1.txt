@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C52",
+    "label": "depends",
+    "reasoning": "A request made through the creditor's own form to extend an existing loan's term is an application for an extension of credit (renewal/refinancing), and denying it is adverse action whose notice falls under 12 CFR 1002.9(b)(2), where telling the borrower that modifications are 'handled at our discretion' is a statement based on the creditor's internal standards or policies and is insufficient; however, under 12 CFR 1002.2(c)(2)(ii), an action or forbearance on an account taken in connection with inactivity, default, or delinquency on that account is not adverse action, so no statement of specific reasons is required if the borrower was delinquent or in default.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1) and (c)(2)(ii); 12 CFR 1002.2(f); 12 CFR 1002.2(q)",
+    "deciding_fact": "Whether the borrower was delinquent or in default on the existing auto loan when Lakeview declined the modification. If so, the denial is excluded from adverse action under 1002.2(c)(2)(ii) and 1002.9(b)(2) does not apply. If the borrower was current, the denial is adverse action and the 'handled at our discretion' email violates 1002.9(b)(2)."
+  }
+]
+MODEL_ID: claude-opus-5-5

@@ -1,0 +1,88 @@
+{
+  "run_date": "October 31, 2026",
+  "rows": [
+    {
+      "label": "Fable (claude-fable-5-1)",
+      "cells": [
+        "",
+        "",
+        "",
+        "X",
+        "",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X"
+      ],
+      "total": "6 of 10"
+    },
+    {
+      "label": "Opus (claude-opus-5-5)",
+      "cells": [
+        "",
+        "X",
+        "",
+        "X",
+        "",
+        "X",
+        "X",
+        "X",
+        "X",
+        ""
+      ],
+      "total": "6 of 10"
+    },
+    {
+      "label": "Sonnet (claude-sonnet-5-5)",
+      "cells": [
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X"
+      ],
+      "total": "10 of 10"
+    },
+    {
+      "label": "Rerun, same prompt",
+      "cells": [
+        "1",
+        "2",
+        "0",
+        "3",
+        "0",
+        "2",
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "total": "20 of 30",
+      "count_row": true
+    },
+    {
+      "label": "With related rules added",
+      "cells": [
+        "1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "2",
+        "0",
+        "3",
+        "2"
+      ],
+      "total": "8 of 30",
+      "count_row": true
+    }
+  ],
+  "legend": "All runs were on October 31, 2026. An X marks a first-try miss on the draw I picked the ten from. The last two rows count models that missed on a rerun of the same prompt, and with the rest of 1002.9, the definition of adverse action, their commentary and Appendix C added."
+}

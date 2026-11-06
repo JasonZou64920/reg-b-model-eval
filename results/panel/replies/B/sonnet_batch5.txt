@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C09",
+    "label": "complies",
+    "reasoning": "The denial was made at the knockout step because of an automatic-denial factor (a repossession in the past 12 months), and comment 9(b)(2)-8 requires the creditor to disclose that specific factor, which 'Foreclosure or repossession' does, while the below-cutoff score computed only for portfolio monitoring was not the basis for the decision and so did not need to be disclosed.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-7 and 9(b)(2)-8",
+    "deciding_fact": null
+  },
+  {
+    "id": "C13",
+    "label": "complies",
+    "reasoning": "Each of the six listed reasons is a scored factor on which the applicant fell well below the average of applicants at or slightly above the cutoff, which is the method comment 9(b)(2)-5 expressly approves, and comment 9(b)(2)-1 says the regulation does not mandate a particular number of reasons and only notes that more than four is not likely to be helpful, so listing six is not a violation.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C21",
+    "label": "complies",
+    "reasoning": "In a judgmental system the reasons must relate to the factors the decision-maker actually reviewed (comment 9(b)(2)-6), and 'Your Income: is below our minimum requirement' accurately names the specific factor, income, that drove the denial of an applicant who verified $24,000 against a $30,000 minimum, while comment 9(b)(2)-3 says the creditor need not explain how or why the factor counted against the applicant and the wording comes from sample Form C-2.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-3 and 9(b)(2)-6; Appendix C, Form C-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C23",
+    "label": "violates",
+    "reasoning": "Because the denial rested on a credit score that fell below the cutoff, comments 9(b)(2)-2 and 9(b)(2)-4 require the reasons to be the factors actually scored (bureau data and stated income), and 'Credit application incomplete' describes the missing pay stubs, which the model never used, so it does not accurately state the principal reasons and is not a specific statement of reasons as 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C26",
+    "label": "complies",
+    "reasoning": "A statement of specific reasons under 1002.9(a)(2) and (b)(2) is required only for adverse action, and a lower credit limit than requested is not adverse action under 1002.2(c)(1)(i) when the creditor makes a counteroffer and the applicant uses or expressly accepts the credit offered, which this applicant did by activating the card and using it for three months, so no reasons were required.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv), (a)(2) and (b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C32",
+    "facts": "Summit Lending's gradient-boosted model scored a personal-loan application below the cutoff. Within 30 days Summit mailed a notice that states the action taken, Summit's name and address, the ECOA notice with its federal regulator's name and address, and the applicant's right to a statement of specific reasons if requested within 60 days, naming the office that will provide it with its address and telephone number. The notice lists no reasons, and the applicant has not asked for them."
+  },
+  {
+    "id": "C33",
+    "facts": "Prairie State Bank received 140 credit applications in the preceding calendar year. It declined a consumer's auto-loan application, and two weeks later the loan officer phoned the applicant and said the loan was declined because the applicant's monthly debt payments were too high relative to income. No written notice was sent."
+  },
+  {
+    "id": "C34",
+    "facts": "Oakmont Bank's online application for small-business credit discloses the right to request a statement of reasons within 60 days, with the responsible office's name, address and telephone number, and includes the ECOA notice. A bakery with $600,000 in revenue last year applied for a $50,000 line, Oakmont's model declined it, and a banker phoned the owner to say the line was declined. No written notice or reasons were given, and the owner has not requested them."
+  },
+  {
+    "id": "C35",
+    "facts": "An applicant asked Northgate Bank for a credit card with a $25,000 limit. Northgate mailed a combined counteroffer and adverse action notice that offered a $6,000 limit, listed 'Excessive obligations in relation to income' and 'Limited credit experience' as the reasons it would not grant $25,000, and included the ECOA notice. The applicant never activated the card, and 120 days later Northgate has sent nothing further."
+  },
+  {
+    "id": "C36",
+    "facts": "An auto dealer submitted a buyer's credit application to four banks through its financing platform. Bank A approved, and the buyer signed a retail installment contract financed by Bank A; Banks B, C and D declined, and none of them sent the buyer an adverse action notice."
+  }
+]

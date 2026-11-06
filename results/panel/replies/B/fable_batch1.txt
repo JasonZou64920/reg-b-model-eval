@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C01",
+    "label": "violates",
+    "reasoning": "Listing the same four globally important features on every declined applicant's notice does not indicate the principal reasons for that applicant's adverse action, because comments 9(b)(2)-2, -4 and -5 require the disclosed reasons to relate to and accurately describe the factors that actually drove the individual decision, selected by a method that identifies where the applicant's own score fell furthest short (or a substantially similar method), not by model-wide feature importance.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C16",
+    "label": "complies",
+    "reasoning": "The stated reason 'Proportion of balances to credit limits on revolving accounts' relates to and accurately describes the factor actually scored (revolving utilization, here measured as a 24-month average), and comment 9(b)(2)-3 does not require the creditor to describe how the factor was computed or why it adversely affected the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C30",
+    "label": "violates",
+    "reasoning": "Although deferring reasons until requested and answering within 30 days of a timely request is a permitted procedure under 1002.9(a)(2)(ii), the statement 'Your application did not meet our credit standards' is exactly the kind of reference to the creditor's internal standards or policies that the second sentence of 1002.9(b)(2) declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2) (second sentence); 12 CFR 1002.9(a)(2)(ii)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "A creditor may act on an incomplete application by denying it with an adverse action notice under 1002.9(c)(1)(i), and 'Credit application incomplete' is a specific reason that relates to and accurately describes the actual basis for the decision (the missing pay stubs), with no obligation under comment 9(b)(2)-3 to explain which item was missing; it also appears as a listed reason on sample form C-1.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); Supplement I comments 9(b)(2)-2, 9(b)(2)-3; Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C10",
+    "label": "depends",
+    "reasoning": "If the denial rested solely on the scorecard, the notice complies because comment 9(b)(2)-4 confines the reasons to factors actually scored and comment 9(b)(2)-5 accepts the largest-shortfall method, but if Pinecrest's decision method treated the prior charged-off Pinecrest account as an automatic-denial factor (or otherwise actually relied on it), comment 9(b)(2)-8 requires that specific factor to be disclosed and its omission would violate 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-4, 9(b)(2)-5, 9(b)(2)-8",
+    "deciding_fact": "Whether Pinecrest's decision actually relied on the prior charged-off Pinecrest account (as an automatic-denial factor or a scored/judgmental principal reason) rather than resting solely on the scorecard result."
+  }
+]
+MODEL_ID: claude-fable-5-1

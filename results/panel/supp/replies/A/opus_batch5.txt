@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C36",
+    "label": "complies",
+    "reasoning": "The specific-reasons requirement in 12 CFR 1002.9(b)(2) applies only to a statement of reasons that paragraph (a)(2)(i) requires, and because the dealer sent the application to several creditors and the buyer expressly accepted the credit Bank A offered by signing the retail installment contract, 12 CFR 1002.9(g) excuses Banks B, C and D from giving any adverse action notice, so leaving out the notice and its statement of reasons does not violate 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(g) and Official Interpretation comment 9(g)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

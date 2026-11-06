@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C33",
+    "label": "complies",
+    "reasoning": "The loan officer's statement that the application was declined because the applicant's monthly debt payments were too high relative to income is a specific principal reason (the familiar 'excessive obligations in relation to income' ground) rather than a bare reference to internal standards or a failed credit score, so it satisfies the specificity requirement of 1002.9(b)(2); and because Prairie State Bank received no more than 150 applications in the preceding calendar year (140), 1002.9(d) allows the notice and statement of specific reasons to be given orally, and the call two weeks after the decision fell within the 30-day window of 1002.9(a)(1)(i), so the absence of a written notice does not create a violation.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(d); 12 CFR 1002.9(a)(1)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

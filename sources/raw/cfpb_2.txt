@@ -1,0 +1,255 @@
+id="content__main">
+
+§ 1002.2 Definitions.
+
+This version is the current regulation
+
+View all versions of this regulation
+
+Search this regulation
+
+Regulation B
+
+For the purposes of this part, unless the context indicates otherwise or as otherwise defined in subpart B, the following definitions apply:
+
+(a) Account means an extension of credit. When employed in relation to an account, the word use refers only to open-end credit.
+
+(b) Act means the Equal Credit Opportunity Act (Title VII of the Consumer Credit Protection Act).
+
+(c) Adverse action.
+
+Official interpretation of 2(c) Adverse action.
+
+See interpretation of 2(c) Adverse action.
+in Supplement I
+
+(1) The term means:
+
+(i) A refusal to grant credit in substantially the amount or on substantially the terms requested in an application unless the creditor makes a counteroffer (to grant credit in a different amount or on other terms) and the applicant uses or expressly accepts the credit offered;
+
+Official interpretation of Paragraph 2(c)(1)(i).
+
+1. Application for credit. If the applicant applied in accordance with the creditor's procedures, a refusal to refinance or extend the term of a business or other loan is adverse action.
+
+See interpretation of Paragraph 2(c)(1)(i).
+in Supplement I
+
+(ii) A termination of an account or an unfavorable change in the terms of an account that does not affect all or substantially all of a class of the creditor's accounts; or
+
+Official interpretation of Paragraph 2(c)(1)(ii).
+
+1. Move from service area. If a credit card issuer terminates the open-end account of a customer because the customer has moved out of the card issuer's service area, the termination is adverse action unless termination on this ground was explicitly provided for in the credit agreement between the parties. In cases where termination is adverse action, notification is required under § 1002.9.
+
+2. Termination based on credit limit. If a creditor terminates credit accounts that have low credit limits (for example, under $400) but keeps open accounts with higher credit limits, the termination is adverse action and notification is required under § 1002.9.
+
+See interpretation of Paragraph 2(c)(1)(ii).
+in Supplement I
+
+(iii) A refusal to increase the amount of credit available to an applicant who has made an application for an increase.
+
+(2) The term does not include:
+
+(i) A change in the terms of an account expressly agreed to by an applicant;
+
+(ii) Any action or forbearance relating to an account taken in connection with inactivity, default, or delinquency as to that account;
+
+Official interpretation of Paragraph 2(c)(2)(ii).
+
+1. Default - exercise of due-on-sale clause. If a mortgagor sells or transfers mortgaged property without the consent of the mortgagee, and the mortgagee exercises its contractual right to accelerate the mortgage loan, the mortgagee may treat the mortgagor as being in default. An adverse action notice need not be given to the mortgagor or the transferee. (See comment 2(e)-1 for treatment of a purchaser who requests to assume the loan.)
+
+2. Current delinquency or default. The term adverse action does not include a creditor's termination of an account when the accountholder is currently in default or delinquent on that account. Notification in accordance with § 1002.9 of the regulation generally is required, however, if the creditor's action is based on a past delinquency or default on the account.
+
+See interpretation of Paragraph 2(c)(2)(ii).
+in Supplement I
+
+(iii) A refusal or failure to authorize an account transaction at point of sale or loan, except when the refusal is a termination or an unfavorable change in the terms of an account that does not affect all or substantially all of a class of the creditor's accounts, or when the refusal is a denial of an application for an increase in the amount of credit available under the account;
+
+Official interpretation of Paragraph 2(c)(2)(iii).
+
+1. Point-of-sale transactions. Denial of credit at point of sale is not adverse action except under those circumstances specified in the regulation. For example, denial at point of sale is not adverse action in the following situations:
+
+i. A credit cardholder presents an expired card or a card that has been reported to the card issuer as lost or stolen.
+
+ii. The amount of a transaction exceeds a cash advance or credit limit.
+
+iii. The circumstances (such as excessive use of a credit card in a short period of time) suggest that fraud is involved.
+
+iv. The authorization facilities are not functioning.
+
+v. Billing statements have been returned to the creditor for lack of a forwarding address.
+
+2. Application for increase in available credit. A refusal or failure to authorize an account transaction at the point of sale or loan is not adverse action except when the refusal is a denial of an application, submitted in accordance with the creditor's procedures, for an increase in the amount of credit.
+
+See interpretation of Paragraph 2(c)(2)(iii).
+in Supplement I
+
+(iv) A refusal to extend credit because applicable law prohibits the creditor from extending the credit requested; or
+
+(v) A refusal to extend credit because the creditor does not offer the type of credit or credit plan requested.
+
+Official interpretation of Paragraph 2(c)(2)(v).
+
+1. Terms of credit versus type of credit offered. When an applicant applies for credit and the creditor does not offer the credit terms requested by the applicant (for example, the interest rate, length of maturity, collateral, or amount of downpayment), a denial of the application for that reason is adverse action (unless the creditor makes a counteroffer that is accepted by the applicant) and the applicant is entitled to notification under § 1002.9.
+
+See interpretation of Paragraph 2(c)(2)(v).
+in Supplement I
+
+(3) An action that falls within the definition of both paragraphs (c)(1) and (c)(2) of this section is governed by paragraph (c)(2) of this section.
+
+(d) Age refers only to the age of natural persons and means the number of fully elapsed years from the date of an applicant's birth.
+
+(e) Applicant means any person who requests or who has received an extension of credit from a creditor, and includes any person who is or may become contractually liable regarding an extension of credit. For purposes of § 1002.7(d), the term includes guarantors, sureties, endorsers, and similar parties.
+
+Official interpretation of 2(e) Applicant.
+
+1. Request to assume loan. If a mortgagor sells or transfers the mortgaged property and the buyer makes an application to the creditor to assume the mortgage loan, the mortgagee must treat the buyer as an applicant unless its policy is not to permit assumptions.
+
+See interpretation of 2(e) Applicant.
+in Supplement I
+
+(f) Application means an oral or written request for an extension of credit that is made in accordance with procedures used by a creditor for the type of credit requested. The term application does not include the use of an account or line of credit to obtain an amount of credit that is within a previously established credit limit. A completed application means an application in connection with which a creditor has received all the information that the creditor regularly obtains and considers in evaluating applications for the amount and type of credit requested (including, but not limited to, credit reports, any additional information requested from the applicant, and any approvals or reports by governmental agencies or other persons that are necessary to guarantee, insure, or provide security for the credit or collateral). The creditor shall exercise reasonable diligence in obtaining such information.
+
+Official interpretation of 2(f) Application.
+
+1. General. A creditor has the latitude under the regulation to establish its own application process and to decide the type and amount of information it will require from credit applicants.
+
+2. Procedures used. The term “procedures” refers to the actual practices followed by a creditor for making credit decisions as well as its stated application procedures. For example, if a creditor's stated policy is to require all applications to be in writing on the creditor's application form, but the creditor also makes credit decisions based on oral requests, the creditor's procedures are to accept both oral and written applications.
+
+3. When an inquiry or prequalification request becomes an application. A creditor is encouraged to provide consumers with information about loan terms. However, if in giving information to the consumer the creditor also evaluates information about the consumer, decides to decline the request, and communicates this to the consumer, the creditor has treated the inquiry or prequalification request as an application and must then comply with the notification requirements under § 1002.9. Whether the inquiry or prequalification request becomes an application depends on how the creditor responds to the consumer, not on what the consumer says or asks. (See comment 9-5 for further discussion of prequalification requests; see comment 2(f)-5 for a discussion of preapproval requests.)
+
+4. Examples of inquiries that are not applications. The following examples illustrate situations in which only an inquiry has taken place:
+
+i. A consumer calls to ask about loan terms and an employee explains the creditor's basic loan terms, such as interest rates, loan-to-value ratio, and debt-to-income ratio.
+
+ii. A consumer calls to ask about interest rates for car loans, and, in order to quote the appropriate rate, the loan officer asks for the make and sales price of the car and the amount of the downpayment, then gives the consumer the rate.
+
+iii. A consumer asks about terms for a loan to purchase a home and tells the loan officer her income and intended downpayment, but the loan officer only explains the creditor's loan-to-value ratio policy and other basic lending policies, without telling the consumer whether she qualifies for the loan.
+
+iv. A consumer calls to ask about terms for a loan to purchase vacant land and states his income and the sales price of the property to be financed, and asks whether he qualifies for a loan; the employee responds by describing the general lending policies, explaining that he would need to look at all of the consumer's qualifications before making a decision, and offering to send an application form to the consumer.
+
+5. Examples of an application. An application for credit includes the following situations:
+
+i. A person asks a financial institution to “preapprove” her for a loan (for example, to finance a house or a vehicle she plans to buy) and the institution reviews the request under a program in which the institution, after a comprehensive analysis of her creditworthiness, issues a written commitment valid for a designated period of time to extend a loan up to a specified amount. The written commitment may not be subject to conditions other than conditions that require the identification of adequate collateral, conditions that require no material change in the applicant's financial condition or creditworthiness prior to funding the loan, and limited conditions that are not related to the financial condition or creditworthiness of the applicant that the lender ordinarily attaches to a traditional application (such as certification of a clear termite inspection for a home purchase loan, or a maximum mileage requirement for a used car loan). But if the creditor's program does not provide for giving written commitments, requests for preapprovals are treated as prequalification requests for purposes of the regulation.
+
+ii. Under the same facts as above, the financial institution evaluates the person's creditworthiness and determines that she does not qualify for a preapproval.
+
+6. Completed application - diligence requirement. The regulation defines a completed application in terms that give a creditor the latitude to establish its own information requirements. Nevertheless, the creditor must act with reasonable diligence to collect information needed to complete the application. For example, the creditor should request information from third parties, such as a credit report, promptly after receiving the application. If additional information is needed from the applicant, such as an address or a telephone number to verify employment, the creditor should contact the applicant promptly. (But see comment 9(a)(1)-3, which discusses the creditor's option to deny an application on the basis of incompleteness.)
+
+See interpretation of 2(f) Application.
+in Supplement I
+
+(g) Business credit refers to extensions of credit primarily for business or commercial (including agricultural) purposes, but excluding extensions of credit of the types described in § 1002.3(a)-(d).
+
+Official interpretation of 2(g) Business credit.
+
+1. Definition. The test for deciding whether a transaction qualifies as business credit is one of primary purpose. For example, an open-end credit account used for both personal and business purposes is not business credit unless the primary purpose of the account is business-related. A creditor may rely on an applicant's statement of the purpose for the credit requested.
+
+See interpretation of 2(g) Business credit.
+in Supplement I
+
+(h) Consumer credit means credit extended to a natural person primarily for personal, family, or household purposes.
+
+(i) Contractually liable means expressly obligated to repay all debts arising on an account by reason of an agreement to that effect.
+
+(j) Credit means the right granted by a creditor to an applicant to defer payment of a debt, incur debt and defer its payment, or purchase property or services and defer payment therefor.
+
+Official interpretation of 2(j) Credit.
+
+1. General. Regulation B covers a wider range of credit transactions than Regulation Z (Truth in Lending). Under Regulation B, a transaction is credit if there is a right to defer payment of a debt - regardless of whether the credit is for personal or commercial purposes, the number of installments required for repayment, or whether the transaction is subject to a finance charge.
+
+See interpretation of 2(j) Credit.
+in Supplement I
+
+(k) Credit card means any card, plate, coupon book, or other single credit device that may be used from time to time to obtain money, property, or services on credit.
+
+(l) Creditor means a person who, in the ordinary course of business, regularly participates in a credit decision, including setting the terms of the credit. The term creditor includes a creditor's assignee, transferee, or subrogee who so participates. For purposes of §§ 1002.4(a) and (b), the term creditor also includes a person who, in the ordinary course of business, regularly refers applicants or prospective applicants to creditors, or selects or offers to select creditors to whom requests for credit may be made. A person is not a creditor regarding any violation of the Act or this part committed by another creditor unless the person knew or had reasonable notice of the act, policy, or practice that constituted the violation before becoming involved in the credit transaction. The term does not include a person whose only participation in a credit transaction involves honoring a credit card.
+
+Official interpretation of 2(l) Creditor.
+
+1. Assignees. The term creditor includes all persons participating in the credit decision. This may include an assignee or a potential purchaser of the obligation who influences the credit decision by indicating whether or not it will purchase the obligation if the transaction is consummated.
+
+2. Referrals to creditors. For certain purposes, the term creditor includes persons such as real estate brokers, automobile dealers, home builders, and home-improvement contractors who do not participate in credit decisions but who only accept applications and refer applicants to creditors, or select or offer to select creditors to whom credit requests can be made. These persons must comply with § 1002.4(a), the general rule prohibiting discrimination, and with § 1002.4(b), the general rule against discouraging applications.
+
+See interpretation of 2(l) Creditor.
+in Supplement I
+
+(m) Credit transaction means every aspect of an applicant's dealings with a creditor regarding an application for credit or an existing extension of credit (including, but not limited to, information requirements; investigation procedures; standards of creditworthiness; terms of credit; furnishing of credit information; revocation, alteration, or termination of credit; and collection procedures).
+
+(n) Discriminate against an applicant means to treat an applicant less favorably than other applicants.
+
+(o) Elderly means age 62 or older.
+
+(p) Empirically derived and other credit scoring systems —
+
+Official interpretation of 2(p) Empirically derived and other credit scoring systems.
+
+1. Purpose of definition. The definition under § 1002.2(p)(1)(i) through (iv) sets the criteria that a credit system must meet in order to use age as a predictive factor. Credit systems that do not meet these criteria are judgmental systems and may consider age only for the purpose of determining a “pertinent element of creditworthiness.” (Both types of systems may favor an elderly applicant. See § 1002.6(b)(2).)
+
+2. Periodic revalidation. The regulation does not specify how often credit scoring systems must be revalidated. The credit scoring system must be revalidated frequently enough to ensure that it continues to meet recognized professional statistical standards for statistical soundness. To ensure that predictive ability is being maintained, the creditor must periodically review the performance of the system. This could be done, for example, by analyzing the loan portfolio to determine the delinquency rate for each score interval, or by analyzing population stability over time to detect deviations of recent applications from the applicant population used to validate the system. If this analysis indicates that the system no longer predicts risk with statistical soundness, the system must be adjusted as necessary to reestablish its predictive ability. A creditor is responsible for ensuring its system is validated and revalidated based on the creditor's own data.
+
+3. Pooled data scoring systems. A scoring system or the data from which to develop such a system may be obtained from either a single credit grantor or multiple credit grantors. The resulting system will qualify as an empirically derived, demonstrably and statistically sound, credit scoring system provided the criteria set forth in § 1002.2(p)(1)(i) through (iv) are met. A creditor is responsible for ensuring its system is validated and revalidated based on the creditor's own data when it becomes available.
+
+4. Disparate treatment. An empirically derived, demonstrably and statistically sound, credit scoring system may include age as a predictive factor (provided that the age of an elderly applicant is not assigned a negative factor or value). Besides age, no other prohibited basis may be used as a variable. Generally, credit scoring systems treat all applicants objectively and thus avoid problems of disparate treatment. In cases where a credit scoring system is used in conjunction with individual discretion, disparate treatment could conceivably occur in the evaluation process.
+
+See interpretation of 2(p) Empirically derived and other credit scoring systems.
+in Supplement I
+
+(1) A credit scoring system is a system that evaluates an applicant's creditworthiness mechanically, based on key attributes of the applicant and aspects of the transaction, and that determines, alone or in conjunction with an evaluation of additional information about the applicant, whether an applicant is deemed creditworthy. To qualify as an empirically derived, demonstrably and statistically sound, credit scoring system, the system must be:
+
+(i) Based on data that are derived from an empirical comparison of sample groups or the population of creditworthy and non-creditworthy applicants who applied for credit within a reasonable preceding period of time;
+
+(ii) Developed for the purpose of evaluating the creditworthiness of applicants with respect to the legitimate business interests of the creditor utilizing the system (including, but not limited to, minimizing bad debt losses and operating expenses in accordance with the creditor's business judgment);
+
+(iii) Developed and validated using accepted statistical principles and methodology; and
+
+(iv) Periodically revalidated by the use of appropriate statistical principles and methodology and adjusted as necessary to maintain predictive ability.
+
+(2) A creditor may use an empirically derived, demonstrably and statistically sound, credit scoring system obtained from another person or may obtain credit experience from which to develop such a system. Any such system must satisfy the criteria set forth in paragraph (p)(1)(i) through (iv) of this section; if the creditor is unable during the development process to validate the system based on its own credit experience in accordance with paragraph (p)(1) of this section, the system must be validated when sufficient credit experience becomes available. A system that fails this validity test is no longer an empirically derived, demonstrably and statistically sound, credit scoring system for that creditor.
+
+(q) Extend credit and extension of credit mean the granting of credit in any form (including, but not limited to, credit granted in addition to any existing credit or credit limit; credit granted pursuant to an open-end credit plan; the refinancing or other renewal of credit, including the issuance of a new credit card in place of an expiring credit card or in substitution for an existing credit card; the consolidation of two or more obligations; or the continuance of existing credit without any special effort to collect at or after maturity).
+
+(r) Good faith means honesty in fact in the conduct or transaction.
+
+(s) Inadvertent error means a mechanical, electronic, or clerical error that a creditor demonstrates was not intentional and occurred notwithstanding the maintenance of procedures reasonably adapted to avoid such errors.
+
+(t) Judgmental system of evaluating applicants means any system for evaluating the creditworthiness of an applicant other than an empirically derived, demonstrably and statistically sound, credit scoring system.
+
+(u) Marital status means the state of being unmarried, married, or separated, as defined by applicable state law. The term “unmarried” includes persons who are single, divorced, or widowed.
+
+(v) Negative factor or value, in relation to the age of elderly applicants, means utilizing a factor, value, or weight that is less favorable regarding elderly applicants than the creditor's experience warrants or is less favorable than the factor, value, or weight assigned to the class of applicants that are not classified as elderly and are most favored by a creditor on the basis of age.
+
+(w) Open-end credit means credit extended under a plan in which a creditor may permit an applicant to make purchases or obtain loans from time to time directly from the creditor or indirectly by use of a credit card, check, or other device.
+
+Official interpretation of 2(w) Open-end credit.
+
+1. Open-end real estate mortgages. The term “open-end credit” does not include negotiated advances under an open-end real estate mortgage or a letter of credit.
+
+See interpretation of 2(w) Open-end credit.
+in Supplement I
+
+(x) Person means a natural person, corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
+
+(y) Pertinent element of creditworthiness, in relation to a judgmental system of evaluating applicants, means any information about applicants that a creditor obtains and considers and that has a demonstrable relationship to a determination of creditworthiness.
+
+(z) Prohibited basis means race, color, religion, national origin, sex, marital status, or age (provided that the applicant has the capacity to enter into a binding contract); the fact that all or part of the applicant's income derives from any public assistance program; or the fact that the applicant has in good faith exercised any right under the Consumer Credit Protection Act or any state law upon which an exemption has been granted by the Bureau.
+
+Official interpretation of 2(z) Prohibited basis.
+
+1. Persons associated with applicant. As used in this part, prohibited basis refers not only to characteristics - the race, color, religion, national origin, sex, marital status, or age - of an applicant (or officers of an applicant in the case of a corporation) but also to the characteristics of individuals with whom an applicant is affiliated or with whom the applicant associates. This means, for example, that under the general rule stated in § 1002.4(a), a creditor may not discriminate against an applicant because of that person's personal or business dealings with members of a certain religion, because of the national origin of any persons associated with the extension of credit (such as the tenants in the apartment complex being financed), or because of the race of other residents in the neighborhood where the property offered as collateral is located.
+
+2. National origin. A creditor may not refuse to grant credit because an applicant comes from a particular country but may take the applicant's immigration status into account. A creditor may also take into account any applicable law, regulation, or executive order restricting dealings with citizens (or the government) of a particular country or imposing limitations regarding credit extended for their use.
+
+3. Public assistance program. Any Federal, state, or local governmental assistance program that provides a continuing, periodic income supplement, whether premised on entitlement or need, is “public assistance” for purposes of the regulation. The term includes (but is not limited to) Temporary Aid to Needy Families, food stamps, rent and mortgage supplement or assistance programs, social security and supplemental security income, and unemployment compensation. Only physicians, hospitals, and others to whom the benefits are payable need consider Medicare and Medicaid as public assistance.
+
+See interpretation of 2(z) Prohibited basis.
+in Supplement I
+
+(aa) State means any state, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+
+Previous section - § 1002.1
+
+§ 1002.1 Authority, scope and purpose.
+
+Next section - § 1002.3
+
+§ 1002.3 Limited exceptions for certain classes of transactions.

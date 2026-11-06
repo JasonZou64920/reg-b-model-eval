@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C48",
+    "label": "complies",
+    "reasoning": "Closing an account because of a delinquency on that same account is an action excluded from the definition of adverse action by 12 CFR 1002.2(c)(2)(ii), so no notice was required and the specific-reasons requirement of 1002.9(b)(2) was never triggered by Northgate sending none.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); 12 CFR 1002.9(a)(1) and (b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

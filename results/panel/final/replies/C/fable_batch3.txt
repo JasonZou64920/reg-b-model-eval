@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C53",
+    "label": "complies",
+    "reasoning": "The 640 bureau-score cutoff was the sole, automatic-denial factor Oakmont actually considered, so stating 'Credit score below our minimum requirement' discloses that specific factor as comments 9(b)(2)-2 and 9(b)(2)-8 require and accurately describes the component the applicant failed (comment 9(b)(2)-7), and it is not the bare statement that the applicant failed to achieve a qualifying score on the creditor's own credit scoring system that § 1002.9(b)(2) declares insufficient (the appended FCRA key factors are additional rather than the basis for compliance, per comment 9(b)(2)-9).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-7, 9(b)(2)-8, 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C63",
+    "label": "depends",
+    "reasoning": "Under comment 2(c)(1)(ii)-1 the closure for moving out of the service area is adverse action requiring a § 1002.9 notice unless termination on that ground was explicitly provided for in the credit agreement, and if it was not, the letter's statement that the account was closed 'in accordance with our account policies' is precisely the internal-standards-or-policies statement that § 1002.9(b)(2) declares insufficient, whereas if the agreement did provide for it there is no adverse action and § 1002.9(b)(2) is not triggered.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(ii); Supplement I comment 2(c)(1)(ii)-1",
+    "deciding_fact": "Whether Northgate's credit agreement with the cardholder explicitly provided for termination of the account upon the cardholder moving out of the Ohio/Indiana/Michigan service area (if not, the 'account policies' statement violates § 1002.9(b)(2); if so, the closure is not adverse action and no statement of specific reasons is required)."
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "Because the buyer accepted no credit, each bank's denial is adverse action that must be noticed directly or through the platform under § 1002.9(g), and a single third-party notice that gives reasons must, per comment 9(g)-1, clearly indicate which reasons relate to which creditor, so a combined list of 'Excessive obligations in relation to income' and 'Limited credit experience' with no attribution to Bank A versus Banks B and C fails to indicate each creditor's principal reason(s) as § 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g); Supplement I comment 9(g)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

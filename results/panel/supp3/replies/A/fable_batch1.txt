@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C45",
+    "label": "violates",
+    "reasoning": "The factor actually scored was the mismatch between the applicant's stated income ($85,000) and a bureau-derived income estimate ($52,000), not any failed attempt to verify income, so the notice's 'Unable to verify income' does not accurately describe the principal reason as 12 CFR 1002.9(b)(2) and its commentary require, and checking the closest Appendix C sample reason does not cure the inaccuracy.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-2 (reasons must relate to and accurately describe the factors actually considered or scored) and 9(b)(2)-4 (credit scoring system reasons must relate to factors actually scored); 12 CFR part 1002, Appendix C, paragraph 4 (checking the closest listed sample reason does not satisfy the requirement when it is not the factor actually used)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

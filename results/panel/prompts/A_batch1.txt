@@ -1,0 +1,54 @@
+You are one member of a model panel being tested on Regulation B cases. Do not use any tools, files or web access. Answer from the text below only. Treat each case as a separate, independent request: do not compare cases or let one answer influence another. Give your first answer for each; do not revise.
+
+Return a JSON array, one object per case, each with keys "id", "label", "reasoning", "citation", "deciding_fact", in the order the cases appear. Return only the JSON array, then one final line of the form "MODEL_ID: <your exact model identifier as stated in your system prompt>".
+
+===== REQUEST id=C01 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+Summit Lending makes unsecured personal loans and decides them with a gradient-boosted tree model. Its adverse action notices list four reasons, which are the four features with the highest global importance in the model's validation report: 'Proportion of balances to credit limits,' 'Number of recent inquiries,' 'Length of credit history,' and 'Delinquent past or present credit obligations with others.' The same four reasons appear on every declined applicant's notice.
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).
+===== REQUEST id=C16 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+Arcadia's model includes a feature equal to the applicant's revolving utilization (balances divided by limits) averaged over the past 24 months of bureau history. For an applicant whose largest negative feature is that average, the notice states 'Proportion of balances to credit limits on revolving accounts.'
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).
+===== REQUEST id=C30 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+Harbor Auto Finance's decline notices give no reasons but disclose the right to request a statement of reasons within 60 days, with the required contact details. An applicant requested reasons on day 45, and within 30 days Harbor replied in writing: 'Your application did not meet our credit standards.'
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).
+===== REQUEST id=C25 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+Meridian's personal-loan application asks for two recent pay stubs. An applicant did not upload them, Meridian declined the application, and the notice lists 'Credit application incomplete.'
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).
+===== REQUEST id=C10 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+An applicant to Pinecrest previously held a Pinecrest card that was charged off in 2023. The new application scored below the cutoff, and the notice lists the four scorecard characteristics with the largest shortfalls, none of which refers to the prior Pinecrest account.
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).

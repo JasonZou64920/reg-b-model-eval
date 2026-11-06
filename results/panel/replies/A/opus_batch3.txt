@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C02",
+    "label": "complies",
+    "reasoning": "Ranking characteristics by how far the applicant fell below the average points of applicants scoring at or slightly above the cutoff, and disclosing the top four, is one of the selection methods the official commentary to 12 CFR 1002.9(b)(2) expressly accepts, and nothing in 1002.9(b)(2) requires the reference averages to be recalculated, so the notice gives specific principal reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation 9(b)(2)-1 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C29",
+    "label": "violates",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the statement must be specific and indicate the principal reason, but 'We do not offer this product' is inaccurate (Granite does offer RV loans) and amounts to a bare reference to internal policy rather than stating that the requested 15-year term exceeds the credit union's 10-year maximum or that credit is not granted on the terms requested.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(2)(i); Appendix C, Form C-1 ('We do not grant credit to any applicant on the terms and conditions you request')",
+    "deciding_fact": null
+  },
+  {
+    "id": "C18",
+    "label": "complies",
+    "reasoning": "The disclosed reason reflects the factor actually scored in the validated model that was the largest negative contribution and identifies the specific characteristic (the type of mobile phone account) rather than an internal standard or failed score, so it meets the specificity and principal-reason requirements of 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation 9(b)(2)-4; CFPB Circular 2023-03",
+    "deciding_fact": null
+  },
+  {
+    "id": "C06",
+    "label": "violates",
+    "reasoning": "Because the applicant passed the scoring stage and was declined on the underwriter's judgmental finding of unverifiable income, 12 CFR 1002.9(b)(2) and its commentary on combined scoring and judgmental systems require the reasons to come from the judgmental component that was failed, so listing the two lowest scorecard characteristics misstates the principal reasons for the denial.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation 9(b)(2)-6 (combined credit scoring and judgmental system)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C11",
+    "label": "violates",
+    "reasoning": "The reasons section states only 'Credit score below our minimum requirement,' which is the failed-qualifying-score statement 12 CFR 1002.9(b)(2) declares insufficient, and the separately presented FCRA key-factor disclosure explains the bureau score rather than serving as the creditor's statement of specific reasons for the adverse action.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); FCRA 615(a), 15 U.S.C. 1681m(a) and 609(f), 15 U.S.C. 1681g(f)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

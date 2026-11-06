@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C46",
+    "label": "complies",
+    "reasoning": "The notice names the specific principal reason for the denial (a 52% debt-to-income ratio against a 45% threshold) rather than merely citing internal standards or a failed credit score, so it satisfies the specificity requirement of 12 CFR 1002.9(b)(2); the reference to credit policy only explains the threshold and does not make the stated reason a bare 'internal standards or policies' statement.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

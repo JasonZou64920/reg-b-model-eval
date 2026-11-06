@@ -1,0 +1,34 @@
+You are one member of a model panel being tested on Regulation B cases. Do not use any tools, files or web access. Answer from the text below only. Treat each case as a separate, independent request: do not compare cases or let one answer influence another. Give your first answer for each; do not revise.
+
+Return a JSON array, one object per case, each with keys "id", "label", "reasoning", "citation", "deciding_fact", in the order the cases appear. Return only the JSON array, then one final line of the form "MODEL_ID: <your exact model identifier as stated in your system prompt>".
+
+===== REQUEST id=C55 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+Harbor Auto Finance approves auto loans automatically at scores of 700 and above, declines automatically below 620, and sends scores from 620 to 699 to an underwriter. An applicant scored 655, with the largest scorecard shortfalls on revolving utilization and recent inquiries, and the underwriter declined after seeing that the applicant had changed jobs two months earlier. The notice lists one reason: 'Length of employment.'
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).
+===== REQUEST id=C53 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+Oakmont Bank screens personal-loan applications in two stages, and any applicant whose bureau credit score is below 640 is declined at the first stage before income or any other information is reviewed. An applicant scored 612, and the reasons section of the notice states 'Credit score below our minimum requirement,' followed by the FCRA credit score disclosure listing four key factors that adversely affected the score.
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).
+===== REQUEST id=C59 =====
+Label this case under 12 CFR 1002.9(b)(2) as complies, violates, or depends. If depends, name the deciding fact. Give one sentence of reasoning citing the specific provision.
+
+Rule text, 12 CFR 1002.9(b)(2), verbatim:
+(2) Statement of specific reasons. The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
+
+Case:
+Northgate's account-management model flagged a credit card account for closure because of a 60-day delinquency on that account. Northgate closed the account and mailed the cardholder a letter saying it was closed 'under our account-management policy.'
+
+Respond with only a JSON object with exactly these keys: "label" (one of "complies", "violates", "depends"), "reasoning" (one sentence), "citation" (the provision or provisions you rely on), "deciding_fact" (a string if label is "depends", otherwise null).

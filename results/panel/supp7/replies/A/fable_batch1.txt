@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C60",
+    "label": "violates",
+    "reasoning": "Summit evaluated the consumer's bureau data and communicated a denial, so its only stated reason, that her 'profile does not meet our lending criteria', is exactly the kind of bare statement that the adverse action was based on the creditor's internal standards or policies that 12 CFR 1002.9(b)(2) declares insufficient, and no specific principal reason was ever provided.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); comment 2(f)-3 (inquiry evaluated and declined is treated as an application)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

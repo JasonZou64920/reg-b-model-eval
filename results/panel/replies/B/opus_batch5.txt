@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C09",
+    "label": "complies",
+    "reasoning": "Because the application was declined at the knockout step for a recent repossession, comment 9(b)(2)-8 requires disclosure of that specific automatic-denial factor and comment 9(b)(2)-7 requires reasons from the component the applicant failed, so the monitoring-only score need not supply reasons and 'Foreclosure or repossession' satisfies 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-7, 9(b)(2)-8",
+    "deciding_fact": null
+  },
+  {
+    "id": "C13",
+    "label": "complies",
+    "reasoning": "Westfield's reason-selection method is one expressly approved by comment 9(b)(2)-5 and each listed reason is an actually scored factor, and comment 9(b)(2)-1 states the regulation mandates no specific number of reasons, so listing six (though more than four is 'not likely to be helpful') does not violate 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C21",
+    "label": "complies",
+    "reasoning": "The notice identifies the specific factor actually reviewed in Cedar's judgmental decision (the applicant's income falling below the minimum), using the sample Form C-2 language, rather than a bare reference to internal standards or policies, so it satisfies 12 CFR 1002.9(b)(2) and comments 9(b)(2)-3 and 9(b)(2)-6.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-6; Appendix C, Form C-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C23",
+    "label": "violates",
+    "reasoning": "Meridian denied the application because the model score, computed on bureau data and stated income, fell below the cutoff, so 'Credit application incomplete' does not relate to or accurately describe the factors actually scored, as comments 9(b)(2)-2 and 9(b)(2)-4 under 12 CFR 1002.9(b)(2) require.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C26",
+    "label": "complies",
+    "reasoning": "Northgate's $6,000 limit was a counteroffer that the applicant accepted by activating and using the card, so under 12 CFR 1002.2(c)(1)(i) no adverse action occurred and no statement of specific reasons under 12 CFR 1002.9(a)(2)(i) and (b)(2) was required.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

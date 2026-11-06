@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "Because the borrower requested the term extension through Lakeview's own modification form on a current (non-delinquent) account, the refusal to extend the term is adverse action under § 1002.2(c)(1)(i) and comment 2(c)(1)(i)-1, so the statement of reasons had to be specific, and telling her only that 'loan modifications are handled at our discretion' is exactly the kind of statement that the action was based on the creditor's internal standards or policies that § 1002.9(b)(2) declares insufficient (and the email also failed to offer the alternative § 1002.9(a)(2)(ii) disclosure of her right to request reasons).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)-(ii); 12 CFR 1002.2(c)(1)(i); Supplement I comment 2(c)(1)(i)-1; comment 2(c)(2)(ii)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "Because the denial resulted from the applicant scoring below the cutoff on a credit scoring system, comment 9(b)(2)-4 requires the disclosed reasons to relate only to factors actually scored, and listing the four scorecard characteristics with the largest shortfalls is an accepted selection method under comment 9(b)(2)-5, so the prior 2023 charge-off, which the scorecard does not score and which was not an automatic-denial factor here, properly stays out of the § 1002.9(b)(2) statement of specific reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1, 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-5, 9(b)(2)-8",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Because the missing income was information the applicant could supply and Meridian's model could not produce a score (and no decision on the merits was made) without it, the creditor lacked sufficient data for a credit decision, so under comment 9(a)(1)-3 it may deny the application within the 30 days allowed by § 1002.9(a)(1)(ii) and give 'Credit application incomplete' (a Form C-1 principal reason) as the specific reason, which satisfies § 1002.9(b)(2) rather than running into the comment 9(a)(1)-4 bar that applies only when enough data existed to decide on the merits.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(ii); 12 CFR 1002.9(c)(1); Supplement I comments 9(a)(1)-3 and 9(a)(1)-4; Appendix C Form C-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C04",
+    "label": "complies",
+    "reasoning": "Because the model is additive, each feature's SHAP value against an all-applicant development-period background equals that feature's score component minus its average among all applicants, so ranking the most negative values is the second method expressly approved in comment 9(b)(2)-5, and it yields four factors actually scored, as comments 9(b)(2)-1, -2 and -4 require.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1, 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C17",
+    "label": "depends",
+    "reasoning": "Under comment 9(b)(2)-2 the reason must accurately describe the factor actually scored, and since the model scored two income figures and did not run a verification step, 'Unable to verify income' is accurate only if the decline was driven by the gap between stated and bureau-estimated income, not by the low estimated income level or some other factor.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-4",
+    "deciding_fact": "Which scored factor was actually the principal reason for the decline: the discrepancy between the $85,000 stated income and the $52,000 bureau estimate (which 'Unable to verify income' can fairly describe), or the level of the estimated income or another factor (in which case the notice misdescribes the reason)."
+  },
+  {
+    "id": "C27",
+    "label": "depends",
+    "reasoning": "Granting a $6,000 limit in place of the $25,000 requested is a counteroffer that becomes adverse action requiring a statement of specific reasons under 12 CFR 1002.9(a)(2)(i) and (b)(2) only if the applicant did not use or expressly accept the card, and in that case the 90-day window in 1002.9(a)(1)(iv) has passed with no reasons given.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 card; if not, adverse action occurred and the failure to give specific reasons within 90 days is a violation."
+  },
+  {
+    "id": "C05",
+    "label": "violates",
+    "reasoning": "The 655 score fell in the 620-699 gray band and the denial followed a judgmental review, so comment 9(b)(2)-7 requires the disclosed reasons to come from both the scoring and the judgmental components, and a notice listing only the underwriter's 'Length of employment' omits the scoring component's principal reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-4, 9(b)(2)-7",
+    "deciding_fact": null
+  },
+  {
+    "id": "C12",
+    "label": "complies",
+    "reasoning": "Because the bureau score is Oakmont's only criterion, the factors that adversely affected that score are the factors actually scored that drove the denial under comments 9(b)(2)-2 and -4, and stating them as specific reasons in the reasons section, rather than relying only on the FCRA key-factor disclosure or saying the applicant failed to reach a qualifying score, meets 12 CFR 1002.9(b)(2) and is consistent with comment 9(b)(2)-9.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-9",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

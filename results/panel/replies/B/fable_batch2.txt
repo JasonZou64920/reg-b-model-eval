@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C04",
+    "label": "complies",
+    "reasoning": "In a generalized additive model each feature's SHAP value against an all-applicant background is the amount that applicant's component score falls below the average component score achieved by all applicants, so ranking the four most negative values is the second method expressly approved in comment 9(b)(2)-5 (averages may be computed during development), the reasons relate only to factors actually scored as comment 9(b)(2)-4 requires, and four reasons is within the number comment 9(b)(2)-1 treats as helpful.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C17",
+    "label": "violates",
+    "reasoning": "Comment 9(b)(2)-2 requires reasons that relate to and accurately describe the factors actually considered or scored, and 'Unable to verify income' describes a verification step the creditor never performed rather than the stated-income and bureau-estimated-income inputs (or the gap between them) that the model actually scored, so the disclosed reason mischaracterizes the factor in a way comments 9(b)(2)-2 and 9(b)(2)-4 do not permit.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C27",
+    "label": "depends",
+    "reasoning": "The specific-reasons requirement of § 1002.9(b)(2) applies only if adverse action occurred, and under § 1002.2(c)(1)(i) a counteroffer of $6,000 on a $25,000 request is adverse action unless the applicant uses or expressly accepts the credit offered, in which case § 1002.9(a)(1)(iv) and (a)(2) required a notice with specific reasons or a disclosure of the right to request them within 90 days, so Northgate's silence at 120 days violates only if the applicant never used or accepted the $6,000 line.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iv), 1002.9(a)(2); 12 CFR 1002.2(c)(1)(i)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 credit line (counteroffer) within 90 days of the letter; if not, the counteroffer became adverse action and the missing reasons or right-to-reasons disclosure is a violation."
+  },
+  {
+    "id": "C05",
+    "label": "violates",
+    "reasoning": "Comment 9(b)(2)-7 provides that when an application falls into a gray band and is denied after a judgmental assessment, the reasons must come from both the credit scoring and judgmental components, but Harbor disclosed only the judgmental factor ('Length of employment') and omitted the scored factors that kept the 655 score below the 700 automatic-approval threshold, which comment 9(b)(2)-4 also forbids excluding when they were principal reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-7, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C12",
+    "label": "complies",
+    "reasoning": "Because the bureau score is Oakmont's sole underwriting criterion, the factors that drove that score are the factors actually scored and the principal reasons for the denial under comments 9(b)(2)-2 and 9(b)(2)-4, and listing them in the ECOA reasons section worded as reasons for the denial, rather than relying on the FCRA key-factor disclosure alone, satisfies the distinction drawn in comment 9(b)(2)-9 and avoids the insufficient bare statement that the applicant failed to achieve a qualifying score.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-9",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "C01",
+    "label": "violates",
+    "reasoning": "Global feature importances that appear identically on every declined applicant's notice are not the applicant-specific principal reasons for each denial, so the notices do not accurately describe the factors that actually drove each adverse action.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-2; comment 9(b)(2)-4; comment 9(b)(2)-5",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C02",
+    "label": "complies",
+    "reasoning": "Ranking characteristics by the applicant's shortfall from the average points of applicants at or slightly above the cutoff is the first method the commentary approves, and the commentary expressly allows those averages to be calculated during development of the system, so using the 2021 development-time averages is acceptable.",
+    "citation": "comment 9(b)(2)-5; comment 9(b)(2)-1",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C03",
+    "label": "depends",
+    "reasoning": "Ranking by distance from the maximum available points is neither of the two approved average-based methods, so it is acceptable only if it produces results substantially similar to one of them, which the facts do not state.",
+    "citation": "comment 9(b)(2)-5; comment 9(b)(2)-4",
+    "deciding_fact": "Whether Ridgeway's maximum-points ranking produces results substantially similar to either average-based method in comment 9(b)(2)-5: if it does, complies; if it does not, violates.",
+    "confidence": "medium",
+    "defensible_alternative": "violates: a reviewer could treat a maximum-points benchmark as not substantially similar on its face, because it flags characteristics on which most applicants fall short of the maximum rather than those on which this applicant fell short of typical or near-cutoff applicants."
+  },
+  {
+    "id": "C04",
+    "label": "complies",
+    "reasoning": "Because the model is additive, each feature's SHAP value against a background of all development-period applicants equals the applicant's score component minus the average component for all applicants, which is the second method the commentary approves, with averages calculated during development.",
+    "citation": "comment 9(b)(2)-5; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C05",
+    "label": "violates",
+    "reasoning": "For a gray-band application denied after judgmental review the reasons must come from both the scoring and judgmental components, so a notice listing only the underwriter's 'Length of employment' omits the required scoring-component reasons.",
+    "citation": "comment 9(b)(2)-7; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C06",
+    "label": "violates",
+    "reasoning": "The applicant passed the scoring stage (742 against a 700 approval line) and was denied on a judgmental income-verification finding, so the reasons must relate to the factors reviewed judgmentally, and listing two scorecard characteristics as reasons misstates what drove the denial.",
+    "citation": "comment 9(b)(2)-7; comment 9(b)(2)-2; 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "complies: the actual principal reason ('Unable to verify income') was disclosed first, the added items were factors actually scored, and no text expressly bars disclosing additional reasons beyond the principal one."
+  },
+  {
+    "id": "C07",
+    "label": "violates",
+    "reasoning": "A gray-band denial requires reasons from both components and no principal reason may be excluded, and the four-reason guidance is not a cap, so dropping the underwriter's 'Unable to verify income' to fit a four-line template violates the rule.",
+    "citation": "comment 9(b)(2)-7; comment 9(b)(2)-4; comment 9(b)(2)-1",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C08",
+    "label": "violates",
+    "reasoning": "When credit is denied on an automatic-denial factor the creditor must disclose that specific factor, so checking 'Delinquent past or present credit obligations with others' instead of 'Bankruptcy' substitutes a closest-fit reason for the actual one.",
+    "citation": "comment 9(b)(2)-8; appendix C, para. 4; comment 9(b)(2)-2",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C09",
+    "label": "complies",
+    "reasoning": "The denial occurred at the knockout step for a recent repossession and the notice disclosed that specific automatic-denial factor, while the score computed only for portfolio monitoring was not the component on which the decision rested.",
+    "citation": "comment 9(b)(2)-8; comment 9(b)(2)-7; comment 9(b)(2)-2",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C10",
+    "label": "depends",
+    "reasoning": "Prior bad credit history with the same creditor is a recognized automatic-denial factor, so whether the four scorecard reasons are complete turns on whether Pinecrest's knockout rules declined this applicant for the 2023 Pinecrest charge-off, which the facts do not state.",
+    "citation": "comment 9(b)(2)-8; comment 9(b)(2)-7; comment 9(b)(2)-4",
+    "deciding_fact": "Whether Pinecrest's decision engine applied an automatic-denial (knockout) rule for the prior charged-off Pinecrest account: if not, and the denial rested on the score, complies; if so, that factor had to be disclosed and the notice violates.",
+    "confidence": "medium",
+    "defensible_alternative": "complies: read literally, the facts present the denial as a score decline, and the four largest shortfalls are the reasons comments 9(b)(2)-4 and 9(b)(2)-5 call for."
+  },
+  {
+    "id": "C11",
+    "label": "violates",
+    "reasoning": "Stating that the credit score was below the creditor's minimum is a statement that the applicant failed to achieve a qualifying score, which 1002.9(b)(2) calls insufficient, and the FCRA key-factor disclosure that follows does not satisfy the ECOA reasons requirement.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-9; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C12",
+    "label": "complies",
+    "reasoning": "Because the denial rested solely on the bureau score, the factors that lowered that score are the factors actually scored, and Oakmont stated them as ECOA reasons in the reasons section separately from the FCRA key-factor disclosure, which is what comment 9(b)(2)-9 requires.",
+    "citation": "comment 9(b)(2)-4; comment 9(b)(2)-9; 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "violates: a strict reader of comment 9(b)(2)-9 could say that restating the bureau's key factors, selected by the score developer for FCRA purposes, cannot by itself satisfy the separate ECOA requirement to disclose specific reasons."
+  },
+  {
+    "id": "C13",
+    "label": "complies",
+    "reasoning": "The regulation mandates no number of reasons and only cautions that more than four is not likely to be helpful, so disclosing six accurately ranked principal reasons does not violate the rule.",
+    "citation": "comment 9(b)(2)-1; comment 9(b)(2)-5",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C14",
+    "label": "violates",
+    "reasoning": "With four nearly equal shortfalls (22, 21, 19 and 18 points) far above every other characteristic, all four are principal reasons, and a policy of disclosing only the largest excludes principal reasons, which the commentary forbids.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-1; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C15",
+    "label": "violates",
+    "reasoning": "The model has no income or debt-to-income input, so 'Excessive obligations in relation to income' does not relate to or accurately describe the factor actually scored, and checking the closest checklist reason does not satisfy the notice requirement.",
+    "citation": "comment 9(b)(2)-2; comment 9(b)(2)-4; appendix C, para. 4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C16",
+    "label": "complies",
+    "reasoning": "The disclosed reason names the factor actually scored, revolving utilization, and the creditor need not describe how the factor was measured or why it adversely affected the applicant.",
+    "citation": "comment 9(b)(2)-2; comment 9(b)(2)-3; appendix C, para. 4",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "violates: a reviewer could say omitting the 24-month averaging fails to accurately describe the factor, since an applicant with low current utilization would not recognize the reason."
+  },
+  {
+    "id": "C17",
+    "label": "depends",
+    "reasoning": "The model scores stated and bureau-estimated income but performs no verification step, so whether 'Unable to verify income' accurately describes the factor that drove the denial turns on which feature was the principal negative contribution, which the facts do not state.",
+    "citation": "comment 9(b)(2)-2; comment 9(b)(2)-4; appendix C, para. 4",
+    "deciding_fact": "Whether the principal negative contribution came from the gap between the $85,000 stated income and the $52,000 bureau estimate: if so, 'Unable to verify income' fairly describes that failed corroboration and complies; if it came from the income level itself or another feature, the reason misdescribes the scored factor and violates.",
+    "confidence": "low",
+    "defensible_alternative": "violates: the model never attempts verification, so a reason describing a verification failure does not relate to any factor actually scored, whatever drove the score."
+  },
+  {
+    "id": "C18",
+    "label": "complies",
+    "reasoning": "The prepaid-line feature was actually scored and was the largest negative contribution, and the creditor must disclose the actual factor even when its relationship to creditworthiness may not be clear to the applicant.",
+    "citation": "comment 9(b)(2)-4; comment 9(b)(2)-2",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C19",
+    "label": "violates",
+    "reasoning": "The factor actually scored was vehicle model year, and mapping it to the checklist line 'Value or type of collateral not sufficient' checks the closest listed factor instead of disclosing the actual one, as the commentary's 'age of automobile' example requires.",
+    "citation": "comment 9(b)(2)-4; appendix C, para. 4; comment 9(b)(2)-2",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "complies: the vehicle is the collateral and its model year is an attribute of the collateral's type and value, so the checklist line arguably describes the scored factor without needing to say how it hurt the applicant (comment 9(b)(2)-3)."
+  },
+  {
+    "id": "C20",
+    "label": "violates",
+    "reasoning": "'Credit history' does not specifically describe the scored factor, the number of 60-day or worse delinquencies in the past 24 months, where the commentary requires disclosing that the denial was based on delinquent credit obligations.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-9; comment 9(b)(2)-2",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C21",
+    "label": "complies",
+    "reasoning": "Cedar judgmentally reviewed verified income against its threshold and checked the Form C-2 line naming that factor, and proper use of Form C-2 satisfies the reasons requirement.",
+    "citation": "appendix C, para. 5; comment 9(b)(2)-6; 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C22",
+    "label": "complies",
+    "reasoning": "The refusal is adverse action because Granite offers the credit type but not the requested maturity, and the notice states the specific, accurate reason (the requested 84-month term exceeds the 72-month maximum for vehicles over five years old) rather than a bare reference to internal standards.",
+    "citation": "comment 2(c)(2)(v)-1; 12 CFR 1002.9(b)(2); comment 9(b)(2)-2",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C23",
+    "label": "violates",
+    "reasoning": "Meridian had enough data to score and decide the application on the merits, so 'Credit application incomplete' cannot be given as the reason and the specific scored reasons were required.",
+    "citation": "comment 9(a)(1)-4; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Without stated income the model could not produce a decision, so the application lacked sufficient data, and the creditor may deny it within 30 days giving incompleteness as the reason.",
+    "citation": "comment 9(a)(1)-3; 12 CFR 1002.9(c)(1)(i)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C25",
+    "label": "depends",
+    "reasoning": "Incompleteness is a permissible reason only if the missing pay stubs left Meridian without sufficient data for a credit decision, and the facts do not say whether it decided the application on the merits.",
+    "citation": "comment 9(a)(1)-3; comment 9(a)(1)-4",
+    "deciding_fact": "Whether Meridian had sufficient data to make a credit decision without the pay stubs: if it lacked sufficient data and denied for incompleteness, complies; if it had sufficient data and evaluated the application on the merits, violates.",
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C26",
+    "label": "complies",
+    "reasoning": "Granting $6,000 against a $25,000 request is a counteroffer, and because the applicant activated and used the card there is no adverse action, so no statement of reasons was owed.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(i); comment 9(a)(1)-2",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C27",
+    "label": "depends",
+    "reasoning": "The $6,000 counteroffer is adverse action unless the applicant used or expressly accepted it, in which case a notice with reasons or the right to reasons was due within 90 days of the counteroffer, and the facts do not say whether the applicant accepted or used the card.",
+    "citation": "12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(2)",
+    "deciding_fact": "Whether the applicant expressly accepted or used the $6,000 card: if yes, there is no adverse action and Northgate complies; if no, a notice with reasons or the right to reasons was due by day 90, and its absence at day 120 violates.",
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C28",
+    "label": "violates",
+    "reasoning": "A 30 percent limit cut on about 8 percent of accounts selected by behavior score is an unfavorable change that does not affect all or substantially all of a class of accounts, so it is adverse action, and 'part of a portfolio-wide risk management review' states neither specific reasons nor the right to them.",
+    "citation": "12 CFR 1002.2(c)(1)(ii); comment 2(c)(1)(ii)-2; 12 CFR 1002.9(a)(2); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C29",
+    "label": "violates",
+    "reasoning": "Granite offers RV loans and refused only the requested 15-year maturity, which is a term rather than a type of credit, so the refusal is adverse action and 'We do not offer this product' neither accurately nor specifically states the actual reason.",
+    "citation": "comment 2(c)(2)(v)-1; 12 CFR 1002.2(c)(2)(v); 12 CFR 1002.9(b)(2); comment 9(b)(2)-2",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C30",
+    "label": "violates",
+    "reasoning": "The written reply 'Your application did not meet our credit standards' is a statement that the action was based on the creditor's internal standards, which 1002.9(b)(2) declares insufficient, even though the request and reply were timely.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(ii)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "C53",
+    "facts": "Oakmont Bank screens personal-loan applications in two stages, and any applicant whose bureau credit score is below 640 is declined at the first stage before income or any other information is reviewed. An applicant scored 612, and the reasons section of the notice states 'Credit score below our minimum requirement,' followed by the FCRA credit score disclosure listing four key factors that adversely affected the score."
+  },
+  {
+    "id": "C54",
+    "facts": "Meridian Bank's personal-loan model cannot produce a score without stated annual income. An applicant submitted an application with the income field blank, and within 30 days Meridian sent an adverse action notice listing 'Credit application incomplete.'"
+  },
+  {
+    "id": "C55",
+    "facts": "Harbor Auto Finance approves auto loans automatically at scores of 700 and above, declines automatically below 620, and sends scores from 620 to 699 to an underwriter. An applicant scored 655, with the largest scorecard shortfalls on revolving utilization and recent inquiries, and the underwriter declined after seeing that the applicant had changed jobs two months earlier. The notice lists one reason: 'Length of employment.'"
+  },
+  {
+    "id": "C56",
+    "facts": "An applicant to Pinecrest Card Services previously held a Pinecrest card that was charged off in 2023, and Pinecrest's scorecard has no characteristic for prior Pinecrest accounts. The new application scored below the cutoff, and the notice lists the four scorecard characteristics with the largest shortfalls."
+  },
+  {
+    "id": "C57",
+    "facts": "An auto dealer's financing platform sent a buyer's credit application to three banks. Bank A declined because of the buyer's obligations relative to income, Banks B and C declined because of limited credit experience, and the buyer paid cash. The platform sent one adverse action notice on behalf of all three banks that gives each bank's name and address and lists two reasons: 'Excessive obligations in relation to income' and 'Limited credit experience.'"
+  },
+  {
+    "id": "C58",
+    "facts": "Fairway Lending's personal-loan model takes both the applicant's stated income and a bureau-derived income estimate as inputs. An applicant stated $85,000 against an estimate of $52,000, the application was declined, and the notice lists 'Income stated on application inconsistent with income estimated from credit report.'"
+  },
+  {
+    "id": "C59",
+    "facts": "Northgate's account-management model flagged a credit card account for closure because of a 60-day delinquency on that account. Northgate closed the account and mailed the cardholder a letter saying it was closed 'under our account-management policy.'"
+  }
+]

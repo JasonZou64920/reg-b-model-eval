@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C49",
+    "label": "violates",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the statement must be specific and indicate the principal reason(s) for the adverse action, and here the principal reason was the underwriter's finding that income could not be verified, so a notice listing only the four scorecard characteristics with the largest shortfalls (for an applicant the scoring system did not itself decline) does not disclose the actual principal reason.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C49",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) requires the statement of reasons to be specific and to indicate the principal reason(s) for the adverse action, but the underwriter actually declined because the applicant's income could not be verified, while the notice listed only the four largest scorecard shortfalls and so never disclosed that principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i) (as referenced in the rule text)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

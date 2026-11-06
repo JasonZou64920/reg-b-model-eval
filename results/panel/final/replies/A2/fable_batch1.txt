@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C58",
+    "label": "complies",
+    "reasoning": "The notice names the actual factor the model weighed, the mismatch between the applicant's stated income and the bureau-derived income estimate, which is a specific principal reason that relates to and accurately describes a factor actually considered (comment 9(b)(2)-2) rather than a bare reference to internal standards or a failed score, so it satisfies 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "Regulation B lets a creditor respond to an incomplete application by taking adverse action and giving a notice under 12 CFR 1002.9(c)(1)(i), and 'Credit application incomplete' is the specific principal reason for this denial (it is also a listed reason on sample Form C-1 in Appendix C), so the statement meets 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); 12 CFR part 1002, Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C55",
+    "label": "violates",
+    "reasoning": "Because the 655 score fell into the gray band and the denial followed a judgmental review, comment 9(b)(2)-7 requires the disclosed reasons to come from both the scoring and judgmental components, so a notice citing only 'Length of employment' while omitting the principal scorecard shortfalls (revolving utilization and recent inquiries) fails to indicate the principal reasons as 12 CFR 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-7",
+    "deciding_fact": null
+  },
+  {
+    "id": "C59",
+    "label": "complies",
+    "reasoning": "Terminating an account because of delinquency on that same account is excluded from the definition of adverse action by 12 CFR 1002.2(c)(2)(ii), so no statement of specific reasons was required under 1002.9(a)(2)(i) and the vague 'account-management policy' letter, although it would be insufficient if a statement of reasons were owed, does not violate 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(2)(ii)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

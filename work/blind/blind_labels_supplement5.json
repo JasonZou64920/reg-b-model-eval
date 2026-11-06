@@ -1,0 +1,29 @@
+[
+  {
+    "id": "C50",
+    "label": "violates",
+    "reasoning": "The cardholder applied for a credit limit increase through Northgate's own procedures, and refusing such a request is adverse action that the point-of-sale exclusion expressly does not cover, so the 'Purchase declined: over limit' message, with no notice, gave neither specific reasons nor the right to them.",
+    "citation": "12 CFR 1002.2(c)(1)(iii); 12 CFR 1002.2(c)(2)(iii); comment 2(c)(2)(iii)-2; 12 CFR 1002.9(a)(2); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C51",
+    "label": "depends",
+    "reasoning": "Closing a card account because the cardholder moved out of the issuer's service area is adverse action requiring notice unless the credit agreement explicitly provided for termination on that ground, and the facts do not say what the agreement provides.",
+    "citation": "comment 2(c)(1)(ii)-1; 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.9(a)(1)(iii)",
+    "deciding_fact": "Whether Northgate's credit agreement explicitly provided for termination if the cardholder moved out of the service area: if it did, the closure is not adverse action and Northgate complies; if it did not, a notice was required and Northgate violates.",
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C52",
+    "label": "violates",
+    "reasoning": "Refusing a request to extend a loan's term, made through the creditor's own procedures, is adverse action, and an email saying modifications are 'handled at our discretion' gives no specific reason, amounting to a reference to internal policy that 1002.9(b)(2) calls insufficient, and it also does not disclose the right to a statement of reasons.",
+    "citation": "comment 2(c)(1)(i)-1; 12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

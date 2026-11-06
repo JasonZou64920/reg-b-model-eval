@@ -1,0 +1,11 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "Refusing a term extension requested through the creditor's own modification form is adverse action, the on-time payment history rules out the delinquency exclusion, and an email saying modifications are 'handled at our discretion' states no specific reason, amounting to an internal-policy statement that 1002.9(b)(2) calls insufficient, and it does not disclose the right to a statement of reasons.",
+    "citation": "comment 2(c)(1)(i)-1; 12 CFR 1002.2(c)(1)(i); 12 CFR 1002.2(c)(2)(ii); 12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

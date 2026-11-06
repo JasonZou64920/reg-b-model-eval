@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C53",
+    "label": "complies",
+    "reasoning": "Although the bare phrase 'credit score below our minimum requirement' would by itself resemble the insufficient 'failed to achieve a qualifying score' and 'internal standards' statements in 1002.9(b)(2), the score here is an outside bureau score that was the only factor used at the first stage, so it is the actual principal reason, and the four FCRA key factors listed in the notice supply the specific reasons the applicant's score was low.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C63",
+    "label": "violates",
+    "reasoning": "Under 1002.9(b)(2) a statement that the action was taken 'in accordance with our account policies' is an expressly insufficient internal-policy explanation, because the actual and easily stated principal reason (the cardholder moved outside Ohio, Indiana and Michigan, where the card is offered) was not disclosed.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "A single third-party notice that names all three banks but lists both reasons without saying which bank acted for which reason leaves each bank's statement including a reason that was not its own, so it does not accurately indicate each creditor's principal reason(s) as 1002.9(b)(2) requires, even though 1002.9(g) permits a third party to give the notice if it identifies each creditor.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

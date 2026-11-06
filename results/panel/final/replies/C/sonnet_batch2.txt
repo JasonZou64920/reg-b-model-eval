@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "A request to extend the remaining term of a loan made through the creditor's own modification form is adverse action when refused (§ 1002.2(c)(1)(i); comment 2(c)(1)(i)-1), and telling the borrower that modifications are 'handled at our discretion' is a bare statement of internal policy that gives no specific principal reason, which § 1002.9(b)(2) says is insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i); Comment 2(c)(1)(i)-1; Comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "Because the denial rested on a score below the cutoff and the notice lists the four scored characteristics with the largest shortfalls, it satisfies § 1002.9(b)(2) and comments 9(b)(2)-4 and -5, which require reasons to relate only to factors actually scored, so the unscored 2023 charge-off need not be disclosed.",
+    "citation": "12 CFR 1002.9(b)(2); Comment 9(b)(2)-2; Comment 9(b)(2)-4; Comment 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Where the application is incomplete in information the applicant can supply and the creditor lacks enough data to decide (its model cannot score without income), comment 9(a)(1)-3 expressly permits denial citing incompleteness, and the timely notice with that reason (a listed reason on Form C-1) meets § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(ii); Comment 9(a)(1)-3; Comment 9(a)(1)-4; Appendix C, Form C-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C37",
+    "label": "complies",
+    "reasoning": "The checked reason 'Poor credit performance with us' is a specific reason that relates to and accurately describes the principal factor actually considered (the applicant's prior Pinecrest account charged off within five years), and it is not a bare statement that the denial rested on internal standards or policies or on a failed credit score, so it satisfies 12 CFR 1002.9(b)(2); the fact that the rule ran before any score was computed does not matter because the stated reason is the actual non-score factor, and the creditor need not explain how or why that factor hurt the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-2 (reasons must relate to and accurately describe factors actually considered) and comment 9(b)(2)-3 (creditor need not describe how or why a factor adversely affected the applicant); Appendix C to Part 1002, Sample Form C-1 (listing 'Poor credit performance with us' as a model reason)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

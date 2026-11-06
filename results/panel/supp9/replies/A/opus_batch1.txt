@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C63",
+    "label": "violates",
+    "reasoning": "Closing the account is adverse action, and a notice saying only that it was closed 'in accordance with our account policies' is the kind of statement that the adverse action was based on the creditor's internal standards or policies, which 12 CFR 1002.9(b)(2) expressly declares insufficient; Northgate had to state the specific principal reason, which here is that the cardholder now lives outside its Ohio, Indiana and Michigan service area.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

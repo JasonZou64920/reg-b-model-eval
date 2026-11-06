@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C53",
+    "label": "violates",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) a statement that the applicant's score fell below the creditor's minimum is an insufficient internal-standard/qualifying-score reason, and per comment 9(b)(2)-9 the separate FCRA key-factor disclosure does not satisfy the ECOA duty to state the specific principal reasons in the statement of reasons.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Official Interpretation comments 9(b)(2)-4 and 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C63",
+    "label": "violates",
+    "reasoning": "Closing an open account because the cardholder moved outside the service area is adverse action under 12 CFR 1002.2(c)(1)(ii), and 12 CFR 1002.9(b)(2) makes a statement that the action was taken 'in accordance with our account policies' insufficient because it cites only internal policies rather than the specific reason (residence outside the creditor's service area).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iii); 12 CFR 1002.2(c)(1)(ii)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "Because the buyer used no offered credit, each bank had to give notice under 12 CFR 1002.9(g), and a single third-party notice that states reasons must, per comment 9(g)-1 read with 12 CFR 1002.9(b)(2), give the principal reasons each creditor relied on and clearly indicate which reasons relate to which creditor, which this pooled list of two reasons does not do.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g); Official Interpretation comment 9(g)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

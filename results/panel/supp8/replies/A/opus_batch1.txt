@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C61",
+    "label": "complies",
+    "reasoning": "Because the applicant did not supply the requested pay stubs within the reasonable period designated in a proper notice of incompleteness, Meridian had no further notification obligation under 12 CFR 1002.9(c)(2), and in any event its closure letter names the actual principal reason (the required information was not received by the deadline) rather than a bare reference to internal standards or a failed credit score, which satisfies the specificity requirement of 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C45",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2), the notice must state the specific principal reason actually used, and 'Unable to verify income' accurately and specifically describes the decisive feature, which penalized the failure of the bureau-derived estimate ($52,000) to corroborate the applicant's stated income ($85,000), rather than pointing vaguely to internal standards or a failed score.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

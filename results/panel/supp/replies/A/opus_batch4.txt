@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C35",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the statement of reasons must be specific and indicate the principal reason(s); Northgate's notice named two concrete principal reasons ('Excessive obligations in relation to income' and 'Limited credit experience') instead of the forbidden general statements about internal standards or policies or a failed qualifying score, and the fact that the card was never activated and nothing more was sent after 120 days does not affect whether those reasons were specific.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

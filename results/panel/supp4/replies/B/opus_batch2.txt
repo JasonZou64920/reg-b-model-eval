@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C48",
+    "label": "complies",
+    "reasoning": "Section 1002.9(b)(2) only governs the content of a statement of reasons that paragraph (a)(2)(i) requires, and closing an account because of a delinquency on that same account is excluded from the definition of adverse action under 12 CFR 1002.2(c)(2)(ii), so Northgate owed no statement of reasons and sending no notice does not violate 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(2)(ii)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

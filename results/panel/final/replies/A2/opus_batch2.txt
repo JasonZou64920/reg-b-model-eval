@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "Because the current borrower asked through Lakeview's own modification request form, refusing to extend the term is adverse action on an application, and a notice saying only that modifications are 'handled at our discretion' is a statement that the action rested on the creditor's internal standards or policies, which 12 CFR 1002.9(b)(2) expressly makes insufficient since it gives no specific principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i) and Official Interpretation 2(c)(1)(i)-1 (refusal to refinance or extend the term of a loan is adverse action when the applicant applied under the creditor's procedures); the 1002.2(c)(2)(ii) delinquency/default exclusion does not apply because every installment was paid on time",
+    "deciding_fact": null
+  },
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "The application was denied for scoring below the cutoff, and under 12 CFR 1002.9(b)(2) and its commentary the reasons for a score-based denial must relate only to factors actually scored, so listing the four scorecard characteristics with the largest shortfalls gives specific principal reasons, and the unscored prior Pinecrest charge-off neither could nor needed to be disclosed.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretations 9(b)(2)-1 (no more than four reasons needed), 9(b)(2)-2 and 9(b)(2)-4 (reasons must relate to factors actually scored), 9(b)(2)-5 (method for selecting scored reasons)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "When an application is incomplete a creditor may send an adverse action notice instead of a notice of incompleteness, and because Meridian made no decision on the merits, 'Credit application incomplete' is the specific principal reason for the action and satisfies 12 CFR 1002.9(b)(2), since it does not rely on internal standards or a failed score.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i) and 1002.9(a)(1); Appendix C sample form C-1 (lists 'Credit application incomplete' as a reason)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

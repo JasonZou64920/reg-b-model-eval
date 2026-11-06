@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C01",
+    "label": "violates",
+    "reasoning": "Printing the same four model-wide global-importance features on every declined applicant's notice does not identify the principal reasons for each applicant's own adverse action, so the reasons do not relate to and accurately describe the factors that actually drove that applicant's denial, and an applicant-specific principal reason can be left out, contrary to 12 CFR 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1, 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C16",
+    "label": "complies",
+    "reasoning": "The notice names the applicant's largest negative scored factor, revolving utilization, in terms that accurately describe it, and under comment 9(b)(2)-3 the creditor need not explain how the factor was calculated or why it hurt the applicant, so the 24-month averaging does not have to be spelled out to meet 12 CFR 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C30",
+    "label": "violates",
+    "reasoning": "Harbor met the timing for a requested statement of reasons, but 'did not meet our credit standards' is a statement that the adverse action rested on the creditor's internal standards or policies, which 12 CFR 1002.9(b)(2) expressly calls insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(ii); Supplement I, comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "The application was declined because the required pay stubs were never provided, and 'Credit application incomplete' (a reason listed on the Appendix C sample forms) accurately describes the factor that actually caused the denial, so it is a specific principal reason under 12 CFR 1002.9(b)(2) and comment 9(b)(2)-2.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); Supplement I, comment 9(b)(2)-2; Appendix C sample forms",
+    "deciding_fact": null
+  },
+  {
+    "id": "C10",
+    "label": "depends",
+    "reasoning": "If the denial came only from the scorecard, disclosing the four characteristics with the largest shortfalls is a permitted selection method under comments 9(b)(2)-4 and 9(b)(2)-5, but if the prior Pinecrest charge-off triggered an automatic-denial rule or was otherwise a principal reason for the denial, comment 9(b)(2)-8 and comment 9(b)(2)-4 require that specific factor to be disclosed and leaving it out violates 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-4, 9(b)(2)-5, 9(b)(2)-7, 9(b)(2)-8",
+    "deciding_fact": "Whether Pinecrest's decision process treated the applicant's prior charged-off Pinecrest account as an automatic-denial factor or otherwise as a principal reason for the denial, rather than denying solely on the scorecard result."
+  }
+]
+MODEL_ID: claude-opus-5-5

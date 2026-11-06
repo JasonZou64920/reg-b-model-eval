@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C02",
+    "label": "complies",
+    "reasoning": "Ranking characteristics by how far the applicant's points fall below the averages achieved by applicants at or slightly above the cutoff is the first method expressly approved in comment 9(b)(2)-5, which also states that those averages 'could be calculated during the development or use of the system,' so relying on averages computed when the scorecard was built in 2021 and listing the top four characteristics (consistent with comment 9(b)(2)-1) satisfies § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-5, 9(b)(2)-1, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C29",
+    "label": "depends",
+    "reasoning": "Whether § 1002.9(b)(2) is satisfied turns on whether this refusal is adverse action at all: if a 15-year RV loan is a type of credit or credit plan Granite does not offer, the refusal is excluded from adverse action by 12 CFR 1002.2(c)(2)(vi) and no statement of specific reasons is owed, but if it is merely a request for different terms on the RV-loan product Granite does offer, it is a refusal on the terms requested under § 1002.2(c)(1)(i) and the bare statement 'We do not offer this product' reads as reliance on internal policy rather than a specific principal reason (such as 'requested term exceeds maximum term offered') as § 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(i) and 1002.2(c)(2)(vi); Supplement I comment 9(b)(2)-2",
+    "deciding_fact": "Whether the 15-year RV loan is a type of credit or credit plan Granite does not offer at all (so the refusal is not adverse action under § 1002.2(c)(2)(vi) and no 9(b)(2) reasons are required) or merely a request for different terms on the RV-loan product Granite does offer (adverse action requiring a specific principal reason)."
+  },
+  {
+    "id": "C18",
+    "label": "complies",
+    "reasoning": "Comment 9(b)(2)-4 requires a creditor using a scoring system to disclose the actual scored factor that was a principal reason 'even if the relationship of that factor to predicting creditworthiness may not be clear to the applicant,' and 'Type of mobile phone account' relates to and accurately describes the prepaid-line feature actually scored (comment 9(b)(2)-2) without any need to explain how it hurt the applicant (comment 9(b)(2)-3), so listing it first among three reasons satisfies § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C06",
+    "label": "violates",
+    "reasoning": "The applicant passed the scoring component (742 against a 700 approval line) and was denied solely on the underwriter's judgmental finding that income could not be verified, so under comment 9(b)(2)-7 the disclosed reasons must relate to the factors reviewed judgmentally, and padding the notice with two scorecard characteristics selected from the component the applicant passed does not accurately describe the factors on which the denial was based (comment 9(b)(2)-2) and misstates the principal reasons required by § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-7, 9(b)(2)-6, 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C11",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) expressly deems a statement that the applicant failed to achieve a qualifying score on the creditor's scoring criterion insufficient, and comment 9(b)(2)-9 states that disclosing the FCRA key factors that adversely affected the credit score does not satisfy the ECOA requirement to disclose specific reasons, so a notice whose only ECOA reason is 'Credit score below our minimum requirement' violates § 1002.9(b)(2) even though four key factors appear in the accompanying FCRA disclosure.",
+    "citation": "12 CFR 1002.9(b)(2) (second sentence); Supplement I comments 9(b)(2)-9, 9(b)(2)-4, 9(b)(2)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

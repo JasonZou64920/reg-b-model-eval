@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C50",
+    "label": "violates",
+    "reasoning": "The cardholder's limit-increase request, made through the app as its procedures allow, was an application, and the model's refusal to increase the credit available is adverse action (not the point-of-sale over-limit refusal excluded by 1002.2(c)(2)(iv)), so Northgate had to give a statement of specific principal reasons under 1002.9(a)(2)(i) and (b)(2), and the in-app 'Purchase declined: over limit' message speaks only to the excluded purchase decline, leaving no statement of reasons for the denied increase at all.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(iv)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

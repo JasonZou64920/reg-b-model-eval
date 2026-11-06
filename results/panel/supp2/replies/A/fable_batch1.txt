@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C44",
+    "label": "complies",
+    "reasoning": "Because the application passed the loan officer's judgmental review and was denied only by the scorecard, Official Interpretation comment 9(b)(2)-6 requires the disclosed reasons to come from the component the applicant actually failed (the scoring system, and this holds whether the judgmental review comes before or after scoring), and listing the scorecard's three largest factor shortfalls is an accepted method of identifying the specific principal reasons under 12 CFR 1002.9(b)(2) and comment 9(b)(2)-5, so omitting the residence flag that did not cause the denial is proper.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR part 1002, Supp. I, comments 9(b)(2)-5 and 9(b)(2)-6",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

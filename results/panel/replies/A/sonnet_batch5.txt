@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C09",
+    "label": "complies",
+    "reasoning": "Under 1002.9(b)(2) the notice must give the specific principal reason actually relied on, and here the knockout rule on a repossession within 12 months was the real basis for the decline, so 'Foreclosure or repossession' is specific and accurate while the incidental below-cutoff monitoring score was not the basis and need not be cited.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Appendix C model form reason 'Foreclosure, repossession'",
+    "deciding_fact": null
+  },
+  {
+    "id": "C13",
+    "label": "complies",
+    "reasoning": "Under 1002.9(b)(2) the reasons must be specific and indicate the principal reasons, and Westfield names concrete scorecard characteristics selected by the accepted method of comparing the applicant to the average of applicants at or just above the cutoff, so listing six ranked reasons is more than needed but does not make the statement insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); Comment 9(b)(2)-1 and 9(b)(2)-4 (Supplement I to Part 1002)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C21",
+    "label": "complies",
+    "reasoning": "The checked item 'Your Income: is below our minimum requirement' from the Appendix C model checklist names the specific factor (verified income of $24,000 against a $30,000 minimum) that actually drove the judgmental decision, so it is not a bare reference to internal standards barred by 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Appendix C (Form C-2 sample reasons); Comment 9(b)(2)-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C23",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) requires the stated reason to be specific and to reflect the principal reason actually relied on, but Meridian scored the application on bureau data and stated income and declined it because the score fell below the cutoff, so 'Credit application incomplete' misdescribes the real basis and the missing pay stubs were not the reason.",
+    "citation": "12 CFR 1002.9(b)(2); Comment 9(b)(2)-1 (reasons must relate to and accurately describe the factors actually considered or scored)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C26",
+    "label": "complies",
+    "reasoning": "Approving $6,000 on a $25,000 request is a counteroffer, and because the applicant activated and used the card, the refusal to grant substantially the amount requested is not adverse action under 1002.2(c)(1)(i), so no statement of reasons under 1002.9(b)(2) was required.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv) and 1002.9(a)(2); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

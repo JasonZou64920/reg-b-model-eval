@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C09",
+    "label": "complies",
+    "reasoning": "The decline was actually made at the knockout step on the repossession rule, and the notice names that specific factor ('Foreclosure or repossession') rather than the unused monitoring score or a vague reference to internal standards, so it indicates the principal reason for the adverse action as 12 CFR 1002.9(b)(2) requires (consistent with comment 9(b)(2)-6, under which reasons must come from the component of the system on which the applicant failed).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-6",
+    "deciding_fact": null
+  },
+  {
+    "id": "C13",
+    "label": "complies",
+    "reasoning": "Selecting reasons by comparing the applicant's points on each characteristic with the average for applicants at or just above the cutoff is an accepted method of identifying the principal reasons in a credit scoring system, and each disclosed reason is a specific scored characteristic rather than a bare statement that the applicant failed to achieve a qualifying score, so the notice satisfies 12 CFR 1002.9(b)(2) even though listing six reasons exceeds the four that comment 9(b)(2)-1 says are likely to be helpful (a guideline, not a prohibition).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-1 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C21",
+    "label": "complies",
+    "reasoning": "The notice identifies the specific factor actually relied on (income) and that it fell short of the creditor's minimum, which is a specific principal reason rather than a bare reference to internal standards or policies, and 12 CFR 1002.9(b)(2) does not require the creditor to explain further how or why the factor was adverse (comment 9(b)(2)-3; income is a listed reason on Appendix C Form C-2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-3; 12 CFR part 1002, Appendix C, Form C-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C23",
+    "label": "violates",
+    "reasoning": "Meridian did not deny the application for incompleteness but evaluated it on bureau data and stated income and denied because the score fell below the cutoff, so 'Credit application incomplete' neither accurately describes the factors actually scored nor indicates the principal reason(s) for the adverse action as 12 CFR 1002.9(b)(2) requires (comment 9(b)(2)-2 requires the disclosed reasons to relate to and accurately describe the factors actually considered or scored).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-2; cf. 12 CFR 1002.9(c)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C26",
+    "label": "complies",
+    "reasoning": "Approving a $6,000 limit instead of the $25,000 requested was a counteroffer, and because the applicant used the credit offered no adverse action occurred under 12 CFR 1002.2(c)(1)(i), so no statement of specific reasons was required under 12 CFR 1002.9(a)(2)(i) and (b)(2).",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

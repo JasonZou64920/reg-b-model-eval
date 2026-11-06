@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C52",
+    "label": "violates",
+    "reasoning": "Treating the borrower's request on Lakeview's own modification form to extend the loan term as an application for an extension of credit (including a renewal or refinancing), its refusal on the terms requested is adverse action, and a statement that modifications are 'handled at our discretion' and the request 'was not approved' gives no specific principal reason and is no better than the 'internal standards or policies' statements that 12 CFR 1002.9(b)(2) expressly calls insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i); 12 CFR 1002.2(f); 12 CFR 1002.2(q)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

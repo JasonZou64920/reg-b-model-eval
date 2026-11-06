@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C14",
+    "label": "violates",
+    "reasoning": "Four characteristics with near-equal shortfalls of 22, 21, 19 and 18 points (against nothing above 6 elsewhere) are all principal reasons, so a policy of disclosing only the largest one omits principal reasons that comment 9(b)(2)-4 says may not be excluded from the notice.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C28",
+    "label": "violates",
+    "reasoning": "A 30 percent limit cut on accounts selected by their individual behavior scores is an unfavorable change in account terms, and a letter citing only a 'portfolio-wide risk management review' is an internal-policy or failed-score type of statement that does not give the specific principal reasons (the behavior-score factors actually scored) required by 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(iii); Supp. I comments 9(b)(2)-2, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C20",
+    "label": "violates",
+    "reasoning": "'Credit history' is a vague category rather than the factor actually scored (60-day or worse delinquencies in the past 24 months), and comment 9(b)(2)-9 shows the creditor must disclose the specific reason, such as delinquent credit obligations, so the notice is not specific as 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C03",
+    "label": "depends",
+    "reasoning": "Listing four reasons is fine under comment 9(b)(2)-1, but ranking characteristics by distance below the maximum available points is neither of the two benchmark methods in comment 9(b)(2)-5 (average of passing-score applicants or average of all applicants), so it complies only if it produces results substantially similar to one of them.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": "Whether the maximum-points ranking produces results substantially similar to the comment 9(b)(2)-5 methods (comparison to the average scores of applicants at or slightly above the cutoff, or of all applicants), so that the four listed gaps match the factors on which the applicant actually fell furthest short."
+  },
+  {
+    "id": "C07",
+    "label": "violates",
+    "reasoning": "For a gray-band decline that is finished by a judgmental assessment, comment 9(b)(2)-7 requires the reasons to come from both the scorecard and the judgmental component, so dropping the underwriter's 'Unable to verify income' reason to fit a four-line template leaves out a principal reason, and the four-reason guidance in comment 9(b)(2)-1 is a combined total that does not excuse omitting a component.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-6, 9(b)(2)-7",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

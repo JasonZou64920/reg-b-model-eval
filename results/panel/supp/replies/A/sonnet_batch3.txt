@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C34",
+    "label": "complies",
+    "reasoning": "Because the bakery's $600,000 revenue is under the $1 million small-business threshold, Oakmont could give oral notice of the denial and disclose the right to request reasons within 60 days under 1002.9(a)(3)(i), and the specific-reasons standard of 1002.9(b)(2) governs only a statement of reasons that has actually been given, so with none given or requested it is not yet engaged.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(a)(3)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

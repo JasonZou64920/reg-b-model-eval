@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C44",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) and its Official Interpretation for combined scoring and judgmental systems (comment 9(b)(2)-5), the reasons disclosed must come from the component the applicant failed, so because the applicant passed the officer's judgmental review and was denied by the scorecard, listing the scorecard's three largest shortfalls gives the specific principal reasons and the residence note from the passed judgmental stage need not appear.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I to Part 1002, comments 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

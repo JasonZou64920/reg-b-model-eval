@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C14",
+    "label": "violates",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the notice must indicate the principal reason(s), and with four characteristics showing near-equal shortfalls of 22, 21, 19 and 18 points (all far above any other), all four are principal reasons, so a policy of disclosing only the single largest shortfall omits principal reasons (see also Comment 9(b)(2)-1, which treats up to four reasons as the useful range).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, Comment 9(b)(2)-1 and 9(b)(2)-4 (no principal reason may be excluded)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C28",
+    "label": "violates",
+    "reasoning": "The limit cut was an unfavorable change in terms driven by each account's individual behavior score and affected only about 8 percent of accounts, so it is adverse action requiring specific reasons, and a statement that the change was 'part of a portfolio-wide risk management review' is the kind of reference to the creditor's internal standards or policies that 12 CFR 1002.9(b)(2) declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C20",
+    "label": "violates",
+    "reasoning": "12 CFR 1002.9(b)(2) requires the statement of reasons to be specific, and the generic label 'Credit history' does not tell the applicant that the principal reason was the number of 60-day or worse delinquencies in the past 24 months (compare the more specific 'Delinquent past or present credit obligations with others' in the Appendix C sample form).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, Comment 9(b)(2)-4; 12 CFR part 1002, Appendix C sample form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C03",
+    "label": "depends",
+    "reasoning": "12 CFR 1002.9(b)(2) and Comment 9(b)(2)-5 do not mandate a single method for selecting scored reasons but accept the average-score comparison methods and any other method producing substantially similar results, so ranking shortfalls against the maximum available points complies only if it yields substantially similar principal reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, Comment 9(b)(2)-5",
+    "deciding_fact": "Whether Ridgeway's maximum-points-gap ranking produces results substantially similar to the Comment 9(b)(2)-5 methods (comparison to the average scores of applicants at or slightly above the cutoff, or of all applicants), i.e., whether it identifies the same principal reasons."
+  },
+  {
+    "id": "C07",
+    "label": "violates",
+    "reasoning": "For gray-band applications the decline turns on the underwriter's judgmental review, so 'Unable to verify income' is a principal reason that 12 CFR 1002.9(b)(2) requires to be disclosed (reasons must come from the component the applicant failed and no principal reason may be excluded), and a four-line template limit does not justify omitting it.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, Comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-6 (combined credit scoring and judgmental system)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

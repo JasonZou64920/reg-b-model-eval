@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C58",
+    "label": "depends",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4, the stated reason is specific enough on its face but complies only if it accurately describes a factor the model actually scored and that was a principal reason for the decline; if the model simply scored the lower bureau-estimated income level (or other inputs) as the driver, the inconsistency reason would not accurately describe the factor actually used.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I to Part 1002, comments 9(b)(2)-2 and 9(b)(2)-4",
+    "deciding_fact": "Whether the model actually scored the discrepancy between stated income and the bureau-derived income estimate as a factor and that discrepancy was a principal reason for the decline (as opposed to the estimated income level itself or other scored factors driving the decision)."
+  },
+  {
+    "id": "C25",
+    "label": "depends",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) read with comments 9(a)(1)-3 and 9(a)(1)-4, 'Credit application incomplete' is a permissible specific reason only if, without the pay stubs, Meridian lacked sufficient data to make a credit decision; if it had enough information to evaluate and denied on other grounds, incompleteness cannot be given as the reason.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I to Part 1002, comments 9(a)(1)-3 and 9(a)(1)-4",
+    "deciding_fact": "Whether Meridian lacked sufficient data to make a credit decision without the missing pay stubs, or instead had enough information to evaluate the application and denied it for other reasons."
+  },
+  {
+    "id": "C55",
+    "label": "violates",
+    "reasoning": "Because the 655 score fell in the 620-699 gray band and the denial followed a judgmental review, comment 9(b)(2)-7 to 12 CFR 1002.9(b)(2) requires the disclosed reasons to come from both the scoring component (revolving utilization, recent inquiries) and the judgmental component, so listing only 'Length of employment' omits principal reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I to Part 1002, comments 9(b)(2)-4 and 9(b)(2)-7",
+    "deciding_fact": null
+  },
+  {
+    "id": "C59",
+    "label": "depends",
+    "reasoning": "If the account was currently 60 days delinquent when closed, the closure is not adverse action under 12 CFR 1002.2(c)(2)(ii) and comment 2(c)(2)(ii)-2, so 1002.9(b)(2) imposes no reasons requirement; but if the closure rested on a past, cured delinquency, it is adverse action and 'under our account-management policy' is an insufficient internal-policy statement under 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(2)(ii); Supplement I to Part 1002, comment 2(c)(2)(ii)-2",
+    "deciding_fact": "Whether the cardholder was currently delinquent on the account at the time of closure, or the closure was based on a past delinquency that had already been cured."
+  }
+]
+MODEL_ID: claude-opus-5-5

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C60",
+    "label": "violates",
+    "reasoning": "Because Summit evaluated the consumer's bureau data against a specific $10,000 request and told her it would not lend, the soft-pull rate check became an application under the prequalification commentary to 1002.2(f), so the decline was an adverse action, and the only reason Summit gave ('does not meet our lending criteria') is exactly the kind of internal-standards-or-policies statement that 12 CFR 1002.9(b)(2) calls insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(f) and Official Interpretation 2(f)-3 (prequalification requests)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

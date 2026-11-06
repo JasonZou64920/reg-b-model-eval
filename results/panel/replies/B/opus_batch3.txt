@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C02",
+    "label": "complies",
+    "reasoning": "Ranking characteristics by how far the applicant's points fall below the average among applicants at or slightly above the cutoff is the first method expressly approved in comment 9(b)(2)-5, which allows those averages to be calculated during development of the system, and listing four principal reasons is consistent with comment 9(b)(2)-1.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C29",
+    "label": "violates",
+    "reasoning": "Granite does offer RV loans, so 'We do not offer this product' neither accurately describes the factor actually relied on (a requested 15-year term exceeding the 10-year maximum) as comment 9(b)(2)-2 requires nor rises above a bare reference to the creditor's internal policies, which 1002.9(b)(2) declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C18",
+    "label": "complies",
+    "reasoning": "Under comment 9(b)(2)-4 a creditor using a scoring system must disclose the factors actually scored that were principal reasons even if their link to creditworthiness may not be clear to the applicant, and comment 9(b)(2)-3 permits naming the factor ('Type of mobile phone account') without explaining how it hurt the applicant, so listing the largest negative contributor first satisfies 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C06",
+    "label": "violates",
+    "reasoning": "Because the application passed the scoring stage and was denied on the underwriter's judgmental finding that income could not be verified, comment 9(b)(2)-7 requires the reasons to relate to the factors reviewed judgmentally, so adding 'Number of recent inquiries' and 'Length of credit history' presents scorecard characteristics that were not reasons for the denial and fails comment 9(b)(2)-2's requirement that reasons accurately describe the factors actually relied on.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-7",
+    "deciding_fact": null
+  },
+  {
+    "id": "C11",
+    "label": "violates",
+    "reasoning": "'Credit score below our minimum requirement' is the kind of statement that the applicant failed to achieve a qualifying score or did not meet internal standards that 1002.9(b)(2) declares insufficient, and comment 9(b)(2)-9 provides that the FCRA key-factor disclosure does not satisfy the ECOA requirement to state specific reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comment 9(b)(2)-9",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

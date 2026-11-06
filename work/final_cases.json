@@ -1,0 +1,172 @@
+[
+ {
+  "n": 1,
+  "id": "C53",
+  "seam": "S4 ECOA reasons vs FCRA key factors",
+  "facts": "Oakmont Bank screens personal-loan applications in two stages, and any applicant whose bureau credit score is below 640 is declined at the first stage before income or any other information is reviewed. An applicant scored 612, and the reasons section of the notice states 'Credit score below our minimum requirement,' followed by the FCRA credit score disclosure listing four key factors that adversely affected the score.",
+  "gold_label": "violates",
+  "reasoning": "Because the score alone decided, “below our minimum requirement” only says the applicant missed Oakmont’s qualifying score, which the rule calls insufficient, and the FCRA key factors do not meet the separate ECOA duty. (12 CFR 1002.9(b)(2); comment 9(b)(2)-9).",
+  "deciding_fact": null,
+  "citation": "",
+  "title": "Score-only screen",
+  "answer": "Because the score alone decided, “below our minimum requirement” only says the applicant missed Oakmont’s qualifying score, which the rule calls insufficient, and the FCRA key factors do not meet the separate ECOA duty. (12 CFR 1002.9(b)(2); comment 9(b)(2)-9).",
+  "why": [
+   "Because the score alone decided, “below our minimum requirement” only says the applicant missed Oakmont’s qualifying score, which the rule calls insufficient, and the FCRA key factors do not meet the separate ECOA duty."
+  ],
+  "cites": "12 CFR 1002.9(b)(2); comment 9(b)(2)-9"
+ },
+ {
+  "n": 2,
+  "id": "C47",
+  "seam": "S11 boundary of adverse action",
+  "facts": "Northgate's account-management model closed a credit card account in June. The cardholder had been 60 days past due in January, brought the account current in February, and has paid on time every month since. Northgate sent no notice of the closure.",
+  "gold_label": "violates",
+  "reasoning": "The account was current when Northgate closed it, so the delinquency exception does not apply, the closure is adverse action, and Northgate generally owed a notice but sent none. (12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(a)(1)(iii)).",
+  "deciding_fact": null,
+  "citation": "",
+  "title": "Closing a cured account",
+  "answer": "The account was current when Northgate closed it, so the delinquency exception does not apply, the closure is adverse action, and Northgate generally owed a notice but sent none. (12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(a)(1)(iii)).",
+  "why": [
+   "The account was current when Northgate closed it, so the delinquency exception does not apply, the closure is adverse action, and Northgate generally owed a notice but sent none."
+  ],
+  "cites": "12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(a)(1)(iii)"
+ },
+ {
+  "n": 3,
+  "id": "C24",
+  "seam": "S10 incomplete applications",
+  "facts": "Meridian's personal-loan model cannot produce a score without stated annual income. An applicant left the income field blank, Meridian made no decision on the merits, and within 30 days it sent an adverse action notice listing 'Credit application incomplete.'",
+  "gold_label": "complies",
+  "reasoning": "Meridian’s model could not score the application without the income the applicant left blank, so Meridian could deny for incompleteness instead of first sending a notice of incompleteness. (12 CFR 1002.9(c)(1); comment 9(a)(1)-3).",
+  "deciding_fact": null,
+  "citation": "",
+  "title": "Blank income field",
+  "answer": "Meridian’s model could not score the application without the income the applicant left blank, so Meridian could deny for incompleteness instead of first sending a notice of incompleteness. (12 CFR 1002.9(c)(1); comment 9(a)(1)-3).",
+  "why": [
+   "Meridian’s model could not score the application without the income the applicant left blank, so Meridian could deny for incompleteness instead of first sending a notice of incompleteness."
+  ],
+  "cites": "12 CFR 1002.9(c)(1); comment 9(a)(1)-3"
+ },
+ {
+  "n": 4,
+  "id": "C25",
+  "seam": "S10 incomplete applications",
+  "facts": "Meridian's personal-loan application asks for two recent pay stubs. An applicant did not upload them, Meridian declined the application, and the notice lists 'Credit application incomplete.'",
+  "gold_label": "depends",
+  "reasoning": "It depends on whether Meridian needed the pay stubs to decide at all. If it did, the notice complies, because “incomplete” is a proper reason when a creditor cannot decide. If it could decide without them, the notice violates, because Meridian owed specific reasons or notice of the right to them. (12 CFR 1002.9(a)(2); comment 9(a)(1)-3; comment 9(a)(1)-4).",
+  "deciding_fact": "whether Meridian needed the pay stubs to decide at all",
+  "citation": "",
+  "title": "Missing pay stubs",
+  "answer": "It depends on whether Meridian needed the pay stubs to decide at all. If it did, the notice complies, because “incomplete” is a proper reason when a creditor cannot decide. If it could decide without them, the notice violates, because Meridian owed specific reasons or notice of the right to them. (12 CFR 1002.9(a)(2); comment 9(a)(1)-3; comment 9(a)(1)-4).",
+  "why": [
+   "It depends on whether Meridian needed the pay stubs to decide at all.",
+   "If it did, the notice complies, because “incomplete” is a proper reason when a creditor cannot decide.",
+   "If it could decide without them, the notice violates, because Meridian owed specific reasons or notice of the right to them."
+  ],
+  "cites": "12 CFR 1002.9(a)(2); comment 9(a)(1)-3; comment 9(a)(1)-4"
+ },
+ {
+  "n": 5,
+  "id": "C57",
+  "seam": "S12 reasons given on request / third-party notices",
+  "facts": "An auto dealer's financing platform sent a buyer's credit application to three banks. Bank A declined because of the buyer's obligations relative to income, Banks B and C declined because of limited credit experience, and the buyer paid cash. The platform sent one adverse action notice on behalf of all three banks that gives each bank's name and address and lists two reasons: 'Excessive obligations in relation to income' and 'Limited credit experience.'",
+  "gold_label": "violates",
+  "reasoning": "A notice sent for several creditors that lists reasons has to show which reasons belong to which creditor, and this one does not tie either reason to a bank. (12 CFR 1002.9(g); comment 9(g)-1).",
+  "deciding_fact": null,
+  "citation": "",
+  "title": "One notice, three banks",
+  "answer": "A notice sent for several creditors that lists reasons has to show which reasons belong to which creditor, and this one does not tie either reason to a bank. (12 CFR 1002.9(g); comment 9(g)-1).",
+  "why": [
+   "A notice sent for several creditors that lists reasons has to show which reasons belong to which creditor, and this one does not tie either reason to a bank."
+  ],
+  "cites": "12 CFR 1002.9(g); comment 9(g)-1"
+ },
+ {
+  "n": 6,
+  "id": "C55",
+  "seam": "S2 combined system / gray band",
+  "facts": "Harbor Auto Finance approves auto loans automatically at scores of 700 and above, declines automatically below 620, and sends scores from 620 to 699 to an underwriter. An applicant scored 655, with the largest scorecard shortfalls on revolving utilization and recent inquiries, and the underwriter declined after seeing that the applicant had changed jobs two months earlier. The notice lists one reason: 'Length of employment.'",
+  "gold_label": "violates",
+  "reasoning": "When a gray-band application is denied after an underwriter’s review, the reasons must come from both the scorecard and the underwriter, but this notice gives only the underwriter’s. (12 CFR 1002.9(b)(2); comment 9(b)(2)-7).",
+  "deciding_fact": null,
+  "citation": "",
+  "title": "Gray-band decline",
+  "answer": "When a gray-band application is denied after an underwriter’s review, the reasons must come from both the scorecard and the underwriter, but this notice gives only the underwriter’s. (12 CFR 1002.9(b)(2); comment 9(b)(2)-7).",
+  "why": [
+   "When a gray-band application is denied after an underwriter’s review, the reasons must come from both the scorecard and the underwriter, but this notice gives only the underwriter’s."
+  ],
+  "cites": "12 CFR 1002.9(b)(2); comment 9(b)(2)-7"
+ },
+ {
+  "n": 7,
+  "id": "C59",
+  "seam": "S11 boundary of adverse action",
+  "facts": "Northgate's account-management model flagged a credit card account for closure because of a 60-day delinquency on that account. Northgate closed the account and mailed the cardholder a letter saying it was closed 'under our account-management policy.'",
+  "gold_label": "depends",
+  "reasoning": "It depends on whether the account was still delinquent or in default when Northgate closed it. If it was, the letter complies, because closing a delinquent account is not adverse action. If not, the letter violates, because the closure is generally adverse action and “account-management policy” is not a specific reason. (12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(b)(2)).",
+  "deciding_fact": "whether the account was still delinquent or in default when Northgate closed it",
+  "citation": "",
+  "title": "Closure over a delinquency",
+  "answer": "It depends on whether the account was still delinquent or in default when Northgate closed it. If it was, the letter complies, because closing a delinquent account is not adverse action. If not, the letter violates, because the closure is generally adverse action and “account-management policy” is not a specific reason. (12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(b)(2)).",
+  "why": [
+   "It depends on whether the account was still delinquent or in default when Northgate closed it.",
+   "If it was, the letter complies, because closing a delinquent account is not adverse action.",
+   "If not, the letter violates, because the closure is generally adverse action and “account-management policy” is not a specific reason."
+  ],
+  "cites": "12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(b)(2)"
+ },
+ {
+  "n": 8,
+  "id": "C63",
+  "seam": "S11 boundary of adverse action",
+  "facts": "Northgate offers its credit card only to residents of Ohio, Indiana and Michigan. A cardholder moved to Arizona, and Northgate closed the account for that reason and mailed a letter saying it was closed 'in accordance with our account policies.'",
+  "gold_label": "depends",
+  "reasoning": "It depends on whether the card agreement explicitly provided for closure if the cardholder left the service area. If it did, the letter complies, because the closure is not adverse action. If not, the letter violates, because the closure is adverse action and “our account policies” is not a specific reason. (12 CFR 1002.2(c)(1)(ii); comment 2(c)(1)(ii)-1; 12 CFR 1002.9(b)(2)).",
+  "deciding_fact": "whether the card agreement explicitly provided for closure if the cardholder left the service area",
+  "citation": "",
+  "title": "Cardholder moves away",
+  "answer": "It depends on whether the card agreement explicitly provided for closure if the cardholder left the service area. If it did, the letter complies, because the closure is not adverse action. If not, the letter violates, because the closure is adverse action and “our account policies” is not a specific reason. (12 CFR 1002.2(c)(1)(ii); comment 2(c)(1)(ii)-1; 12 CFR 1002.9(b)(2)).",
+  "why": [
+   "It depends on whether the card agreement explicitly provided for closure if the cardholder left the service area.",
+   "If it did, the letter complies, because the closure is not adverse action.",
+   "If not, the letter violates, because the closure is adverse action and “our account policies” is not a specific reason."
+  ],
+  "cites": "12 CFR 1002.2(c)(1)(ii); comment 2(c)(1)(ii)-1; 12 CFR 1002.9(b)(2)"
+ },
+ {
+  "n": 9,
+  "id": "C56",
+  "seam": "S3 automatic denial",
+  "facts": "An applicant to Pinecrest Card Services previously held a Pinecrest card that was charged off in 2023, and Pinecrest's scorecard has no characteristic for prior Pinecrest accounts. The new application scored below the cutoff, and the notice lists the four scorecard characteristics with the largest shortfalls.",
+  "gold_label": "depends",
+  "reasoning": "It depends on whether the 2023 charge-off was also a reason for the decline, for example through an automatic-denial rule. If the score alone decided, the notice complies, because its reasons must relate only to factors the scorecard actually scored. If the charge-off was a reason, the notice violates, because Pinecrest had to name it. (12 CFR 1002.9(b)(2); comment 9(b)(2)-4; comment 9(b)(2)-8).",
+  "deciding_fact": "whether the 2023 charge-off was also a reason for the decline, for example through an automatic-denial rule",
+  "citation": "",
+  "title": "Old charge-off",
+  "answer": "It depends on whether the 2023 charge-off was also a reason for the decline, for example through an automatic-denial rule. If the score alone decided, the notice complies, because its reasons must relate only to factors the scorecard actually scored. If the charge-off was a reason, the notice violates, because Pinecrest had to name it. (12 CFR 1002.9(b)(2); comment 9(b)(2)-4; comment 9(b)(2)-8).",
+  "why": [
+   "It depends on whether the 2023 charge-off was also a reason for the decline, for example through an automatic-denial rule.",
+   "If the score alone decided, the notice complies, because its reasons must relate only to factors the scorecard actually scored.",
+   "If the charge-off was a reason, the notice violates, because Pinecrest had to name it."
+  ],
+  "cites": "12 CFR 1002.9(b)(2); comment 9(b)(2)-4; comment 9(b)(2)-8"
+ },
+ {
+  "n": 10,
+  "id": "C58",
+  "seam": "S6 accurate description / engineered features",
+  "facts": "Fairway Lending's personal-loan model takes both the applicant's stated income and a bureau-derived income estimate as inputs. An applicant stated $85,000 against an estimate of $52,000, the application was declined, and the notice lists 'Income stated on application inconsistent with income estimated from credit report.'",
+  "gold_label": "depends",
+  "reasoning": "It depends on whether a scored gap between stated and estimated income drove the decline. If it did, the notice complies, because it accurately describes the factor actually scored. If something else drove it, such as the $52,000 estimate feeding a payment-to-income ratio, the notice violates, because it names the wrong factor. (12 CFR 1002.9(b)(2); comment 9(b)(2)-2).",
+  "deciding_fact": "whether a scored gap between stated and estimated income drove the decline",
+  "citation": "",
+  "title": "Two income figures",
+  "answer": "It depends on whether a scored gap between stated and estimated income drove the decline. If it did, the notice complies, because it accurately describes the factor actually scored. If something else drove it, such as the $52,000 estimate feeding a payment-to-income ratio, the notice violates, because it names the wrong factor. (12 CFR 1002.9(b)(2); comment 9(b)(2)-2).",
+  "why": [
+   "It depends on whether a scored gap between stated and estimated income drove the decline.",
+   "If it did, the notice complies, because it accurately describes the factor actually scored.",
+   "If something else drove it, such as the $52,000 estimate feeding a payment-to-income ratio, the notice violates, because it names the wrong factor."
+  ],
+  "cites": "12 CFR 1002.9(b)(2); comment 9(b)(2)-2"
+ }
+]

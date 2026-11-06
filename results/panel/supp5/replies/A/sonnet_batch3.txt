@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C51",
+    "label": "depends",
+    "reasoning": "Section 1002.9(b)(2) only governs how specific and principal a statement of reasons must be when the paragraph (a)(2)(i) notice is given, so it is not itself breached by an account closure with no statement, and the outcome turns on whether closing this account for an out-of-area move is an adverse action that triggers the notice duty at all (if it is, sending no statement of reasons violates the rule, while a stated reason of 'moved out of our Ohio, Indiana and Michigan service area' would be specific enough).",
+    "citation": "12 CFR 1002.9(b)(2), read with the 1002.9(a)(2)(i) notice requirement it refers to",
+    "deciding_fact": "Whether Northgate's closure of this individual account because the cardholder moved outside its three-state service area counts as an adverse action requiring a notice with a statement of reasons under 1002.9(a)(2)(i)."
+  }
+]
+MODEL_ID: claude-sonnet-5-5

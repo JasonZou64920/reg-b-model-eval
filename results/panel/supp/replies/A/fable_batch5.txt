@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C36",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(g), when an application is made on the applicant's behalf to more than one creditor and the applicant expressly accepts or uses credit offered by one of them (here the buyer signed and was financed under Bank A's retail installment contract), notification of action taken by the other creditors is not required, so Banks B, C and D owed no adverse action notice and the specific-reasons requirement of 1002.9(b)(2), which attaches only to a statement of reasons required by 1002.9(a)(2)(i), was never triggered.",
+    "citation": "12 CFR 1002.9(g); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

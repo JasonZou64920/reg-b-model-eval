@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C34",
+    "label": "complies",
+    "reasoning": "Because the bakery's gross revenues were $1 million or less, 12 CFR 1002.9(a)(3)(i) let Oakmont give the notice of action taken orally and give the right-to-request disclosure (with the (a)(2)(ii) contact information and the (b)(1) ECOA notice) at application, so no statement of reasons under (a)(2)(i) is owed until the owner requests one, and the specificity requirement of 1002.9(b)(2) has not yet been triggered or breached.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)-(ii); 12 CFR 1002.9(a)(3)(i)(A)-(B); 12 CFR 1002.9(b)(1)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "C45",
+    "label": "complies",
+    "reasoning": "The factor actually scored and the largest negative contribution was the ratio of stated income to a bureau-derived estimate, which measures whether third-party data corroborates the stated income, so 'Unable to verify income' relates to and fairly describes that factor (this resolves the fact on which C17 turned).",
+    "citation": "comment 9(b)(2)-2; comment 9(b)(2)-4; comment 9(b)(2)-3",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "violates: the model performs no verification step, so a reviewer could say the accurate description is that stated income was inconsistent with other information, and that checking 'Unable to verify income' is choosing the closest checklist line, which appendix C, para. 4 says does not satisfy the requirement."
+  },
+  {
+    "id": "C46",
+    "label": "complies",
+    "reasoning": "The notice names the specific factor Cedar reviewed judgmentally, the applicant's 52 percent debt-to-income ratio against its 45 percent maximum, so its mention of credit policy does not make it the bare 'internal standards or policies' statement that 1002.9(b)(2) calls insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-6; comment 9(b)(2)-2; appendix C, para. 5",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

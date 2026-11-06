@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C14",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) requires the statement to indicate the principal reasons for the adverse action, and a policy of disclosing only the single largest shortfall omits three characteristics (21, 19 and 18 points) that were nearly as large as the first and clearly principal reasons, so a principal reason is left out for policy convenience rather than because of its weight.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, Official Interpretations to 1002.9(b)(2) (principal reasons, up to four, none omitted)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C28",
+    "label": "violates",
+    "reasoning": "A 30 percent limit cut applied only to the roughly 8 percent of accounts with a behavior score below 600 is an unfavorable change in account terms that does not affect all or a substantial portion of a classification of accounts, so it is adverse action, and a letter citing a 'portfolio-wide risk management review' is the kind of generic internal-policy statement that 1002.9(b)(2) says is insufficient because it does not give the specific principal reasons such as the low behavior score and the account behavior behind it.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.9(a)(1)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C20",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) requires a specific statement of the principal reason, and 'Credit history' is a broad category that does not tell the applicant the decision turned on 60-day or worse delinquencies, so it does not accurately describe the factor actually scored (a reason such as 'Delinquent past or present credit obligations with others' would be specific).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, Official Interpretations to 1002.9(b)(2) (reasons must relate to and accurately describe the factors actually scored); Appendix C sample reasons",
+    "deciding_fact": null
+  },
+  {
+    "id": "C03",
+    "label": "complies",
+    "reasoning": "Under 1002.9(b)(2) and its official interpretation on credit scoring systems, selecting the characteristics on which the applicant's points fell furthest below the maximum available points is an accepted way to identify principal reasons, and listing the four largest gaps stays within the number of reasons that is useful to an applicant, so the method itself is sufficiently specific and is not a bare 'failed to achieve a qualifying score' statement.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, Official Interpretations to 1002.9(b)(2) (credit scoring: points below maximum method; four-reason guidance)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C07",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) requires the notice to indicate the principal reasons actually behind the decision, and Harbor drops the underwriter's reason 'Unable to verify income' only because the template has four lines, a systematic exclusion that is not based on how principal the reason is and that, in a gray-band decision where the underwriter's judgment is what decides, can omit the very reason the applicant was declined.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, Official Interpretations to 1002.9(b)(2) (no principal reason may be excluded; combined scoring and judgmental systems)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "Because the denial rested on a credit score, the 1002.9(b)(2) reasons must be the factors actually scored, and listing the four scorecard characteristics with the largest shortfalls is specific and names the real principal reasons, while the 2023 charge-off was not a scored factor so omitting it is not a defect.",
+    "citation": "12 CFR 1002.9(a)(2)(i), 1002.9(b)(2); Official Interpretation 9(b)(2)-1 (reasons must relate to factors actually scored; no more than four reasons needed)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C58",
+    "label": "complies",
+    "reasoning": "The notice states a concrete, applicant-specific reason (stated income does not match the bureau-derived estimate) that reflects an input the model actually uses, so it is specific and indicates a principal reason rather than reciting internal standards or a failed score under 1002.9(b)(2), even though the wording is not on the sample form.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation 9(b)(2)-1; Appendix C sample reasons (e.g., unable to verify income) are illustrative, not exclusive",
+    "deciding_fact": null
+  },
+  {
+    "id": "C54",
+    "label": "complies",
+    "reasoning": "A blank income field that prevents the model from scoring is the actual principal reason for the decline, and \"Credit application incomplete\" is a specific reason of the kind listed in the Appendix C sample notice, so it is not an insufficient reference to internal standards or a failed score under 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2), 1002.9(c)(1); Appendix C, Form C-1 (\"Credit application incomplete\")",
+    "deciding_fact": null
+  },
+  {
+    "id": "C57",
+    "label": "depends",
+    "reasoning": "Because the buyer paid cash and never used credit, each bank still owed a notice that a third party may give on its behalf under 1002.9(g), but under 1002.9(b)(2) the principal reasons must be the actual reasons for each creditor's action, so a pooled two-reason list satisfies the rule only if it makes clear which reason belongs to which bank (otherwise Banks B and C appear to have declined for excessive obligations and Bank A for limited credit experience, which was not true).",
+    "citation": "12 CFR 1002.9(b)(2), 1002.9(g); Official Interpretation 9(b)(2)-1",
+    "deciding_fact": "Whether the single notice ties each stated reason to the specific bank or banks that actually relied on it, rather than presenting both reasons as applying to all three banks."
+  }
+]
+MODEL_ID: claude-sonnet-5-5

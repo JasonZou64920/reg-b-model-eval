@@ -1,0 +1,10 @@
+{
+  "method_note": "I wrote 59 candidate cases with AI help, mostly around the official commentary and the edges of “adverse action,” and had separate model sessions check every label against the regulation and commentary, one of them labeling each case blind. I had no API keys, so on October 31, 2026 I stress-tested all 59 on three Anthropic models run as agent sessions (claude-fable-5-1, claude-opus-5-5 and claude-sonnet-5-5), giving each only the task prompt, the case and 12 CFR 1002.9(b)(2). A case made the cut only if at least one model got the label, or the deciding fact, wrong on its first try.",
+  "noticed": [
+    "On the five depends cases, 14 of 15 first-try answers picked a side, usually “complies,” without saying what fact was missing. That partly reflects how I chose them: on the seven depends candidates I left out, the models answered “depends” 14 of 21 times.",
+    "The models also leaned toward calling notices compliant. Across all 59 candidates, 26 of the 39 wrong labels were “complies,” and only 2 of the 24 compliant candidates drew any miss. I set one of those aside as debatable, so only one compliant case is here.",
+    "Most misses came from rules the models were not shown. With the related rules added, misses on these ten fell from 22 of 30 (20 on a rerun) to 8, and six cases drew none. Case 9 was missed by every model every time."
+  ],
+  "limits": "All three models come from one provider, and the model IDs are the ones each session reported. I wrote 29 of the 59 candidates, including eight of these ten, after seeing early results. Each run was a single draw, some sessions answered up to five cases in one prompt, and I could not set temperature. Cases 3 and 5 are the weakest, each missed only once, by Sonnet.",
+  "harness": "The harness, prompts, raw replies and scores come with this sample (harness/README.md explains how to rerun them), and scripts/verify_deliverable.py checks that every cited provision exists in the saved regulation text."
+}

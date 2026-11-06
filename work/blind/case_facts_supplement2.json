@@ -1,0 +1,18 @@
+[
+  {
+    "id": "C37",
+    "facts": "Pinecrest's decision engine declines, before any score is computed, every applicant who had a Pinecrest account charged off in the past five years. An applicant was declined under that rule, and the notice checks 'Poor credit performance with us.'"
+  },
+  {
+    "id": "C39",
+    "facts": "Brightline Finance's notice to a declined card applicant reads: 'Your application was processed by a credit scoring system that assigns a numerical value to the various items of information we consider. The information you provided did not score a sufficient number of points for approval. The reasons you did not score well compared with other applicants were: proportion of balances to credit limits; number of recent inquiries; length of credit history.' The three reasons are the applicant's largest shortfalls under Brightline's reason-selection method."
+  },
+  {
+    "id": "C42",
+    "facts": "Westfield's reason logic for a declined personal-loan applicant shows point shortfalls of 31 and 27 points on two characteristics and of 4, 3 and 2 points on three others. The notice lists the two characteristics with the large shortfalls."
+  },
+  {
+    "id": "C44",
+    "facts": "At Prairie State Bank a loan officer first reviews each auto-loan file and passes acceptable files to a scorecard. An applicant passed the officer's review, although the officer's notes flag a short time at the current address, and the scorecard then declined the application. The notice lists the scorecard's three largest shortfalls and does not mention residence."
+  }
+]

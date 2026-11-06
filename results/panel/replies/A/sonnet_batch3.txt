@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C02",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the notice must give specific principal reasons, and ranking characteristics by how far the applicant's points fall below the average among applicants at or slightly above the cutoff is a recognized way of identifying the characteristics that actually drove the denial, so the listed reasons are specific, and nothing in the rule requires the benchmark averages to be refreshed so long as they still correspond to the scorecard in use.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, comment 9(b)(2)-1 (methods for identifying principal reasons in credit scoring systems)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C29",
+    "label": "violates",
+    "reasoning": "A notice saying only 'We do not offer this product' is no more specific than a statement about internal policy and fails 12 CFR 1002.9(b)(2) because it does not tell the member that the principal reason was a requested 15-year term exceeding the 10-year maximum, especially since Granite does offer RV loans.",
+    "citation": "12 CFR 1002.9(b)(2) (reasons must be specific and indicate the principal reason(s); statements based on internal standards or policies are insufficient)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C18",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the test is whether the notice specifically and accurately names the principal factor actually used, and 'Type of mobile phone account' identifies the real largest negative contribution in the model, so the specificity requirement is met (whether the prepaid-line feature is a permissible input is a separate question outside this provision).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, comment 9(b)(2)-1 (reasons must relate to and accurately describe the factors actually considered)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C06",
+    "label": "violates",
+    "reasoning": "Although 'Unable to verify income' correctly states the real principal reason, 12 CFR 1002.9(b)(2) requires the statement to indicate the principal reasons for the denial, and listing two scorecard characteristics on which a 742-scoring applicant who passed the score cutoff did not cause the decline misattributes the denial to factors that played no role and misleads the applicant about what drove it.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, comment 9(b)(2)-1 (reasons must accurately describe the factors actually considered)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C11",
+    "label": "complies",
+    "reasoning": "The sole criterion was a bureau credit score below a stated 640 minimum, not a failure to achieve a qualifying score on the creditor's own scoring system, so the notice states the actual principal reason and, by adding the four key factors that adversely affected the score, gives the applicant specific information consistent with 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); FCRA section 615(a) credit score and key-factor disclosure",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

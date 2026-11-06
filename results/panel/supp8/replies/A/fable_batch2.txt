@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C62",
+    "label": "depends",
+    "reasoning": "Granting $6,000 against a $25,000 request is a counteroffer that becomes adverse action under 12 CFR 1002.2(c)(1)(i) only if the applicant does not use or expressly accept the credit, in which case 12 CFR 1002.9(a)(1)(iv) required a compliant notice within 90 days and the sole reason given, 'based on our credit policy,' is exactly the internal-standards-or-policies statement that 12 CFR 1002.9(b)(2) declares insufficient; if instead the applicant used or accepted the $6,000 card, no adverse action occurred and no statement of specific reasons was required.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 card within 90 days of the counteroffer letter: if yes, no adverse action occurred and the bank complies; if no, the counteroffer ripened into adverse action and the 'credit policy' reason violates 1002.9(b)(2)."
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C51",
+    "label": "violates",
+    "reasoning": "Closing an individual cardholder's account because he moved out of the service area is a termination of an account and therefore adverse action, so Northgate had to send a notice with a statement of specific principal reasons (here, the residency or service-area factor it actually relied on) under 12 CFR 1002.9(a)(2)(i) and (b)(2), and by sending no notice at all it gave no statement of reasons.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iii); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(ii); comment 9(b)(2)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

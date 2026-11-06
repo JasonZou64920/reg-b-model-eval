@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C46",
+    "label": "complies",
+    "reasoning": "The notice identifies the principal reason for the denial with specificity (a debt-to-income ratio of 52% exceeding the 45% maximum), which satisfies 12 CFR 1002.9(b)(2)'s requirement that the statement be specific and indicate the principal reason, and the incidental reference to the creditor's credit policy does not convert it into the bare 'internal standards or policies' statement that the provision deems insufficient.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

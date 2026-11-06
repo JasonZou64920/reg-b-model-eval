@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "violates",
+    "reasoning": "Terminating an existing account is adverse action under 1002.2(c)(1)(ii), and the delinquency exception in 1002.2(c)(2)(ii) does not cover this June closure because the cardholder had been current since February (Official Interpretation comment 2(c)(2)(ii)-1 limits the exception to an account currently in default or delinquency and says notification is generally required when the action rests on a past delinquency), so Northgate owed a notice within 30 days under 1002.9(a)(1)(iv) containing a statement of the specific principal reasons, or disclosure of the right to request them, under 1002.9(a)(2)(i)-(ii) and 1002.9(b)(2), and by sending no notice at all it never provided any statement of reasons, let alone a specific one.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2)(i)-(ii); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(ii) and Supplement I comment 2(c)(2)(ii)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

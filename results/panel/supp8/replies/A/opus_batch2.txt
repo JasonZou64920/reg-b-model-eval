@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C62",
+    "label": "depends",
+    "reasoning": "Approving a $6,000 limit on a $25,000 request is a counteroffer, which is adverse action under 12 CFR 1002.2(c)(1)(i) only if the applicant did not use or expressly accept the card, and in that case, once the 90 days under 1002.9(a)(1)(iv) have run, the statement 'Based on our credit policy' would fail 1002.9(b)(2), which says a statement that the action rested on the creditor's internal standards or policies is insufficient; if the applicant used or accepted the card, no adverse action occurred and 1002.9(b)(2) does not apply.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.2(c)(1)(i)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 card (counteroffer accepted, so no adverse action) or did not (adverse action, so the 'credit policy' reason violates 1002.9(b)(2))."
+  }
+]
+MODEL_ID: claude-opus-5-5

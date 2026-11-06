@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C04",
+    "label": "complies",
+    "reasoning": "Because a generalized additive model gives each feature its own separate score component, listing the four most negative SHAP contributions measured against a population-wide baseline identifies the specific features that actually lowered the score, which meets the requirement for specific, principal reasons rather than a bare score or internal-standards statement under 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C17",
+    "label": "depends",
+    "reasoning": "'Unable to verify income' is a specific reason that can satisfy 1002.9(b)(2), but it complies only if the failed verification or income discrepancy was actually a principal driver of the decline, since the model did have a bureau income estimate and the decline may instead have turned on the lower estimated income value itself.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": "Whether the model's decisive adverse factor was the failure to verify the stated income (the $85,000 stated versus $52,000 estimated discrepancy) or instead the lower bureau-estimated income value or some other input."
+  },
+  {
+    "id": "C27",
+    "label": "depends",
+    "reasoning": "A $6,000 limit on a $25,000 request is a counteroffer, and the statement-of-reasons duty in 1002.9(b)(2) arises only if adverse action occurred, which turns on whether the applicant used or expressly accepted the lower credit; if not, adverse action is deemed taken and the 90-day window after the counteroffer under 1002.9(a)(1)(iv) has already lapsed with no notice of specific reasons.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 credit offered; if so there was no adverse action and no reasons are required, but if not, the 90-day period expired without a compliant notice and the case is a violation."
+  },
+  {
+    "id": "C05",
+    "label": "complies",
+    "reasoning": "The score of 655 only routed the file to an underwriter and did not itself cause the decline, so 'Length of employment' is a specific statement of the actual principal reason the underwriter acted on, and one accurate principal reason satisfies 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C12",
+    "label": "complies",
+    "reasoning": "Where the denial rests on a bureau credit score, disclosing the specific key factors returned with that score, such as delinquent credit obligations, gives the specific reasons the applicant fell short and goes beyond the insufficient bare statement of failing to achieve a qualifying score under 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

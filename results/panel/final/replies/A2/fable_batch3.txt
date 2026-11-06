@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C53",
+    "label": "violates",
+    "reasoning": "The ECOA reasons section says only that the applicant's credit score fell below the bank's minimum, which is the 'failed to achieve a qualifying score' statement that 12 CFR 1002.9(b)(2) expressly deems insufficient (the bank adopted the bureau score as its own first-stage scoring system), and under Official Interpretation comment 9(b)(2)-9 the FCRA key-factor disclosure that follows does not satisfy the ECOA duty to state the specific scored factors that were the principal reasons for the denial.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Official Interpretation comments 9(b)(2)-4, 9(b)(2)-7, 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C63",
+    "label": "violates",
+    "reasoning": "Closing one cardholder's account is adverse action on an existing account under 12 CFR 1002.2(c)(1)(ii) that requires a 1002.9 notice, and a letter stating only that the account was closed 'in accordance with our account policies' is precisely the statement that the action was based on the creditor's internal standards or policies that 12 CFR 1002.9(b)(2) declares insufficient; Northgate had to disclose the actual principal reason, that the cardholder no longer resides in a state where it offers the card.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iii); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(ii); Official Interpretation comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "Because the buyer accepted no credit, each bank's adverse action required a notice under 12 CFR 1002.9(g), and although 'excessive obligations in relation to income' and 'limited credit experience' are each specific reasons, a single combined notice that does not say which reason belongs to which bank fails to indicate the principal reason(s) for each creditor's adverse action as 12 CFR 1002.9(b)(2) requires (Official Interpretation comment 9(g)-1 requires a multi-creditor notice to clearly indicate which reasons relate to which creditor), so the notice misstates Bank A's reasons by implying limited credit experience and misstates Banks B's and C's by implying excessive obligations, contrary to comment 9(b)(2)-2's accuracy requirement.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g); Official Interpretation comments 9(g)-1 and 9(b)(2)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

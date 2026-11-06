@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C49",
+    "label": "violates",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the statement must indicate the principal reason(s) actually relied on, and because the applicant's 660 score passed the automatic cutoff and the denial came from the underwriter's judgmental finding that income could not be verified, a notice listing the four scorecard characteristics with the largest shortfalls describes factors from the scoring component rather than the actual principal reason (unable to verify income), which is not specific or accurate under 1002.9(b)(2) and Official Interpretation comment 9(b)(2)-5 (combined scoring and judgmental systems: reasons must come from the component the applicant failed).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Supplement I comments 9(b)(2)-2 and 9(b)(2)-5",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C01",
+    "label": "violates",
+    "reasoning": "Listing the same four globally most important model features on every declined applicant's notice does not identify the principal reason(s) for the adverse action taken against each particular applicant, as 12 CFR 1002.9(b)(2) requires, because the reasons are not derived from that applicant's own data and actual decision.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C16",
+    "label": "complies",
+    "reasoning": "The notice names the factor that was actually the applicant's largest negative input, revolving utilization (balances relative to limits, here measured as a 24-month average), so it is specific and indicates the principal reason for the adverse action as 12 CFR 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C30",
+    "label": "violates",
+    "reasoning": "Although Harbor timely disclosed the right to request reasons and responded within 30 days, its statement that the application 'did not meet our credit standards' is a statement that the adverse action was based on the creditor's internal standards or policies, which 12 CFR 1002.9(b)(2) expressly declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(ii)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "The applicant's failure to provide the required pay stubs was the actual principal reason for the decline, and 'Credit application incomplete' states that reason specifically rather than referring to internal standards or a failed score, satisfying 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C10",
+    "label": "depends",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the notice must indicate the principal reason(s) actually behind the adverse action, so listing the four characteristics with the largest scorecard shortfalls is sufficient only if the prior Pinecrest charge-off did not separately drive the decline (for example through a scorecard input, a knockout rule, or a judgmental override) and was not itself a principal reason.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": "Whether Pinecrest's own record of the 2023 charged-off account was considered in the decision (as a scorecard input, a policy exclusion, or an override) such that it was a principal reason for the decline, rather than the decline resting solely on the listed scorecard characteristics."
+  }
+]
+MODEL_ID: claude-opus-5-5

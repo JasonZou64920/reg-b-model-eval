@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C61",
+    "facts": "Meridian Bank's personal-loan model cannot score an application without verified income. Within 30 days of receiving an application without pay stubs, Meridian sent a written notice listing the missing stubs, giving the applicant 15 days to provide them and stating that otherwise the application would receive no further consideration. The applicant uploaded the stubs on day 25, and Meridian replied by letter that the application had been closed because the information arrived after the deadline and invited the applicant to apply again."
+  },
+  {
+    "id": "C62",
+    "facts": "An applicant asked Northgate Bank for a credit card with a $25,000 limit. Northgate's model approved a $6,000 limit, and Northgate mailed the card with a letter saying, 'Based on our credit policy, we are able to offer you a limit of $6,000.' The letter gives no other reason, and 120 days have passed."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "Because the borrower was current, her term-extension request submitted through Lakeview's own modification form is an application for an extension of credit (a refinancing or renewal) whose denial is adverse action not covered by the delinquency/default exclusion, and an email saying only that modifications are 'handled at our discretion' gives no specific principal reason and amounts to the reliance on internal standards or policies (or failure to meet the model's criteria) that 12 CFR 1002.9(b)(2) expressly declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i) and (c)(2)(ii); 12 CFR 1002.2(f); 12 CFR 1002.2(q)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

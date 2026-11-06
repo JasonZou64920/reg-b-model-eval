@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C35",
+    "label": "complies",
+    "reasoning": "The notice states two specific principal reasons, 'Excessive obligations in relation to income' and 'Limited credit experience', rather than a bare reference to internal standards or a failed credit score, which is what 12 CFR 1002.9(b)(2) requires; the applicant's non-acceptance of the counteroffer and the absence of any later notice do not bear on the specificity of the reasons under (b)(2).",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

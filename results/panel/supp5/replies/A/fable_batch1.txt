@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C52",
+    "label": "violates",
+    "reasoning": "The borrower's request through Lakeview's online modification form to extend the term is an application for an extension of credit, so the denial is an adverse action requiring a statement of specific principal reasons under 1002.9(a)(2)(i) and (b)(2), and telling the borrower only that 'loan modifications are handled at our discretion and your request was not approved' is the kind of statement that the action was based on the creditor's internal standards or policies that 1002.9(b)(2) expressly declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i), 1002.2(e), 1002.2(f)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

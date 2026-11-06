@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C37",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the notice must state the specific principal reason, and 'Poor credit performance with us' names the actual factor that drove the decline (the applicant's prior charged-off Pinecrest account) rather than merely citing the creditor's internal standards or policies or a failed credit score, which no score was even computed for here.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

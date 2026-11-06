@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C51",
+    "label": "depends",
+    "reasoning": "Section 1002.9(b)(2) only governs how specific the stated reasons must be once a notice of adverse action is required, so it neither requires nor excuses the missing notice here; whether Northgate had to send any notice turns on whether closing this account is 'adverse action' under 1002.2(c), and if it is, sending no notice at all would violate 1002.9(a) (and so never reaches the 9(b)(2) specificity standard), whereas if the closure falls within an exception, no reasons statement was owed.",
+    "citation": "12 CFR 1002.9(b)(2) (scope limited to content of reasons); 12 CFR 1002.9(a)(1)-(2) and 12 CFR 1002.2(c) (definition of adverse action and its exceptions), the latter two relied on from general knowledge rather than the supplied text",
+    "deciding_fact": "Whether the closure of this account is 'adverse action' under 1002.2(c), that is, a termination that is not within an exception (for example, one that does not affect all or a substantial portion of a classification of Northgate's accounts), or instead a uniform closure of out-of-footprint accounts because Northgate does not offer the credit to residents outside Ohio, Indiana and Michigan."
+  }
+]
+MODEL_ID: claude-sonnet-5-5

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C33",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the stated reason (monthly debt payments too high relative to income) is specific and gives the principal reason rather than a reference to internal standards or a failed credit score, and because Prairie State Bank received no more than 150 applications in the preceding calendar year, 12 CFR 1002.9(d) lets it give the statement of specific reasons orally, so the lack of a written notice does not make the statement deficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(d)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C04",
+    "label": "complies",
+    "reasoning": "Because each GAM feature contributes its own separate score component, SHAP values measured against a background of all applicants show how far each factor fell below the all-applicant average, which is the method comment 9(b)(2)-5 expressly accepts, and the four listed reasons relate only to factors actually scored (comment 9(b)(2)-4) and stay within the four-reason guidance of comment 9(b)(2)-1.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C17",
+    "label": "depends",
+    "reasoning": "Under 1002.9(b)(2) and comment 9(b)(2)-2 the stated reason must accurately describe the factors actually considered, and since the model simply takes stated income and a bureau estimate as inputs rather than running a verification step, 'Unable to verify income' is accurate only if the principal driver was the stated-versus-estimated income discrepancy.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4",
+    "deciding_fact": "Whether the principal factor driving the decline was an income-discrepancy or verification feature of the model (accurate reason), or instead the lower bureau-estimated income level or some other factor (in which case 'Unable to verify income' does not accurately describe the factor actually scored)."
+  },
+  {
+    "id": "C27",
+    "label": "depends",
+    "reasoning": "Approving $6,000 on a $25,000 request is adverse action under 1002.2(c)(1)(iv) unless the applicant uses or expressly accepts the credit offered, and if it is adverse action then Northgate gave neither a statement of specific reasons nor a notice of the right to request them under 1002.9(a)(2) and (b)(2) within the 30-day or 90-day periods of 1002.9(a)(1), which have both expired at 120 days.",
+    "citation": "12 CFR 1002.9(a)(1)(i) and (iv), 1002.9(a)(2), 1002.9(b)(2); 12 CFR 1002.2(c)(1)(iv)",
+    "deciding_fact": "Whether the applicant used the card or expressly accepted the $6,000 limit; if so, the counteroffer was accepted, there was no adverse action, and no notice was required, but if not, the missing notice is a violation."
+  },
+  {
+    "id": "C05",
+    "label": "violates",
+    "reasoning": "The 655 score fell in the gray band and the underwriter then denied after a judgmental review, so comment 9(b)(2)-7 requires the reasons to come from both the scoring and the judgmental components, yet the notice lists only the single judgmental reason 'Length of employment' and gives no reason from the scored factors.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-7, 9(b)(2)-4, 9(b)(2)-6",
+    "deciding_fact": null
+  },
+  {
+    "id": "C12",
+    "label": "complies",
+    "reasoning": "Because the bureau score is Oakmont's sole criterion, the four key factors that drove that score are the factors actually scored and the real principal reasons for the denial, so listing them as specific reasons satisfies 1002.9(b)(2) and comments 9(b)(2)-2 and -4, and comment 9(b)(2)-9 (key factors alone do not satisfy ECOA) does not defeat this because here no other creditor factor exists to disclose and the notice does not rest on merely stating that the applicant failed a qualifying score.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-9, 9(b)(2)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

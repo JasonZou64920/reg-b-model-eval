@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C39",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2), saying the applicant failed to reach a qualifying score is insufficient only when it stands alone, and here the notice also gives the specific principal reasons (proportion of balances to credit limits, number of recent inquiries, length of credit history), which are the applicant's largest shortfalls under the scoring system, so the specificity requirement is met.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

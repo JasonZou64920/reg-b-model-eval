@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "violates",
+    "reasoning": "Closing one cardholder's account is a termination that is not class-wide and therefore adverse action under 1002.2(c)(1)(ii), the delinquency exclusion in 1002.2(c)(2)(ii) does not apply because the account was no longer delinquent (comment 2(c)(2)(ii)-2 says notice is generally required when the action rests on a past delinquency), so Northgate had to notify within 30 days under 1002.9(a)(1)(iii) with a statement of specific principal reasons meeting 1002.9(b)(2), and sending no notice at all means no compliant statement of reasons was given.",
+    "citation": "12 CFR 1002.9(b)(2); 1002.9(a)(1)(iii); 1002.9(a)(2)(i); 1002.2(c)(1)(ii); 1002.2(c)(2)(ii); Supp. I comment 2(c)(2)(ii)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

@@ -1,0 +1,43 @@
+# Supplement I to Part 1002, Official interpretations of 1002.2(c)
+# Source: https://www.consumerfinance.gov/rules-policy/regulations/1002/interp-2/
+# Retrieved: 2026-10-31 (eCFR full-text API, point-in-time 2026-10-29; cross-checked against consumerfinance.gov interactive regulation, which labels the July 21, 2026 version as the current regulation)
+# Last amendment date of this unit per eCFR versioner: Supplement I last amended 2026-07-21; 2(c) commentary textually identical before and after
+# Text is verbatim; only whitespace normalized.
+
+2(c) Adverse action.
+
+Paragraph 2(c)(1)(i).
+
+1. Application for credit. If the applicant applied in accordance with the creditor's procedures, a refusal to refinance or extend the term of a business or other loan is adverse action.
+
+Paragraph 2(c)(1)(ii).
+
+1. Move from service area. If a credit card issuer terminates the open-end account of a customer because the customer has moved out of the card issuer's service area, the termination is adverse action unless termination on this ground was explicitly provided for in the credit agreement between the parties. In cases where termination is adverse action, notification is required under § 1002.9.
+
+2. Termination based on credit limit. If a creditor terminates credit accounts that have low credit limits (for example, under $400) but keeps open accounts with higher credit limits, the termination is adverse action and notification is required under § 1002.9.
+
+Paragraph 2(c)(2)(ii).
+
+1. Default—exercise of due-on-sale clause. If a mortgagor sells or transfers mortgaged property without the consent of the mortgagee, and the mortgagee exercises its contractual right to accelerate the mortgage loan, the mortgagee may treat the mortgagor as being in default. An adverse action notice need not be given to the mortgagor or the transferee. (See comment 2(e)-1 for treatment of a purchaser who requests to assume the loan.)
+
+2. Current delinquency or default. The term adverse action does not include a creditor's termination of an account when the accountholder is currently in default or delinquent on that account. Notification in accordance with § 1002.9 of the regulation generally is required, however, if the creditor's action is based on a past delinquency or default on the account.
+
+Paragraph 2(c)(2)(iii).
+
+1. Point-of-sale transactions. Denial of credit at point of sale is not adverse action except under those circumstances specified in the regulation. For example, denial at point of sale is not adverse action in the following situations:
+
+i. A credit cardholder presents an expired card or a card that has been reported to the card issuer as lost or stolen.
+
+ii. The amount of a transaction exceeds a cash advance or credit limit.
+
+iii. The circumstances (such as excessive use of a credit card in a short period of time) suggest that fraud is involved.
+
+iv. The authorization facilities are not functioning.
+
+v. Billing statements have been returned to the creditor for lack of a forwarding address.
+
+2. Application for increase in available credit. A refusal or failure to authorize an account transaction at the point of sale or loan is not adverse action except when the refusal is a denial of an application, submitted in accordance with the creditor's procedures, for an increase in the amount of credit.
+
+Paragraph 2(c)(2)(v).
+
+1. Terms of credit versus type of credit offered. When an applicant applies for credit and the creditor does not offer the credit terms requested by the applicant (for example, the interest rate, length of maturity, collateral, or amount of downpayment), a denial of the application for that reason is adverse action (unless the creditor makes a counteroffer that is accepted by the applicant) and the applicant is entitled to notification under § 1002.9.

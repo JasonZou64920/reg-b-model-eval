@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C47",
+    "facts": "Northgate's account-management model closed a credit card account in June. The cardholder had been 60 days past due in January, brought the account current in February, and has paid on time every month since. Northgate sent no notice of the closure."
+  },
+  {
+    "id": "C48",
+    "facts": "Northgate's account-management model flagged a credit card account for closure because of a 60-day delinquency on that account, and Northgate closed it in June without sending any notice."
+  },
+  {
+    "id": "C49",
+    "facts": "Harbor Auto Finance approves auto loans automatically at scores of 700 and above, declines automatically below 620, and sends 620 to 699 to an underwriter. An applicant scored 660, and the underwriter declined after finding that the applicant's income could not be verified. The notice lists the four scorecard characteristics with the largest shortfalls."
+  }
+]

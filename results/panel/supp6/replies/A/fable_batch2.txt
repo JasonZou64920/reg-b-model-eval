@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C55",
+    "label": "complies",
+    "reasoning": "The applicant's 655 score passed the automated stage and the denial came from the underwriter's judgmental review of the recent job change, so under 12 CFR 1002.9(b)(2) and comment 9(b)(2)-6 the disclosed reason must relate to the judgmental component the applicant failed, and 'Length of employment' is a specific principal reason that does just that (the scored shortfalls in utilization and inquiries did not cause the denial and need not be listed).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-5 and 9(b)(2)-6; Appendix C sample form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C53",
+    "label": "violates",
+    "reasoning": "The only ECOA reason given, 'Credit score below our minimum requirement,' is a statement that the applicant failed to achieve a qualifying score, which 12 CFR 1002.9(b)(2) expressly deems insufficient, and comment 9(b)(2)-9 provides that the FCRA key-factor disclosure does not satisfy the ECOA requirement, so the notice fails to state the specific principal reasons (the factors that drove the score below the cutoff).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-4 and 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C59",
+    "label": "complies",
+    "reasoning": "Closing an account because of a 60-day delinquency on that same account falls within the exclusion in 12 CFR 1002.2(c)(2)(ii) for actions taken in connection with delinquency as to that account, so it is not adverse action and no statement of specific reasons is required under 1002.9(a)(2)(i) and 1002.9(b)(2), even though the 'account-management policy' wording would have been an insufficient internal-policy statement had a reasons notice been required.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

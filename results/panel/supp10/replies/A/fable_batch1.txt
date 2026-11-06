@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "Because the borrower requested a continuance of existing credit on new terms through Lakeview's own modification request procedure, the decline is adverse action on an application (12 CFR 1002.2(c)(1)(i), (f), (q)) that the default/delinquency exclusion in 1002.2(c)(2)(ii) does not reach since she was fully current, so 1002.9(a)(2)(i) required a statement of the principal reasons, and 'loan modifications are handled at our discretion and your request was not approved' is precisely the internal-standards-or-policies statement that 1002.9(b)(2) declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i); 12 CFR 1002.2(c)(2)(ii); 12 CFR 1002.2(f); 12 CFR 1002.2(q)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

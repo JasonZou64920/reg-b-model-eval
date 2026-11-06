@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C61",
+    "label": "complies",
+    "reasoning": "Meridian's closing letter states a specific, factual principal reason for the action (the required pay stubs were not received within the 15-day period set in its notice of incompleteness, i.e., an incomplete application) rather than a bare reference to internal standards or a failed credit score, so it satisfies 12 CFR 1002.9(b)(2); moreover, because the applicant failed to respond within the period designated in a proper 1002.9(c)(2) notice, Meridian had no further notice obligation under 1002.9 in any event.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(c)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

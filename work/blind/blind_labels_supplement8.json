@@ -1,0 +1,20 @@
+[
+  {
+    "id": "C61",
+    "label": "complies",
+    "reasoning": "Meridian chose the notice-of-incompleteness route within 30 days with a written notice that specified the missing pay stubs, set a period to provide them and warned of no further consideration, so when the stubs came after that period it had no further notification obligation and could require a new application instead of giving reasons.",
+    "citation": "12 CFR 1002.9(c)(1)(ii); 12 CFR 1002.9(c)(2); comment 9(c)(2)-1; appendix C, para. 5",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "depends or violates: the facts do not say what 'day 25' is counted from or when the notice went out, so if day 25 means 25 days after Meridian received the application and the notice was sent on day 10 or later, the stubs arrived within the 15-day period, and Meridian had to act on the application and notify under 12 CFR 1002.9(a) rather than close it; a reviewer could also question whether 15 days is the 'reasonable period' 12 CFR 1002.9(c)(2) requires, which the folder does not define."
+  },
+  {
+    "id": "C62",
+    "label": "depends",
+    "reasoning": "The $6,000 limit is a counteroffer that becomes adverse action unless the applicant used or expressly accepted it, and the letter cannot serve as a combined adverse action notice because 'based on our credit policy' is an internal-policy statement that 1002.9(b)(2) calls insufficient, so the result turns on whether the applicant accepted or used the card, which the facts do not state.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(b)(2); comment 9(a)(1)-6",
+    "deciding_fact": "Whether the applicant expressly accepted or used the $6,000 card: if yes, there is no adverse action, no reasons were owed and Northgate complies; if no, a notice with specific reasons or the right to them was due by day 90 and the 'credit policy' letter does not satisfy it, so Northgate violates. Stating this fact fully resolves the case.",
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

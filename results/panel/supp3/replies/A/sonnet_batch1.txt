@@ -1,0 +1,2 @@
+[{"id": "C45", "label": "complies", "reasoning": "The notice gives a specific reason, 'Unable to verify income', that accurately corresponds to the model's principal negative factor (stated income not corroborated by the bureau-derived income estimate), rather than the generic 'internal standards or policies' or 'failed to achieve a qualifying score' statements that 12 CFR 1002.9(b)(2) deems insufficient.", "citation": "12 CFR 1002.9(b)(2)", "deciding_fact": null}]
+MODEL_ID: claude-sonnet-5-5

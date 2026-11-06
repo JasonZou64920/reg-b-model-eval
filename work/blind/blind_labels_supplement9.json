@@ -1,0 +1,11 @@
+[
+  {
+    "id": "C63",
+    "label": "depends",
+    "reasoning": "Closing a card account because the cardholder moved out of the issuer's service area is adverse action unless the credit agreement explicitly provided for termination on that ground, and if it is adverse action, a letter saying only 'in accordance with our account policies' is an internal-policy statement that 1002.9(b)(2) calls insufficient, so the result turns on the agreement, which the facts do not describe.",
+    "citation": "comment 2(c)(1)(ii)-1; 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)",
+    "deciding_fact": "Whether Northgate's credit agreement explicitly provided for termination if the cardholder moved out of the service area: if it did, the closure is not adverse action, no statement of reasons was owed and Northgate complies; if it did not, the letter gave neither specific reasons nor the right to them and Northgate violates. Stating this fact fully resolves the case.",
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

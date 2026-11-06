@@ -1,0 +1,29 @@
+[
+  {
+    "id": "C47",
+    "label": "violates",
+    "reasoning": "Closing an account is adverse action, and because the cardholder had cured the January delinquency and was current when the account was closed in June, the exclusion for current delinquency does not apply and notice is generally required for action based on a past delinquency, so sending no notice gave neither specific reasons nor the right to them.",
+    "citation": "12 CFR 1002.2(c)(1)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(a)(1)(iii); 12 CFR 1002.9(a)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C48",
+    "label": "depends",
+    "reasoning": "Closing an account for a delinquency on that account is not adverse action if the account is currently delinquent, but notice is generally required if the closure rests on a past delinquency, and the facts do not say whether the 60-day delinquency was still outstanding when Northgate closed the account in June.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.9(a)(1)(iii)",
+    "deciding_fact": "Whether the account was still delinquent when it was closed in June: if it was currently delinquent, there is no adverse action and Northgate complies; if the delinquency had been cured and the closure rested on that past delinquency, a notice was required and Northgate violates.",
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C49",
+    "label": "violates",
+    "reasoning": "A score of 660 falls in the gray band, and when a gray-band application is denied after judgmental review the reasons must come from both components, so a notice listing only the four scorecard shortfalls omits the underwriter's actual reason, 'Unable to verify income.'",
+    "citation": "comment 9(b)(2)-7; comment 9(b)(2)-4; comment 9(b)(2)-1",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

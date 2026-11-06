@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C50",
+    "facts": "A cardholder whose purchase was about to exceed her limit used Northgate's app to request a $2,000 credit limit increase, as the app's procedures allow. Northgate's model declined the request, the app displayed 'Purchase declined: over limit,' and Northgate sent no notice."
+  },
+  {
+    "id": "C51",
+    "facts": "Northgate offers its credit card only to residents of Ohio, Indiana and Michigan. A cardholder moved to Arizona, Northgate closed the account for that reason, and it sent no notice."
+  },
+  {
+    "id": "C52",
+    "facts": "A borrower with an existing auto loan at Lakeview Credit Union applied, using Lakeview's online modification request form, to extend the loan's remaining term from 24 to 48 months. Lakeview's model declined the request, and Lakeview told the borrower by email that 'loan modifications are handled at our discretion and your request was not approved.'"
+  }
+]

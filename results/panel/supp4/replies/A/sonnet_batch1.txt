@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "depends",
+    "reasoning": "Section 1002.9(b)(2) only governs the specificity of a statement of reasons that is required by 1002.9(a)(2)(i), so whether Northgate's silence violates it turns on whether closing this account was adverse action at all, which it was not if the closure was taken in connection with the account's delinquency (1002.2(c)(2)(ii)) but was if the model closed it for some other reason, in which case sending no statement of specific principal reasons fails the rule.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)-(2)(i); 12 CFR 1002.2(c)(1)(ii) and (c)(2)(ii)",
+    "deciding_fact": "Whether the June closure was an action taken in connection with the account's January delinquency (excluded from adverse action, so no statement of reasons is required) or was instead based on other model factors unrelated to that delinquency (adverse action, so a specific statement of principal reasons was required and none was sent)."
+  }
+]
+MODEL_ID: claude-sonnet-5-5

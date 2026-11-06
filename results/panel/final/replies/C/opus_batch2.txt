@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "Because the current borrower asked through Lakeview's own modification form to extend her loan term, the refusal is adverse action under comment 2(c)(1)(i)-1 (and the 2(c)(2)(ii) delinquency exclusion does not apply), and an email saying only that modifications are handled at Lakeview's discretion is a statement based on the creditor's internal standards or policies, which 12 CFR 1002.9(b)(2) declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(i); Supplement I comment 2(c)(1)(i)-1; Supplement I comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "Because the denial came from the credit scoring system and the scorecard does not score prior Pinecrest accounts, 12 CFR 1002.9(b)(2) and comment 9(b)(2)-4 require the reasons to relate only to factors actually scored, and listing the four scored characteristics with the largest shortfalls is an acceptable selection method under comments 9(b)(2)-1 and 9(b)(2)-5, so the unscored 2023 charge-off did not have to be disclosed.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1, 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Because the applicant left out income that she could have supplied and Meridian lacked enough data to make a credit decision, comment 9(a)(1)-3 lets the creditor deny the application with incompleteness as the reason, so 'Credit application incomplete' (a listed reason on Form C-1) accurately states the principal reason as 12 CFR 1002.9(b)(2) requires, and the notice went out within the 30 days set by 1002.9(a)(1)(ii) and (c)(1)(i).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(ii); 12 CFR 1002.9(c)(1)(i); Supplement I comments 9(a)(1)-3 and 9(b)(2)-2; Appendix C, Form C-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

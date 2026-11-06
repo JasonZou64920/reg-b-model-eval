@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C14",
+    "label": "violates",
+    "reasoning": "Although comment 9(b)(2)-1 sets no required number of reasons, four characteristics with nearly equal shortfalls (22, 21, 19, 18) far above every other (6 or less) are all principal reasons, and comment 9(b)(2)-4 bars excluding any principal reason from a credit-scored denial, so a policy of disclosing only the single largest shortfall fails 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C28",
+    "label": "violates",
+    "reasoning": "The limit cut on a subset of accounts was driven by the behavior-scoring model, yet the letter's statement that it was 'part of a portfolio-wide risk management review' is an internal-standards-or-policies statement that 12 CFR 1002.9(b)(2) declares insufficient, and it discloses none of the scored factors that comments 9(b)(2)-2 and 9(b)(2)-4 require.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C20",
+    "label": "violates",
+    "reasoning": "'Credit history' is a generic category that does not specifically or accurately describe the scored factor actually responsible (number of 60-day-or-worse delinquencies), so it fails the specificity requirement of 12 CFR 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4, consistent with comment 9(b)(2)-9's example requiring disclosure of the delinquent credit obligations themselves.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-4 and 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C03",
+    "label": "depends",
+    "reasoning": "Comment 9(b)(2)-5 names two acceptable methods based on shortfall from average scores and accepts any other method only if it produces substantially similar results, so ranking by shortfall from maximum available points complies only if it yields reasons substantially similar to those methods.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": "Whether Ridgeway's maximum-points ranking produces results substantially similar to either average-score method described in comment 9(b)(2)-5 (shortfall below the average of applicants at or slightly above the minimum passing score, or below the average of all applicants)."
+  },
+  {
+    "id": "C07",
+    "label": "violates",
+    "reasoning": "For a gray-band decline after judgmental review, comment 9(b)(2)-7 requires that the reasons come from both the scoring and judgmental components and comment 9(b)(2)-4 bars excluding any principal reason, so dropping the underwriter's 'Unable to verify income' reason to fit a four-line template violates 12 CFR 1002.9(b)(2), since the four-reason guidance in comments 9(b)(2)-1 and -7 is advisory and does not permit omitting a principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-7",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

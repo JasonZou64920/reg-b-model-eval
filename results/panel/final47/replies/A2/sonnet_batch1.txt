@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "depends",
+    "reasoning": "Section 1002.9(b)(2) only sets how specific a statement of reasons must be once an adverse action notice is owed, so the result turns on whether this account closure is adverse action at all or falls within the 1002.2(c)(2)(iii) exclusion for action taken in connection with delinquency on that account, and if it is adverse action then sending no statement of principal reasons whatsoever cannot satisfy 1002.9(a)(2)(i) and (b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(iii)",
+    "deciding_fact": "Whether Northgate closed the account in connection with the January delinquency on that account (an excluded action, so no notice is required) or on some other basis in its account-management model unrelated to delinquency on that account (adverse action requiring a specific statement of reasons)."
+  }
+]
+MODEL_ID: claude-sonnet-5-5

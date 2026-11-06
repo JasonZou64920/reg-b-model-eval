@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C31",
+    "label": "depends",
+    "reasoning": "Because no credit was offered or used (a cash purchase is not acceptance of credit), each bank took adverse action and may give notice through the third party under 1002.9(g), but under 1002.9(b)(2) the combined notice must state each bank's own principal reasons, so it complies only if the two listed reasons are in fact the principal reasons for each of the three banks' declines.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": "Whether 'Excessive obligations in relation to income' and 'Limited credit experience' were the actual principal reasons for each of the three banks' declines, or whether any bank declined for a different reason not disclosed in the shared notice."
+  },
+  {
+    "id": "C22",
+    "label": "complies",
+    "reasoning": "Under 1002.9(b)(2) a bare reference to internal standards or policies is insufficient, but this notice states the specific criterion the applicant failed (an 84-month term requested against a 72-month maximum for vehicles over five years old), which is the principal reason for refusing credit on the terms requested.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(i); Appendix C, Form C-1 (credit not granted on the terms requested)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Under 1002.9(c)(1)(i) a creditor may answer an incomplete application with a notice of action taken, and 'Credit application incomplete' is a model reason in Appendix C that accurately states the principal reason as required by 1002.9(b)(2), since Meridian made no decision on the merits.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C15",
+    "label": "violates",
+    "reasoning": "Under 1002.9(b)(2) and its commentary the disclosed reasons must accurately reflect the factors actually scored, so mapping a revolving-balance trend feature to 'Excessive obligations in relation to income' when the model uses no income or debt-to-income input misstates the principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation 9(b)(2)-4 (reasons must relate to factors actually scored)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C08",
+    "label": "violates",
+    "reasoning": "Under 1002.9(b)(2) the notice must indicate the actual principal reason, and the applicant was declined by a bankruptcy knockout rule before any score was computed, so checking 'Delinquent past or present credit obligations with others' instead of the bankruptcy reason does not disclose the real basis for the decision.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation 9(b)(2)-3; Appendix C, Form C-1 (separate 'Bankruptcy' reason)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

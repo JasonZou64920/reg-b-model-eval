@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C53",
+    "label": "violates",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) a statement that the applicant failed to reach the creditor's qualifying score (here 'Credit score below our minimum requirement') is expressly insufficient, and comment 9(b)(2)-9 provides that disclosing the FCRA key factors that adversely affected the credit score does not satisfy the ECOA requirement to state the specific reasons, so the notice gives no legally sufficient principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-4, 9(b)(2)-8 and 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C63",
+    "label": "depends",
+    "reasoning": "Under comment 2(c)(1)(ii)-1, closing a card account because the holder moved out of the service area is adverse action unless the credit agreement explicitly provided for termination on that ground; if it is adverse action, the reason 'in accordance with our account policies' is a reference to internal policies that 12 CFR 1002.9(b)(2) declares insufficient, but if the agreement explicitly provided for it there is no adverse action and no statement of specific reasons is required.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(ii); Supplement I, comment 2(c)(1)(ii)-1",
+    "deciding_fact": "Whether Northgate's credit agreement with the cardholder explicitly provided for termination of the account if the cardholder moved out of its service area (Ohio, Indiana and Michigan)."
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "Because the buyer did not accept or use credit from any bank, each bank's adverse action required notice under 12 CFR 1002.9(g), and comment 9(g)-1 requires a single third-party notice that states reasons to give the primary reasons each creditor relied on while clearly indicating which reasons relate to which creditor, which this notice fails to do by listing two pooled reasons without attributing them to Bank A versus Banks B and C, so the specific principal reasons for each creditor's action are not disclosed as 12 CFR 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g); Supplement I, comment 9(g)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

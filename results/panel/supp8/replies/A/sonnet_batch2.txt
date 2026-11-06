@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C62",
+    "label": "depends",
+    "reasoning": "A $6,000 card offered against a $25,000 request is a counteroffer that is not adverse action under 1002.2(c)(1)(iv) if the applicant used or expressly accepted it (so 1002.9(b)(2) is not triggered), but if the applicant did neither, the refusal of the requested amount is adverse action and the letter's 'Based on our credit policy' statement is an insufficient reason under 1002.9(b)(2), which expressly rejects reliance on the creditor's internal standards or policies.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(iv); 12 CFR 1002.9(a)(1)(iv)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 credit offered (the facts do not say), which determines whether the counteroffer ever became adverse action requiring specific reasons."
+  }
+]
+MODEL_ID: claude-sonnet-5-5

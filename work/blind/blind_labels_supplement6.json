@@ -1,0 +1,65 @@
+[
+  {
+    "id": "C53",
+    "label": "violates",
+    "reasoning": "Even though the score cut works as a first-stage screen, 'Credit score below our minimum requirement' is a statement that the applicant failed to achieve a qualifying score, which 1002.9(b)(2) calls insufficient, the reasons must relate to the factors actually scored, and the FCRA key-factor disclosure that follows does not satisfy the ECOA reasons requirement.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-4; comment 9(b)(2)-9",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "complies: a reviewer could treat the sub-640 screen as an automatic-denial feature and read comment 9(b)(2)-8 as satisfied by naming that factor, and could read 'the creditor's credit scoring system' in 1002.9(b)(2) as not reaching a bureau score; this is weaker because the commentary's automatic-denial examples are record facts, not a composite score."
+  },
+  {
+    "id": "C54",
+    "label": "complies",
+    "reasoning": "Without stated income the model cannot produce a score, so the application lacked information the applicant could provide and sufficient data for a credit decision, and the creditor may deny it within 30 days giving incompleteness as the reason.",
+    "citation": "comment 9(a)(1)-3; 12 CFR 1002.9(c)(1)(i)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C55",
+    "label": "violates",
+    "reasoning": "A 655 score falls in the gray band, so the reasons for the underwriter's denial must come from both components, and a notice listing only 'Length of employment' omits the scoring-component reasons (the shortfalls on revolving utilization and recent inquiries).",
+    "citation": "comment 9(b)(2)-7; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C56",
+    "label": "depends",
+    "reasoning": "Because the scorecard has no characteristic for prior Pinecrest accounts, the prior charge-off could have been a principal reason only through a path outside the scorecard, such as an automatic-denial rule for prior bad history with the creditor, and the facts do not say whether any such rule or review applied.",
+    "citation": "comment 9(b)(2)-8; comment 9(b)(2)-7; comment 9(b)(2)-4",
+    "deciding_fact": "Whether the prior Pinecrest charge-off played any part in the decision outside the scorecard (an automatic-denial rule or a judgmental review): if it did not and the denial rested on the score alone, complies; if it did, that factor had to be disclosed and the notice violates. Stating this fact fully resolves the case, taking the stated 'largest shortfalls' ranking as an acceptable reason-selection method.",
+    "confidence": "medium",
+    "defensible_alternative": "complies: read literally, the facts present the denial as a score decline, the scorecard cannot have scored the prior account, and the four largest shortfalls are the reasons comments 9(b)(2)-4 and 9(b)(2)-5 call for."
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "No credit was offered and a cash purchase is not accepting or using offered credit, so the banks' notices were owed, and although the single third-party notice names and addresses each bank, it pools the two reasons without indicating that Bank A relied on obligations relative to income and Banks B and C on limited credit experience.",
+    "citation": "12 CFR 1002.9(g); comment 9(g)-1; 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C58",
+    "label": "depends",
+    "reasoning": "The reason accurately describes a relationship between two factors the model actually scores, but the facts do not say whether that stated-versus-estimated income gap was what drove the decline or whether it was the only principal reason, and the notice lists just that one reason.",
+    "citation": "comment 9(b)(2)-2; comment 9(b)(2)-4; comment 9(b)(2)-1",
+    "deciding_fact": "Whether the gap between the $85,000 stated income and the $52,000 bureau estimate was the sole principal reason for the decline: if it was, complies; if the decline was driven by something else (such as the income level itself), or other principal reasons were left off the one-reason notice, violates. Framed this way, stating the fact fully resolves the case.",
+    "confidence": "medium",
+    "defensible_alternative": "violates: because the model takes stated and estimated income as separate inputs and has no inconsistency feature, a reviewer could say the reason describes a comparison rather than a factor actually scored, which comment 9(b)(2)-4 requires."
+  },
+  {
+    "id": "C59",
+    "label": "depends",
+    "reasoning": "Closing an account for a delinquency on that account is not adverse action if the account is currently delinquent, but if the closure rests on a past delinquency notice is required, and a letter saying only 'under our account-management policy' is an internal-policy statement that 1002.9(b)(2) calls insufficient.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); comment 2(c)(2)(ii)-2; 12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)",
+    "deciding_fact": "Whether the account was still delinquent when Northgate closed it: if it was, there is no adverse action, no statement of reasons was owed and Northgate complies; if the delinquency had been cured and the closure rested on it, the letter gave neither specific reasons nor the right to them and Northgate violates. Stating this fact fully resolves the case.",
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

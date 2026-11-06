@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C53",
+    "label": "violates",
+    "reasoning": "Stating only that the score was 'below our minimum requirement' is the kind of failure-to-achieve-a-qualifying-score statement that 1002.9(b)(2) expressly calls insufficient, and comment 9(b)(2)-9 confirms that adding the FCRA credit score key factors does not supply the specific ECOA reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comment 9(b)(2)-9; comment 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C63",
+    "label": "depends",
+    "reasoning": "Under comment 2(c)(1)(ii)-1 a termination because the cardholder moved out of the service area is adverse action unless the credit agreement explicitly provided for it, and if it is adverse action then 'in accordance with our account policies' is an insufficient internal-policy statement under 1002.9(b)(2), whereas if the agreement expressly allowed it there is no adverse action and no statement of reasons is required.",
+    "citation": "12 CFR 1002.9(b)(2); 1002.9(a)(2)(i); 1002.2(c)(1)(ii); Supp. I comment 2(c)(1)(ii)-1",
+    "deciding_fact": "Whether the Northgate credit agreement explicitly provided for terminating the account when the cardholder moves out of the service area."
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "Comment 9(g)-1 requires a single third-party notice that gives reasons to clearly indicate which reasons relate to which creditor, but this notice pools both reasons across all three banks, so it does not accurately state each bank's actual principal reason as 1002.9(b)(2) and comment 9(b)(2)-2 require (it implies Banks B and C relied on excessive obligations and Bank A on limited credit experience).",
+    "citation": "12 CFR 1002.9(b)(2); 1002.9(g); Supp. I comments 9(g)-1 and 9(b)(2)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

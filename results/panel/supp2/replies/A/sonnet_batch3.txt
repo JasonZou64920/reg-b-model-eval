@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C42",
+    "label": "complies",
+    "reasoning": "Section 1002.9(b)(2) requires a specific statement of the principal reason(s), and a notice naming the two characteristics with the dominant 31 and 27 point shortfalls (versus only 2 to 4 points on the rest) identifies the principal reasons specifically rather than citing internal standards or a failed qualifying score.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

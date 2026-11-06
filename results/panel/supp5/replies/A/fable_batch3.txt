@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C51",
+    "label": "depends",
+    "reasoning": "Under Official Interpretation comment 2(c)(1)-1, terminating a card account because the customer moved out of the issuer's service area is adverse action unless termination on that ground was explicitly provided for in the credit agreement, so if the agreement did not so provide, the closure was adverse action on an existing account requiring notice within 30 days under 1002.9(a)(1)(iii) with a statement of specific principal reasons (or the right-to-request disclosure) under 1002.9(a)(2) and 1002.9(b)(2), and sending no notice at all means the specific statement of reasons required by 1002.9(b)(2) was never furnished, whereas if the agreement expressly provided for termination on relocation, the closure is not adverse action under 1002.2(c)(2)(i) and no notice or statement of reasons was required.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iii) and 1002.9(a)(2); 12 CFR 1002.2(c)(1)(ii) and 1002.2(c)(2)(i); Official Interpretation, Supplement I to Part 1002, comment 2(c)(1)-1 (move from service area)",
+    "deciding_fact": "Whether Northgate's cardholder agreement explicitly provided that the account would be terminated if the cardholder moved outside the Ohio, Indiana and Michigan service area: if it did, the closure is not adverse action and no notice or statement of reasons was due; if it did not, the closure is adverse action and sending no notice with a specific principal reason violates 1002.9."
+  }
+]
+MODEL_ID: claude-fable-5-1

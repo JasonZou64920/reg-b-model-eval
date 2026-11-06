@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "A current borrower's request on the creditor's own form for a longer term is a request for credit on different terms (12 CFR 1002.2(f)) that the creditor refused, and with no default or delinquency exclusion in play, the emailed explanation that modifications are 'handled at our discretion' is an internal-policy statement that 1002.9(b)(2) expressly holds insufficient because it gives no specific principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1) and 1002.2(f)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "Because the denial rested on the scorecard and the prior charge-off was not a scored characteristic, the four characteristics with the largest shortfalls are the actual principal reasons, so the notice is specific and does not rest on the bare 'failed to achieve a qualifying score' statement that 1002.9(b)(2) rejects.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Comment 9(b)(2)-1 (reasons must relate to factors actually scored)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "The only reason the application was not decided was the missing income, so 'Credit application incomplete' states the actual principal reason in specific terms rather than an internal standard or a failed score, and 1002.9(c)(1)(i) permits an adverse action notice for an incomplete application when sent within the 30-day period.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); 12 CFR 1002.9(a)(2)(i); Appendix C Form C-1 ('Credit application incomplete')",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

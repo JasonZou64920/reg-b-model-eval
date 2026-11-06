@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C44",
+    "label": "complies",
+    "reasoning": "Because the officer passed the file, short time at the current address was not a reason for the decline, and the notice names the scorecard's three largest shortfalls as the specific principal reasons rather than citing internal standards or a failing score, which is what 12 CFR 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

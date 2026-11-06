@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C31",
+    "label": "depends",
+    "reasoning": "Both reasons ('Excessive obligations in relation to income' and 'Limited credit experience') are specific factors rather than the prohibited 'internal standards or policies' or 'failed to achieve a qualifying score' statements, and because the applicant used no credit from any bank each of the three must give notice directly or through the platform, which properly names each creditor under 1002.9(g); but comment 9(g)-1 requires a single notice given on behalf of several creditors to state the principal reasons each creditor relied on and to clearly indicate which reasons relate to which creditor (or instead disclose the right to request reasons within 30 days), and the facts do not establish that the two reasons are attributed to, and were actually the principal reasons of, each bank.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2); 12 CFR 1002.9(g); Official Interpretation comment 9(g)-1; comment 9(b)(2)-2",
+    "deciding_fact": "Whether the combined notice clearly indicates which of the listed reasons each of the three banks actually relied on as its principal reason(s) (or discloses the right to a statement of specific reasons within 30 days), rather than giving one undifferentiated list of two reasons for all three creditors."
+  },
+  {
+    "id": "C22",
+    "label": "complies",
+    "reasoning": "The notice states the actual principal reason in concrete terms (the requested 84-month term exceeds the 72-month maximum for vehicles over five years old), which relates to and accurately describes the factor actually considered rather than a bare statement that the applicant failed the credit union's internal standards or policies, so it is 'specific' within the meaning of 1002.9(b)(2) and comments 9(b)(2)-2 through -4 (a creditor must disclose the actual reason, e.g., 'age of automobile', even if its relevance is not obvious).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4, 9(b)(2)-6",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Because Meridian never evaluated the merits and acted solely on the missing income field, 'Credit application incomplete' accurately identifies the one principal reason actually relied on (comment 9(b)(2)-2), is a reason the Bureau itself lists on sample Form C-1, and 1002.9(c)(1) permits a creditor to take adverse action on an incomplete application and send a 1002.9(a)(1) notice within 30 days in lieu of a notice of incompleteness.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(ii); 12 CFR 1002.9(c)(1); Appendix C to Part 1002, Form C-1; Official Interpretation comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C15",
+    "label": "violates",
+    "reasoning": "Under comments 9(b)(2)-2 and 9(b)(2)-4 the disclosed reasons must relate to and accurately describe the factors actually scored, and under comment appendix C-4 a creditor does not satisfy the requirement by checking the closest identifiable factor on the sample form, so labeling a 24-month revolving-balance-trend feature as 'Excessive obligations in relation to income' when the model considers neither income nor debt-to-income misdescribes the principal reason and violates 1002.9(b)(2) (consistent with CFPB Circulars 2022-03 and 2023-03 on complex algorithms).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-2, 9(b)(2)-4, appendix C-4; CFPB Circular 2022-03; CFPB Circular 2023-03",
+    "deciding_fact": null
+  },
+  {
+    "id": "C08",
+    "label": "violates",
+    "reasoning": "The decline resulted from an automatic-denial rule keyed to a recent bankruptcy discharge, and comment 9(b)(2)-8 (which uses bankruptcy as its own example) requires the creditor to disclose that specific factor, which Form C-1 lists separately as 'Bankruptcy', so checking 'Delinquent past or present credit obligations with others' does not accurately describe the factor actually considered (comment 9(b)(2)-2; comment appendix C-4) and violates 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-2, 9(b)(2)-8, appendix C-4; Appendix C to Part 1002, Form C-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C31",
+    "label": "complies",
+    "reasoning": "Both listed reasons ('Excessive obligations in relation to income' and 'Limited credit experience') are specific principal reasons of the kind 1002.9(b)(2) requires rather than the prohibited 'internal standards' or 'failed to achieve a qualifying score' statements, and nothing in the facts suggests they fail to describe the factors the banks actually considered (comment 9(b)(2)-2), so the single multi-bank notice naming each creditor does not itself create a (b)(2) problem.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-1, 9(b)(2)-2 and 9(b)(2)-3",
+    "deciding_fact": null
+  },
+  {
+    "id": "C22",
+    "label": "complies",
+    "reasoning": "The notice identifies the actual factors that drove the decline (the requested 84-month term against the 72-month cap for vehicles over five years old), which is a specific reason rather than a bare reference to 'internal standards or policies' under 1002.9(b)(2), and comments 9(b)(2)-3 and 9(b)(2)-8 support disclosing the specific factor without explaining how it adversely affected the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-2, 9(b)(2)-3 and 9(b)(2)-8",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Because Meridian actually declined for lack of the income needed to score the file and made no merits decision, 'Credit application incomplete' accurately describes the factor actually relied on (comment 9(b)(2)-2) and is the kind of specific principal reason, not an 'internal standards' or 'failed score' statement, that 1002.9(b)(2) accepts.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-2, 9(b)(2)-3 and 9(b)(2)-8; Appendix C sample reason 'Incomplete credit application'",
+    "deciding_fact": null
+  },
+  {
+    "id": "C15",
+    "label": "violates",
+    "reasoning": "Under 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4 the disclosed reason must accurately describe a factor actually scored, and 'Excessive obligations in relation to income' misdescribes a model that has no income or debt-to-income input and was driven by the 24-month slope of revolving balances.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-2, 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C08",
+    "label": "violates",
+    "reasoning": "Comment 9(b)(2)-8 requires the creditor to disclose the specific automatic-denial factor, here a bankruptcy discharged within 24 months, and checking 'Delinquent past or present credit obligations with others' does not accurately describe the factor actually relied on (comment 9(b)(2)-2), so it fails 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I comments 9(b)(2)-2 and 9(b)(2)-8",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

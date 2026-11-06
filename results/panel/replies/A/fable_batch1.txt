@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C01",
+    "label": "violates",
+    "reasoning": "Listing the same four globally most important model features on every declined applicant's notice does not 'indicate the principal reason(s)' for that applicant's adverse action as 12 CFR 1002.9(b)(2) requires, because Comment 9(b)(2)-4 requires the disclosed reasons to be the factors that most adversely affected the specific applicant's score, not a fixed list derived from the model's overall validation importance.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR pt. 1002, Supp. I, Comments 9(b)(2)-1 and 9(b)(2)-4; CFPB Circulars 2022-03 and 2023-03",
+    "deciding_fact": null
+  },
+  {
+    "id": "C16",
+    "label": "complies",
+    "reasoning": "The notice accurately names the factor actually scored (revolving utilization) using the sample Form C-1 reason 'Proportion of balances to credit limits on revolving accounts,' and 12 CFR 1002.9(b)(2) as interpreted by Comment 9(b)(2)-2 requires only that the principal factor be specifically identified, not that the creditor describe how the factor was computed (such as the 24-month averaging) or why it hurt the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR pt. 1002, Supp. I, Comments 9(b)(2)-2 and 9(b)(2)-4; Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C30",
+    "label": "violates",
+    "reasoning": "Although Harbor properly used the request-based disclosure route and responded within 30 days under 12 CFR 1002.9(a)(2)(ii), the statement 'Your application did not meet our credit standards' is exactly the type of statement that the adverse action was based on the creditor's internal standards or policies that 12 CFR 1002.9(b)(2) declares insufficient, so no specific principal reason was given.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(ii)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "Where a creditor elects under 12 CFR 1002.9(c)(1)(i) to take adverse action on an incomplete application rather than send a notice of incompleteness, 'Credit application incomplete' is a specific statement of the principal reason that satisfies 12 CFR 1002.9(b)(2), as reflected by its inclusion as a listed reason on sample Form C-1, because the missing pay stubs were in fact the reason for the denial.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C10",
+    "label": "complies",
+    "reasoning": "Because the adverse action resulted from the applicant scoring below the cutoff, Comment 9(b)(2)-4 and -5 require the reasons under 12 CFR 1002.9(b)(2) to relate only to the factors actually scored in the component the applicant failed, so disclosing the four scorecard characteristics with the largest shortfalls is correct and the prior Pinecrest charge-off need not be listed unless it was itself a scored factor among those shortfalls or an independent basis for the decision, which the facts do not indicate.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR pt. 1002, Supp. I, Comments 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

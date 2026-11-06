@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C04",
+    "label": "complies",
+    "reasoning": "Because the model is additive, each feature's SHAP value against an all-applicant background equals how far the applicant's score on that factor fell below the all-applicant average for that factor, which is one of the methods the commentary to 12 CFR 1002.9(b)(2) accepts (averages may be calculated during development), and listing the four most negative factors gives specific principal reasons within the four-reason guidance.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-1 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C17",
+    "label": "depends",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the stated reason must reflect the factor actually relied on, so 'Unable to verify income' is accurate only if the model declined mainly because the bureau estimate failed to corroborate the stated income, and not because the income level itself (such as the $52,000 estimate) was too low, in which case a reason like insufficient income would be the true principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-2 and 9(b)(2)-4; Appendix C sample reasons",
+    "deciding_fact": "Whether the model's decline was principally driven by the gap between stated and bureau-estimated income (a failure to corroborate income) or by the level of income itself"
+  },
+  {
+    "id": "C27",
+    "label": "depends",
+    "reasoning": "Approving $6,000 against a $25,000 request is a counteroffer, which under 12 CFR 1002.2(c)(1)(i) is not adverse action if the applicant uses or expressly accepts the credit; if the applicant did neither, 12 CFR 1002.9(a)(1)(iv) and (a)(2) required a notice with specific reasons under 1002.9(b)(2), or a disclosure of the right to them, within 90 days, and sending nothing by day 120 violates that requirement.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 credit card"
+  },
+  {
+    "id": "C05",
+    "label": "complies",
+    "reasoning": "The applicant was not declined by the scoring component (655 is above the 620 automatic decline) but by the underwriter's judgmental review of the recent job change, so under 12 CFR 1002.9(b)(2) and the commentary on combined scoring and judgmental systems the reasons must come from the judgmental component, and 'Length of employment' is a specific statement of that principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-1 and 9(b)(2)-6 (combined credit scoring and judgmental system); Appendix C sample reasons",
+    "deciding_fact": null
+  },
+  {
+    "id": "C12",
+    "label": "complies",
+    "reasoning": "Because the bureau score is Oakmont's only criterion, the factors that pulled the score below 640 are the actual principal reasons, and stating them as specific reasons in the ECOA reasons section (rather than only saying the applicant failed to reach a qualifying score, or relying on the FCRA key-factor disclosure alone) satisfies 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-4 and 9(b)(2)-9 (combined ECOA-FCRA disclosures)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

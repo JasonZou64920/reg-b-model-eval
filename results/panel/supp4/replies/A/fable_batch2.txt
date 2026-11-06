@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C48",
+    "label": "complies",
+    "reasoning": "Closing a credit card account because of a 60-day delinquency on that same account is an action taken in connection with delinquency as to that account, which 12 CFR 1002.2(c)(2)(ii) excludes from the definition of adverse action, so no notification was required under 1002.9(a)(1) and the statement-of-specific-reasons requirement in 1002.9(b)(2) was never triggered.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); 12 CFR 1002.9(a)(1); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

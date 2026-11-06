@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C02",
+    "label": "complies",
+    "reasoning": "Ranking scored characteristics by how far the applicant's points fall below the average points achieved by applicants scoring at or slightly above the cutoff is one of the methods expressly approved in Official Interpretation 9(b)(2)-5 for selecting the principal reasons from a credit scoring system, that comment states the averages may be calculated during development of the system (so the 2021 figures are permissible), and disclosing the top four scored factors satisfies 12 CFR 1002.9(b)(2)'s requirement that the reasons be specific and relate to the factors actually scored.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C29",
+    "label": "complies",
+    "reasoning": "The actual principal reason for the refusal is that the creditor does not offer the 15-year term requested, and stating 'We do not offer this product' discloses that specific reason in substance the same way as the sample reason 'We do not grant credit to any applicant on the terms and conditions you request' in Appendix C Form C-1, which is not a vague reference to internal standards or a failing score and so satisfies 12 CFR 1002.9(b)(2) (and, to the extent a 15-year RV loan is a type of credit plan the creditor does not offer at all, the refusal may not even be adverse action under 1002.2(c)(2)(vi)).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comment 9(b)(2)-3; Appendix C, Form C-1; see also 12 CFR 1002.2(c)(2)(vi)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C18",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) and comment 9(b)(2)-4 a creditor using a credit scoring system must disclose the factors actually scored that were principal reasons, and must do so even if the relationship of that factor to creditworthiness is not clear to the applicant, so listing 'Type of mobile phone account' (the prepaid-line feature that was the largest negative contribution) as the first of three reasons is an accurate and specific disclosure, and comment 9(b)(2)-3 confirms the creditor need not explain how or why the factor hurt the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-3 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C06",
+    "label": "violates",
+    "reasoning": "Because the applicant passed the scorecard (742 versus a 700 line) and was denied only on the underwriter's judgmental finding that income could not be verified, comment 9(b)(2)-7 requires that the disclosed reasons relate to the factors reviewed judgmentally, and padding the notice with 'Number of recent inquiries' and 'Length of credit history' drawn from the scorecard component the applicant did not fail misstates the principal reasons for the adverse action in violation of 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comment 9(b)(2)-7",
+    "deciding_fact": null
+  },
+  {
+    "id": "C11",
+    "label": "violates",
+    "reasoning": "12 CFR 1002.9(b)(2) expressly provides that a statement that the applicant failed to achieve a qualifying score is insufficient, so 'Credit score below our minimum requirement' is not a specific principal reason, and comment 9(b)(2)-9 states that the FCRA disclosure of the key factors that adversely affected the credit score does not satisfy the ECOA requirement to disclose specific reasons, meaning the creditor had to identify the underlying credit-history factors (for example delinquent obligations or insufficient credit history) as the ECOA reasons.",
+    "citation": "12 CFR 1002.9(b)(2) (second sentence); Supplement I, comment 9(b)(2)-9",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

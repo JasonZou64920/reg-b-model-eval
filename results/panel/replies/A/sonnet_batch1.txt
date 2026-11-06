@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C01",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) requires reasons that are specific and indicate the principal reasons for the adverse action actually taken on that applicant, but Summit prints the same four globally important model features on every notice regardless of what drove each individual decision, so the reasons do not accurately reflect the factors actually scored for each applicant.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Supp. I, comment 9(b)(2)-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C16",
+    "label": "complies",
+    "reasoning": "The notice names revolving utilization, the actual underlying factor that was this applicant's largest negative feature, so it is specific and accurately describes the factor considered as section 1002.9(b)(2) requires, even though the model measures it as a 24-month average.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I, comment 9(b)(2)-1; Appendix C to Part 1002 (sample reasons)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C30",
+    "label": "violates",
+    "reasoning": "The timing and disclosure mechanics of the 60-day request right and the 30-day reply fit section 1002.9(a)(2)(ii), but the reply 'did not meet our credit standards' is exactly the internal-standards statement that section 1002.9(b)(2) declares insufficient because it gives no specific principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(ii)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "Because the applicant actually failed to submit the requested pay stubs and that failure was the real reason for the decline, 'Credit application incomplete' is a specific, accurate principal reason of the kind listed in the Appendix C sample reasons and is not a generic internal-standards or score statement barred by section 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I, comment 9(b)(2)-1; Appendix C to Part 1002 (sample reasons)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C10",
+    "label": "depends",
+    "reasoning": "Listing the scorecard characteristics with the largest shortfalls is an accepted way to identify principal reasons under section 1002.9(b)(2), but the reasons must accurately describe the factors actually considered, so the notice is deficient only if the prior Pinecrest charge-off itself was a principal factor in the decision.",
+    "citation": "12 CFR 1002.9(b)(2); Supp. I, comment 9(b)(2)-1",
+    "deciding_fact": "Whether the 2023 Pinecrest charge-off was actually considered (as a scored characteristic, override or policy rule) and was a principal factor in the decline, as opposed to the denial resting only on the four listed scorecard shortfalls."
+  }
+]
+MODEL_ID: claude-sonnet-5-5

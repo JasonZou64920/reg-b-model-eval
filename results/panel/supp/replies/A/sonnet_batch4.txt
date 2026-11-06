@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C35",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2), the notice gives specific principal reasons ('Excessive obligations in relation to income' and 'Limited credit experience') rather than the prohibited generic statements about internal standards, policies or a failed credit score, so the statement of reasons is sufficient.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

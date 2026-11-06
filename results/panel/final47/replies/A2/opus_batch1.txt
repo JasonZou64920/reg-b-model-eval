@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "depends",
+    "reasoning": "Section 1002.9(b)(2) governs the content of the statement of reasons that paragraph (a)(2)(i) requires, so Northgate's silence violates it only if the June closure was adverse action requiring notice, which turns on whether the closure was taken in connection with the account's delinquency (excluded from adverse action under 1002.2(c)(2)(ii)) or for other reasons such as the model's broader risk factors, given the account had been current since February.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(ii)",
+    "deciding_fact": "Whether the account-management model closed the account in connection with the January delinquency on that account (no notice or statement of reasons required) or on some other basis while the account was current (adverse action, so the absence of any statement of specific principal reasons violates 1002.9(a)(2)(i) and (b)(2))."
+  }
+]
+MODEL_ID: claude-opus-5-5

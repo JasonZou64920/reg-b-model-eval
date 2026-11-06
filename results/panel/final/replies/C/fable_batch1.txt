@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C58",
+    "label": "complies",
+    "reasoning": "The notice names the specific factor the model actually considered, the mismatch between the applicant's stated income and the bureau-derived income estimate, which satisfies § 1002.9(b)(2) because comment 9(b)(2)-2 requires only that disclosed reasons relate to and accurately describe the factors actually considered or scored, and comment 9(b)(2)-4 confirms the actual reason must be disclosed even if its link to creditworthiness is not obvious to the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "depends",
+    "reasoning": "Under comment 9(a)(1)-3 'Credit application incomplete' is a permissible specific reason under § 1002.9(b)(2) only when the creditor lacked sufficient data for a credit decision because of the missing pay stubs, whereas comment 9(a)(1)-4 bars that reason if Meridian had enough data to evaluate the application and actually denied it on substantive grounds.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c); Supplement I comments 9(a)(1)-3 and 9(a)(1)-4",
+    "deciding_fact": "Whether Meridian lacked sufficient data to make a credit decision without the pay stubs (a true denial for incompleteness) or instead had sufficient data, evaluated the application, and denied it for a substantive reason, in which case 'incomplete application' cannot be the stated reason."
+  },
+  {
+    "id": "C55",
+    "label": "violates",
+    "reasoning": "Because the 655 score fell into the gray band and the denial followed a judgmental review, comment 9(b)(2)-7 requires the disclosed reasons to come from both the scoring and judgmental components, so listing only 'Length of employment' while omitting the principal scorecard shortfalls (revolving utilization and recent inquiries) fails § 1002.9(b)(2) and comment 9(b)(2)-4's rule that no principal reason may be excluded from disclosure.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-7 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C59",
+    "label": "complies",
+    "reasoning": "Closing an account in connection with a current delinquency on that same account is excluded from 'adverse action' by § 1002.2(c)(2)(ii) and comment 2(c)(2)(ii)-2, so no statement of specific reasons is required under § 1002.9(a)(2)(i), and the generic 'account-management policy' wording, although it would be insufficient under § 1002.9(b)(2) if a statement of reasons were required, does not violate that provision here.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); Supplement I comment 2(c)(2)(ii)-2; 12 CFR 1002.9(a)(2) and 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

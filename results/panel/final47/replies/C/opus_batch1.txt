@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "violates",
+    "reasoning": "Because the cardholder was current when Northgate closed the account, the termination based on a past delinquency is adverse action under 12 CFR 1002.2(c)(1)(ii) and comment 2(c)(2)(ii)-2 rather than excluded delinquency action, so Northgate had to give a written notice within 30 days under 1002.9(a)(1)(iii) containing the specific principal reasons required by 1002.9(a)(2)(i) and 1002.9(b)(2) (or a disclosure of the right to them), and sending no notice at all gives no statement of specific reasons.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iii); 12 CFR 1002.9(a)(2); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(ii); Supplement I, comment 2(c)(2)(ii)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

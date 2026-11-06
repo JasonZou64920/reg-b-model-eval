@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C32",
+    "label": "complies",
+    "reasoning": "Section 1002.9(b)(2) governs only the content of a statement of reasons actually given under 1002.9(a)(2)(i), and Summit instead used the alternative in 1002.9(a)(2)(ii) by mailing, within the 30 days required by 1002.9(a)(1)(i), a notice disclosing the applicant's right to a statement of specific reasons if requested within 60 days along with the name, address and telephone number of the office that will provide it, so no statement of reasons is yet owed and the specificity requirement of (b)(2) has not been triggered or breached.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)-(ii); 12 CFR 1002.9(a)(1)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

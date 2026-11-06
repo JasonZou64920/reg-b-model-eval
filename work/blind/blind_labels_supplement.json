@@ -1,0 +1,47 @@
+[
+  {
+    "id": "C32",
+    "label": "complies",
+    "reasoning": "A creditor may give a disclosure of the right to a statement of specific reasons instead of the reasons themselves, and Summit's notice carries the other required content plus the responsible office's name, address and telephone number, so with no request made no statement of reasons is yet owed.",
+    "citation": "12 CFR 1002.9(a)(2)(ii); 12 CFR 1002.9(a)(2); appendix C, para. 5",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "violates: the facts describe the disclosure only as a right to reasons 'if requested within 60 days' and do not mention the commitment to provide them within 30 days, and a literal reader could say the disclosure therefore lacks an element 12 CFR 1002.9(a)(2)(ii) requires."
+  },
+  {
+    "id": "C33",
+    "label": "complies",
+    "reasoning": "With 140 applications in the preceding calendar year Prairie State is a small-volume creditor whose obligations, including the statement of specific reasons, are satisfied orally, and the phone call within 30 days gave a specific reason (debt payments too high relative to income).",
+    "citation": "12 CFR 1002.9(d); 12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(i)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C34",
+    "label": "complies",
+    "reasoning": "For a business with $1 million or less in revenue the creditor may state the action orally and may give the right-to-reasons disclosure, with the required contact information and ECOA notice, at the time of application, so with no request from the owner no statement of reasons is owed.",
+    "citation": "12 CFR 1002.9(a)(3)(i)(A); 12 CFR 1002.9(a)(3)(i)(B); 12 CFR 1002.9(a)(2)(ii); appendix C, para. 5",
+    "deciding_fact": null,
+    "confidence": "medium",
+    "defensible_alternative": "violates: as in C32, the facts describe the application-time disclosure as a right to reasons 'within 60 days' without the 30-day delivery commitment, and a literal reader could say it does not contain all the information 12 CFR 1002.9(a)(2)(ii) requires, as 12 CFR 1002.9(a)(3)(i)(B) demands."
+  },
+  {
+    "id": "C35",
+    "label": "complies",
+    "reasoning": "Northgate sent a combined counteroffer and adverse action notice with specific reasons and the ECOA notice, and a creditor that does so need not send a second notice when the applicant does not accept the counteroffer, so nothing further was due at day 120.",
+    "citation": "comment 9(a)(1)-6; 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(b)(2); appendix C, para. 5",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C36",
+    "label": "complies",
+    "reasoning": "Because the buyer used credit offered by Bank A, the application was made through a third party to multiple creditors and notification of action taken by Banks B, C and D is not required.",
+    "citation": "12 CFR 1002.9(g)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

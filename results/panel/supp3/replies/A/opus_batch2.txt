@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C46",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the notice must be specific and indicate the principal reason, and this notice names the actual factor (a 52% debt-to-income ratio, i.e., excessive obligations in relation to income) rather than merely saying the applicant failed the creditor's internal standards or policies, so the passing reference to the 45% policy maximum does not reduce it to the insufficient 'internal standards or policies' statement the provision prohibits.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

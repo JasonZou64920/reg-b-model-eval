@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C31",
+    "label": "depends",
+    "reasoning": "A single notice from the platform naming all three banks can satisfy the specificity requirement only if the two listed reasons relate to and accurately describe the principal factors each bank actually considered, as 12 CFR 1002.9(b)(2) and comment 9(b)(2)-2 require, and the facts do not say what each bank relied on.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-1 and 9(b)(2)-2",
+    "deciding_fact": "Whether 'Excessive obligations in relation to income' and 'Limited credit experience' were the principal reasons actually relied on by each of the three banks; if any bank declined for a different principal reason, or the notice does not show which reasons apply to which bank, the notice fails."
+  },
+  {
+    "id": "C22",
+    "label": "complies",
+    "reasoning": "The notice does not simply cite internal standards or policies but names the specific factors that caused the denial, the requested 84-month term and the vehicle's age, which accurately describes the factors actually considered under 12 CFR 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2, 9(b)(2)-3 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Because Meridian made no decision on the merits and could not score the application without income, 'Credit application incomplete' accurately describes the factor actually behind the adverse action, which is what 12 CFR 1002.9(b)(2) and comment 9(b)(2)-2 require.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C15",
+    "label": "violates",
+    "reasoning": "The model never scores income or debt-to-income, so the reason 'Excessive obligations in relation to income' does not relate to or accurately describe the factor actually scored (the 24-month revolving balance trend), contrary to 12 CFR 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C08",
+    "label": "violates",
+    "reasoning": "The applicant was denied by an automatic-denial rule for a recent bankruptcy, so comment 9(b)(2)-8 requires the notice to disclose that specific factor, and the checked reason 'Delinquent past or present credit obligations with others' does not accurately describe it under 12 CFR 1002.9(b)(2) and comment 9(b)(2)-2.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I, comments 9(b)(2)-2 and 9(b)(2)-8",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

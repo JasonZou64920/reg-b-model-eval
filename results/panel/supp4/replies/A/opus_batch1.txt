@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "depends",
+    "reasoning": "Closing an account is adverse action that triggers a notice with specific principal reasons under 12 CFR 1002.9(a)(1)(iii), (a)(2)(i) and (b)(2), so sending nothing breaches the requirement, unless the closure falls within the 1002.2(c)(2)(ii) exception for action taken in connection with delinquency or default on that account, which is uncertain here because the January delinquency was cured four months before the June closure.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iii); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.2(c)(2)(ii)",
+    "deciding_fact": "Whether the model closed the account in connection with the cardholder's delinquency on that same account (exempt from adverse action notice under 1002.2(c)(2)(ii)) or for other reasons such as credit bureau data or general risk factors (adverse action requiring a notice with specific reasons, so sending none violates)."
+  }
+]
+MODEL_ID: claude-opus-5-5

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C63",
+    "label": "violates",
+    "reasoning": "Closing the account because the cardholder moved outside Northgate's three-state service area is a specific, principal reason that could have been stated, but the letter instead said only that the account was closed 'in accordance with our account policies,' which is precisely the kind of statement that the adverse action was based on the creditor's internal standards or policies that 12 CFR 1002.9(b)(2) declares insufficient.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

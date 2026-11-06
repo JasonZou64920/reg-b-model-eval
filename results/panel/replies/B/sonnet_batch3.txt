@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C02",
+    "label": "complies",
+    "reasoning": "Comment 9(b)(2)-5 expressly approves ranking factors by how far the applicant's points fall below the average for applicants at or slightly above the minimum passing score, and says those averages may be calculated during development of the system, so the un-refreshed 2021 averages do not by themselves breach 1002.9(b)(2), and listing four reasons is within comment 9(b)(2)-1.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C29",
+    "label": "depends",
+    "reasoning": "Section 1002.9(b)(2) governs only the statement of reasons for adverse action, and a refusal because the creditor does not offer the credit product requested is generally not adverse action, whereas a refusal of the requested 15-year term on an RV loan the creditor does offer would be adverse action that needs a specific reason such as 'requested term exceeds our 10-year maximum' rather than the generic 'We do not offer this product.'",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c) (definition of adverse action) and its commentary; Supplement I comment 9(b)(2)-2",
+    "deciding_fact": "Whether the refusal of the 15-year term is treated as a refusal of a credit product the creditor does not offer (not adverse action, so no specific reasons are required) or as a refusal of the requested terms on an RV loan the creditor does offer (adverse action, so a specific reason about the term limit is required)."
+  },
+  {
+    "id": "C18",
+    "label": "complies",
+    "reasoning": "Under comments 9(b)(2)-2 and 9(b)(2)-4 the reasons must relate to and accurately describe factors actually scored, and a creditor must disclose the actual reason even if its link to creditworthiness is unclear, while comment 9(b)(2)-3 means the notice need not explain how the factor hurt the applicant, so naming 'Type of mobile phone account' as the top reason satisfies 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C06",
+    "label": "violates",
+    "reasoning": "Because the applicant passed the scorecard (742 against a 700 line) and was declined only on the underwriter's judgmental review, comment 9(b)(2)-7 requires the reasons to come from the judgmental component, so listing 'Number of recent inquiries' and 'Length of credit history' as reasons misstates the factors that actually drove the denial contrary to comment 9(b)(2)-2, even though 'Unable to verify income' is proper.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-6, 9(b)(2)-7",
+    "deciding_fact": null
+  },
+  {
+    "id": "C11",
+    "label": "violates",
+    "reasoning": "'Credit score below our minimum requirement' is the kind of conclusory statement about failing to reach a qualifying score or the creditor's own standards that 1002.9(b)(2) calls insufficient, and comment 9(b)(2)-9 says the FCRA credit score disclosure and its key factors do not satisfy the separate ECOA duty to state the specific principal reasons for the denial.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-4, 9(b)(2)-9",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

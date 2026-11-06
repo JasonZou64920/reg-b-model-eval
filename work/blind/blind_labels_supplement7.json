@@ -1,0 +1,11 @@
+[
+  {
+    "id": "C60",
+    "label": "violates",
+    "reasoning": "By evaluating the consumer's bureau data, deciding it would not approve the $10,000 request and telling her so, Summit treated the rate check as an application subject to the adverse action notice rules, and 'your profile does not meet our lending criteria' is an internal-standards statement that 1002.9(b)(2) calls insufficient, with no specific reasons or right to them ever provided.",
+    "citation": "comment 9-5; 12 CFR 1002.9(a)(2); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

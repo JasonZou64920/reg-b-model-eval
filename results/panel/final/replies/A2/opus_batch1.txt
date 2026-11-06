@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C58",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) and its commentary (comment 9(b)(2)-2, reasons must relate to and accurately describe factors actually considered), the notice names a specific factor drawn from inputs the model actually used, the gap between stated income and the bureau-derived estimate, rather than a reference to internal standards or a failing score, so it is a specific statement of the principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2), read with 1002.9(c)(1)(i) and the sample reasons in Appendix C Form C-1, 'Credit application incomplete' is a recognized specific reason when the denial is based on the applicant's failure to supply requested information such as the pay stubs.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); 12 CFR part 1002, Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C55",
+    "label": "depends",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) and comment 9(b)(2)-5 on combined scoring and judgmental systems, the reasons must come from the component the applicant failed, so 'Length of employment' alone is adequate only if the underwriter's judgmental denial rested on the job change and not also on the scorecard weaknesses (revolving utilization and recent inquiries) that kept the applicant below the 700 approval cutoff.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-5",
+    "deciding_fact": "Whether the underwriter's decline was based on the recent job change alone, or whether the 655 score and its scorecard shortfalls (revolving utilization, recent inquiries) were also principal reasons for the denial."
+  },
+  {
+    "id": "C59",
+    "label": "complies",
+    "reasoning": "Although 'under our account-management policy' would be an insufficient internal-policy statement under 12 CFR 1002.9(b)(2), closing an account because of a delinquency on that same account is excluded from the definition of adverse action by 12 CFR 1002.2(c)(2)(ii), so no statement of specific reasons was required and the letter does not violate the rule.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); 12 CFR 1002.9(a)(2); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

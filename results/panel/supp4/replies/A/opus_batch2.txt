@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C48",
+    "label": "complies",
+    "reasoning": "Section 1002.9(b)(2) governs only the content of a statement of reasons required by 1002.9(a)(2)(i), and because closing an account for delinquency on that same account is excluded from the definition of adverse action under 12 CFR 1002.2(c)(2)(ii), no notice or statement of reasons was required, so sending none does not violate 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(2)(ii)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

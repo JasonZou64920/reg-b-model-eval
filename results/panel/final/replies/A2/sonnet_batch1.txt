@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C58",
+    "label": "complies",
+    "reasoning": "The notice names the concrete factor the model actually used (the gap between stated and bureau-estimated income), which is a specific principal reason and not an internal-standards or failed-score statement, so it satisfies the specificity requirement of 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "The applicant was declined because required documents were not supplied, and 'Credit application incomplete' states that actual principal reason in plain terms (it is a standard sample reason in Appendix C) rather than relying on internal policy or a failed score, so it meets 12 CFR 1002.9(b)(2) even though naming the missing pay stubs would be better practice.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c); Appendix C to Part 1002 (sample reasons)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C55",
+    "label": "complies",
+    "reasoning": "The score of 655 only sent the file to an underwriter and the decline was driven by the recent job change, so 'Length of employment' is the specific factor actually relied on for the denial and satisfies 12 CFR 1002.9(b)(2), which requires the principal reason(s) but not every contributing scorecard shortfall.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C59",
+    "label": "complies",
+    "reasoning": "Although 'under our account-management policy' would be an insufficient internal-policy statement if 12 CFR 1002.9(b)(2) applied, closing an account because of delinquency on that same account is excluded from the definition of adverse action by 12 CFR 1002.2(c)(2)(ii), so no statement of specific reasons is required and the letter is not a violation.",
+    "citation": "12 CFR 1002.2(c)(2)(ii); 12 CFR 1002.9(a)(1) and (b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

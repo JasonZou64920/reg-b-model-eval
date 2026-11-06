@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C34",
+    "label": "complies",
+    "reasoning": "Section 1002.9(b)(2) governs only the content of a statement of reasons once one is furnished, and here none has been given or requested; because the bakery had gross revenues of $1 million or less, Oakmont's oral notice of the decline and its application-time disclosure of the right to request reasons within 60 days (with the office's name, address and telephone number and the ECOA notice) are expressly permitted by 1002.9(a)(3)(i)(A)-(B), so no statement subject to the (b)(2) specificity requirement is yet due and nothing insufficient has been provided (if the owner requests within 60 days, Oakmont must then state the specific principal reasons rather than merely that the model declined or a qualifying score was not met).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(3)(i)(A)-(B); 12 CFR 1002.9(a)(2)(ii)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

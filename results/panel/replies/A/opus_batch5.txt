@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C09",
+    "label": "complies",
+    "reasoning": "The knockout rule on a recent repossession, not the monitoring score, was what actually caused the decline, so 'Foreclosure or repossession' is a specific statement of the principal reason as 12 CFR 1002.9(b)(2) requires, and nothing obliges Pinecrest to disclose score factors that played no part in the decision.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Supplement I to Part 1002, comment 9(b)(2)-1 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C13",
+    "label": "complies",
+    "reasoning": "Choosing the factors on which the applicant fell furthest below the average of applicants at or slightly above the cutoff is an accepted way to identify the principal reasons under 12 CFR 1002.9(b)(2), and listing six specific, ranked reasons is not prohibited, because the commentary says only that more than four is not likely to be helpful.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I to Part 1002, comment 9(b)(2)-1 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C21",
+    "label": "complies",
+    "reasoning": "Income was the actual principal reason for this judgmental denial, and the Form C-2 entry 'Your Income: is below our minimum requirement' names that specific factor rather than citing internal standards in general, so it meets 12 CFR 1002.9(b)(2), and Appendix C treats proper use of the sample form as compliance.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Appendix C to Part 1002 (Form C-2)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C23",
+    "label": "violates",
+    "reasoning": "Meridian scored the application on bureau data and stated income and denied it because the score was below the cutoff, so the missing pay stubs were not the reason, and 'Credit application incomplete' fails 12 CFR 1002.9(b)(2) because it does not name the scoring factors that actually caused the denial.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(c); Supplement I to Part 1002, comment 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C26",
+    "label": "complies",
+    "reasoning": "Granting a $6,000 limit in place of the $25,000 requested is a counteroffer, and because the applicant activated and used the card it is not adverse action under 12 CFR 1002.2(c)(1)(i), so no statement of reasons under 12 CFR 1002.9(a)(2)(i) and (b)(2) was required.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

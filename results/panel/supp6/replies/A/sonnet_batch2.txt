@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C55",
+    "label": "complies",
+    "reasoning": "Because the underwriter's manual decision to decline turned on the recent job change, 'Length of employment' is the specific, actual principal reason as 12 CFR 1002.9(b)(2) requires, and the scorecard shortfalls that did not drive the decision need not be listed.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C53",
+    "label": "complies",
+    "reasoning": "Although 'Credit score below our minimum requirement' alone is the kind of qualifying-score statement 12 CFR 1002.9(b)(2) calls insufficient, the notice pairs it with the four key factors that lowered the bureau score, which are the specific principal reasons the applicant fell below the cutoff and the only reasons that could exist since no other information was reviewed.",
+    "citation": "12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C59",
+    "label": "complies",
+    "reasoning": "Closing the account because of delinquency on that same account is excluded from the definition of adverse action under 12 CFR 1002.2(c)(1)(ii), so no statement of specific reasons is required and the generic 'account-management policy' wording does not violate 12 CFR 1002.9(b)(2).",
+    "citation": "12 CFR 1002.2(c)(1)(ii); 12 CFR 1002.9(a)(2) and (b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

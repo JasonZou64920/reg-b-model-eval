@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C04",
+    "label": "complies",
+    "reasoning": "For an additive model each feature's SHAP value against an all-applicant development sample equals the applicant's component score minus the average component score of all applicants, so listing the four most negative contributions is the 'fell furthest below the average score achieved by all applicants, calculated during development' method that comment 9(b)(2)-4 accepts for identifying the principal reasons required by § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-4 and 9(b)(2)-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C17",
+    "label": "violates",
+    "reasoning": "The disclosed reason must relate to and accurately describe the factor actually considered (comment 9(b)(2)-3; CFPB Circular 2023-03), and here the model declined because the bureau-derived income estimate ($52,000) fell well short of the stated $85,000 (insufficient or inconsistent income), not because Fairway attempted and failed to verify income, so 'Unable to verify income' is an inaccurate checklist reason that does not state the principal reason under § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comment 9(b)(2)-3; CFPB Circular 2023-03",
+    "deciding_fact": null
+  },
+  {
+    "id": "C27",
+    "label": "depends",
+    "reasoning": "Approving $6,000 on a $25,000 request is a counteroffer that is adverse action unless the applicant uses or expressly accepts it (§ 1002.2(c)(1)(i)), and if it was not used or accepted Northgate had to deliver the § 1002.9(a)(2) notice with specific reasons (or the right to reasons) within 90 days under § 1002.9(a)(1)(iv), so 120 days of silence breaches § 1002.9(b)(2)'s reasons requirement only if the card went unused and unaccepted.",
+    "citation": "12 CFR 1002.2(c)(1)(i); 1002.9(a)(1)(iv); 1002.9(a)(2); 1002.9(b)(2)",
+    "deciding_fact": "Whether the applicant used or expressly accepted the $6,000 card within 90 days of the counteroffer letter (if so, no adverse action occurred and no reasons were owed; if not, the specific-reasons notice was due by day 90 and is now overdue)."
+  },
+  {
+    "id": "C05",
+    "label": "complies",
+    "reasoning": "Because the 655 score neither approved nor denied the application but referred it to judgmental review, the reasons must come from the factors the underwriter actually reviewed (comments 9(b)(2)-6 and 9(b)(2)-7), and 'Length of employment' specifically and accurately describes the job change two months earlier on which the underwriter relied, satisfying § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-6 and 9(b)(2)-7",
+    "deciding_fact": null
+  },
+  {
+    "id": "C12",
+    "label": "complies",
+    "reasoning": "Since the bureau score is Oakmont's sole criterion, the principal reasons are the factors that most depressed that score (comment 9(b)(2)-4), and the notice states those key factors as the specific reasons for denial in the ECOA reasons section rather than merely saying the applicant failed to reach 640 or relying on the FCRA key-factor disclosure alone, which is what § 1002.9(b)(2) and comment 9(b)(2)-9 require.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-4 and 9(b)(2)-9",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

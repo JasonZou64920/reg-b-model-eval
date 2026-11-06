@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C48",
+    "label": "complies",
+    "reasoning": "The statement-of-specific-reasons requirement in 12 CFR 1002.9(b)(2) applies only when a notice is required under 1002.9(a)(2)(i) for an adverse action, and closing an account because of a 60-day delinquency on that same account falls within the 1002.2(c)(2)(ii) exclusion for action taken in connection with default or delinquency as to that account, so it is not adverse action under Regulation B and no notice or statement of reasons was required.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(2)(ii)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

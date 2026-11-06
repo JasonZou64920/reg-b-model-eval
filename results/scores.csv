@@ -1,0 +1,60 @@
+case_id,seam,gold_label,A:claude-fable-5-1,A:claude-opus-5-5,A:claude-sonnet-5-5,A2:claude-fable-5-1,A2:claude-opus-5-5,A2:claude-sonnet-5-5,B:claude-fable-5-1,B:claude-opus-5-5,B:claude-sonnet-5-5,C:claude-fable-5-1,C:claude-opus-5-5,C:claude-sonnet-5-5,misses_A,misses_A2,misses_B,misses_C,hard_A,missed_by_all_A
+C01,S1 reason-selection method,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C02,S1 reason-selection method,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C03,S1 reason-selection method,depends,hit,hit,miss_label,,,,hit,hit,hit,,,,1,,0,,True,False
+C04,S1 reason-selection method,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C05,S2 combined system / gray band,violates,miss_label,miss_label,miss_label,,,,hit,hit,hit,,,,3,,0,,True,True
+C06,S2 combined system / gray band,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C07,S2 combined system / gray band,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C08,S3 automatic denial,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C09,S3 automatic denial,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C10,S3 automatic denial,depends,miss_label,hit,hit,,,,hit,hit,miss_label,,,,1,,1,,True,False
+C11,S4 ECOA reasons vs FCRA key factors,violates,hit,hit,miss_label,,,,hit,hit,hit,,,,1,,0,,True,False
+C12,S4 ECOA reasons vs FCRA key factors,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C13,S5 number of reasons,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C14,S5 number of reasons,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C15,S6 accurate description / engineered features,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C16,S6 accurate description / engineered features,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C17,S6 accurate description / engineered features,depends,miss_label,hit,hit,,,,miss_label,hit,hit,,,,1,,1,,True,False
+C18,S7 counterintuitive scored factor,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C20,S8 description without how or why,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C21,S9 internal standards bar vs sample-form language,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C22,S9 internal standards bar vs sample-form language,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C23,S10 incomplete applications,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C24,S10 incomplete applications,complies,hit,hit,miss_label,hit,hit,hit,hit,hit,hit,hit,hit,hit,1,0,0,0,True,False
+C25,S10 incomplete applications,depends,miss_label,miss_label,miss_label,miss_label,miss_label,miss_label,miss_label,miss_label,miss_label,hit,hit,hit,3,3,3,0,True,True
+C26,S11 boundary of adverse action,complies,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C27,S11 boundary of adverse action,depends,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C28,S11 boundary of adverse action,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C29,S11 boundary of adverse action,violates,miss_label,hit,hit,,,,miss_label,hit,miss_label,,,,1,,2,,True,False
+C30,S12 reasons given on request / third-party notices,violates,hit,hit,hit,,,,hit,hit,hit,,,,0,,0,,False,False
+C31,S12 reasons given on request / third-party notices,violates,miss_label,miss_label,miss_label,,,,miss_label,miss_label,miss_label,,,,3,,3,,True,True
+C32,S13 alternative notice paths,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C33,S13 alternative notice paths,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C34,S13 alternative notice paths,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C35,S14 counteroffer and multi-creditor notices,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C36,S14 counteroffer and multi-creditor notices,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C37,S3 automatic denial,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C39,S9 internal standards bar vs sample-form language,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C42,S5 number of reasons,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C44,S2 combined system / gray band,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C45,S6 accurate description / engineered features,complies,miss_label,hit,hit,,,,,,,,,,1,,,,True,False
+C46,S9 internal standards bar vs sample-form language,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C47,S11 boundary of adverse action,violates,hit,miss_label,miss_label,hit,miss_label,miss_label,,,,hit,hit,hit,2,2,,0,True,False
+C48,S11 boundary of adverse action,depends,miss_label,miss_label,miss_label,,,,miss_label,miss_label,miss_label,,,,3,,3,,True,True
+C49,S2 combined system / gray band,violates,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C50,S11 boundary of adverse action,violates,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C51,S11 boundary of adverse action,depends,hit,miss_label,miss_fact,,,,hit,miss_label,miss_fact,,,,2,,2,,True,False
+C52,S11 boundary of adverse action,violates,hit,miss_label,hit,,,,,,,,,,1,,,,True,False
+C53,S4 ECOA reasons vs FCRA key factors,violates,hit,hit,miss_label,hit,hit,miss_label,,,,miss_label,hit,hit,1,1,,1,True,False
+C54,S10 incomplete applications,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C55,S2 combined system / gray band,violates,miss_label,miss_label,miss_label,hit,miss_label,miss_label,,,,hit,hit,hit,3,2,,0,True,True
+C56,S3 automatic denial,depends,miss_label,miss_label,miss_label,miss_label,miss_label,miss_label,,,,miss_label,miss_label,miss_label,3,3,,3,True,True
+C57,S12 reasons given on request / third-party notices,violates,hit,hit,miss_label,hit,hit,hit,,,,hit,hit,hit,1,0,,0,True,False
+C58,S6 accurate description / engineered features,depends,miss_label,hit,miss_label,miss_label,miss_label,miss_label,,,,miss_label,hit,miss_label,2,3,,2,True,False
+C59,S11 boundary of adverse action,depends,miss_label,miss_label,miss_label,miss_label,miss_label,miss_label,,,,miss_label,hit,miss_label,3,3,,2,True,True
+C60,S11 boundary of adverse action,violates,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C61,S10 incomplete applications,complies,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C62,S14 counteroffer and multi-creditor notices,depends,hit,hit,hit,,,,,,,,,,0,,,,False,False
+C63,S11 boundary of adverse action,depends,miss_label,miss_label,miss_label,miss_label,miss_label,miss_label,,,,hit,hit,hit,3,3,,0,True,True
+C64,S11 boundary of adverse action,violates,hit,hit,hit,hit,hit,hit,,,,hit,hit,hit,0,0,,0,False,False

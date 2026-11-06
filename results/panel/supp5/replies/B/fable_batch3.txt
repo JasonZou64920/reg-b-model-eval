@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C51",
+    "label": "depends",
+    "reasoning": "Terminating a cardholder's open-end account because the cardholder moved out of the issuer's service area is adverse action under 12 CFR 1002.2(c)(1)(ii) that requires notification under 1002.9, including a specific statement of the principal reason under 1002.9(a)(2) and (b)(2) (for example, 'residence outside the creditor's service area'), unless termination on that ground was explicitly provided for in the credit agreement, in which case it is not adverse action and no notice is owed (comment 2(c)(1)(ii)-1); the case does not say whether Northgate's cardholder agreement contained such a term, so whether sending no notice at all complies or violates turns on that fact.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1) and (a)(2); 12 CFR 1002.2(c)(1)(ii) and Supplement I comment 2(c)(1)(ii)-1 (move from area)",
+    "deciding_fact": "Whether Northgate's credit agreement with the cardholder explicitly provided that the account would be terminated if the cardholder moved outside the Ohio, Indiana and Michigan service area; if it did, the closure is not adverse action and no notice or statement of reasons was required (complies), and if it did not, the closure is adverse action and sending no notice violates 1002.9(a)(1)-(a)(2) and leaves no compliant statement of specific reasons under 1002.9(b)(2) (violates)."
+  }
+]
+MODEL_ID: claude-fable-5-1

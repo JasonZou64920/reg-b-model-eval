@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C50",
+    "label": "violates",
+    "reasoning": "The cardholder's in-app request for a $2,000 limit increase, made under Northgate's own procedures, is an application under § 1002.2(f), and its denial is adverse action under § 1002.2(c)(1)(i) because the point-of-sale exception in § 1002.2(c)(2)(iii) expressly excludes a denial of an application for an increase in the amount of credit available under the account, so Northgate owed a § 1002.9(a)(1) notification containing a statement of specific principal reasons under § 1002.9(a)(2)(i) and (b)(2), and its only communication, 'Purchase declined: over limit,' describes the blocked transaction rather than indicating any principal reason for denying the increase, which falls short of the specificity § 1002.9(b)(2) requires (and no other notice was sent at all).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1) and (a)(2)(i); 12 CFR 1002.2(c)(1)(i) and (c)(2)(iii); 12 CFR 1002.2(f)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

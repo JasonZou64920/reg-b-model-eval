@@ -1,0 +1,11 @@
+[
+  {
+    "id": "C47",
+    "label": "violates",
+    "reasoning": "Closing an account that had been current since February is a termination that is adverse action under 12 CFR 1002.2(c)(1)(ii), because the 1002.2(c)(2)(ii) exception reaches only action taken in connection with a current default or delinquency and comment 2(c)(2)(ii)-2 states that notification under 1002.9 generally is required when the action is based on a past delinquency, so Northgate was required by 1002.9(a)(1)(iii) and (a)(2) to send a written notice within 30 days containing either a statement of specific reasons meeting 1002.9(b)(2) or a disclosure of the right to request one, and sending no notice at all fails that requirement."
+    ,
+    "citation": "12 CFR 1002.9(a)(1)(iii), 1002.9(a)(2)(i)-(ii), 1002.9(b)(2); 12 CFR 1002.2(c)(1)(ii), 1002.2(c)(2)(ii); Supplement I comment 2(c)(2)(ii)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C42",
+    "label": "complies",
+    "reasoning": "Section 1002.9(b)(2) requires the notice to be specific and indicate the principal reason(s), not every scored factor, and the two characteristics with 31- and 27-point shortfalls are plainly the principal reasons while the 4-, 3- and 2-point shortfalls are immaterial by comparison, so a notice naming those two specific characteristics satisfies the rule (consistent with comment 9(b)(2)-9's point-shortfall method for identifying principal reasons from a scoring system and comment 9(b)(2)-4's bar on omitting a principal reason).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-4 and 9(b)(2)-9",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

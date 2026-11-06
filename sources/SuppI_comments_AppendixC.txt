@@ -1,0 +1,11 @@
+# Supplement I to Part 1002, Official interpretation of Appendix C
+# Source: https://www.consumerfinance.gov/rules-policy/regulations/1002/interp-c/
+# Retrieved: 2026-10-31 (eCFR full-text API, point-in-time 2026-10-29; cross-checked against consumerfinance.gov interactive regulation, which labels the July 21, 2026 version as the current regulation)
+# Last amendment date of this unit per eCFR versioner: Supplement I last amended 2026-07-21
+# Text is verbatim; only whitespace normalized.
+
+1. Form C-9. If not otherwise provided under other applicable disclosure requirements, creditors may design their own form, add to, or modify the model form to reflect their individual policies and procedures. For example, a creditor may want to add:
+
+i. A telephone number that applicants may call to leave their name and the address to which a copy of the appraisal or other written valuation should be sent.
+
+ii. A notice of the cost the applicant will be required to pay the creditor for the appraisal or other valuation.

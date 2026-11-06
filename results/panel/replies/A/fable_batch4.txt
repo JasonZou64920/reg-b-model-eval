@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C14",
+    "label": "violates",
+    "reasoning": "Section 1002.9(b)(2) requires the statement to indicate the principal reason(s), and comment 9(b)(2)-4 provides that no factor that was a principal reason may be excluded from disclosure, so a policy of listing only the single largest shortfall when three other characteristics have shortfalls of 21, 19 and 18 points (within four points of the top one) omits factors that were plainly principal reasons, even though comment 9(b)(2)-1 contemplates disclosing up to four.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-1 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C28",
+    "label": "violates",
+    "reasoning": "A 30 percent limit cut imposed only on accounts scoring below 600 (about 8 percent of the portfolio) is an unfavorable change in terms that does not affect all or substantially all of a class of accounts and is therefore adverse action under 1002.2(c)(1)(ii), and a letter attributing it to a 'portfolio-wide risk management review' is exactly the kind of statement that the action was based on the creditor's internal standards or policies (and, in substance, on failing a scoring cutoff) that 1002.9(b)(2) declares insufficient, since the principal behavior-score factors themselves had to be disclosed (comment 9(b)(2)-4).",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.2(c)(1)(ii); Official Interpretation comment 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C20",
+    "label": "violates",
+    "reasoning": "Comment 9(b)(2)-2 requires the disclosed reasons to relate to and accurately describe the factors actually scored, and while comment 9(b)(2)-3 excuses the creditor from explaining how or why a factor hurt the applicant, the generic label 'Credit history' does not identify the characteristic actually scored (60-day or worse delinquencies in the past 24 months) and so is not the specific principal reason that 1002.9(b)(2) demands; a reason such as 'delinquent past or present credit obligations' would have been required.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-2 and 9(b)(2)-3",
+    "deciding_fact": null
+  },
+  {
+    "id": "C03",
+    "label": "depends",
+    "reasoning": "Comment 9(b)(2)-5 states that no single method of selecting reasons from a credit scoring system is required and describes two average-score methods (distance below the average of applicants at or slightly above the cutoff, or below the average of all applicants), accepting any other method only if it produces substantially similar results, so ranking by the gap below the maximum points available on each characteristic, which tends to overstate characteristics with wide point ranges that few applicants attain, complies only if Ridgeway can show it yields substantially similar reasons.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": "Whether Ridgeway's maximum-points ranking method produces reasons substantially similar to those produced by the average-score methods described in comment 9(b)(2)-5."
+  },
+  {
+    "id": "C07",
+    "label": "violates",
+    "reasoning": "Under comment 9(b)(2)-7, when an application falls into a gray band and is denied after a judgmental assessment the disclosed reasons must come from both the scoring and judgmental components, and comment 9(b)(2)-4 forbids excluding any principal reason, so dropping the underwriter's 'Unable to verify income' because the notice template has only four lines violates 1002.9(b)(2); the four-reason figure in comment 9(b)(2)-1 is guidance on helpfulness, not a cap that justifies omitting a principal reason from one component.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-7",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

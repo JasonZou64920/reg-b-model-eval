@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C31",
+    "label": "depends",
+    "reasoning": "The two listed reasons are facially specific, but § 1002.9(b)(2) and comment 9(b)(2)-2 require that the reasons disclosed relate to and accurately describe the factors each creditor actually considered, so a single two-reason list given by a third party on behalf of three banks that each decided independently complies only if those were in fact the principal reasons for each bank's denial.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-2; see also 12 CFR 1002.9(g) (third-party notice on behalf of multiple creditors)",
+    "deciding_fact": "Whether 'Excessive obligations in relation to income' and 'Limited credit experience' were the actual principal reasons for each of the three banks' denials; if any bank denied for different reasons, the notice must state that bank's own reasons."
+  },
+  {
+    "id": "C22",
+    "label": "complies",
+    "reasoning": "The notice identifies the actual factors considered (the requested 84-month term relative to the seven-year age of the vehicle) rather than merely citing internal standards or policies, which satisfies the specificity requirement of § 1002.9(b)(2) and comments 9(b)(2)-2 and -3, with vehicle age expressly recognized as a permissible reason in comment 9(b)(2)-4 (and a refusal because the creditor does not offer the requested credit plan may not even be adverse action under § 1002.2(c)(2)(iii)).",
+    "citation": "12 CFR 1002.9(b)(2); comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4; cf. 12 CFR 1002.2(c)(2)(iii)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Because Meridian lacked the income data needed to make any decision, 'Credit application incomplete' accurately describes the factor actually considered as comment 9(b)(2)-2 requires, and Regulation B expressly permits a creditor to deny an incomplete application within 30 days giving incompleteness as the reason (§ 1002.9(c)(1)(i) and comment 9(c)(1)-2), with 'Credit application incomplete' appearing as a listed reason on sample form C-1.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-2; 12 CFR 1002.9(c)(1)(i); comment 9(c)(1)-2; Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C15",
+    "label": "violates",
+    "reasoning": "Comments 9(b)(2)-2 and 9(b)(2)-4 require that disclosed reasons relate only to factors actually scored and accurately describe them, so mapping a revolving-balance trend feature to 'Excessive obligations in relation to income' misstates the actual reason because the model never considered income or debt-to-income; the notice must name the actual factor (e.g., 'increasing revolving balances over 24 months') even if its predictive relationship is unclear to the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); comments 9(b)(2)-2, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C08",
+    "label": "violates",
+    "reasoning": "Comment 9(b)(2)-8 requires a creditor that denies on an automatic-denial factor such as bankruptcy to disclose that specific factor, and 'Delinquent past or present credit obligations with others' does not accurately describe the recent bankruptcy discharge that actually triggered the denial, as comment 9(b)(2)-2 requires.",
+    "citation": "12 CFR 1002.9(b)(2); comments 9(b)(2)-8, 9(b)(2)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

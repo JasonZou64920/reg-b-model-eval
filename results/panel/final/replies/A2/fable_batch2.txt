@@ -1,0 +1,24 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "The borrower's term-extension request, submitted through Lakeview's own modification form while her account was current, is an application for an extension of credit whose refusal is adverse action under 12 CFR 1002.2(c)(1)(i) (the 1002.2(c)(2)(ii) default/delinquency exclusion does not apply), and telling her only that modifications are 'handled at our discretion' is a bare statement that the action rested on the creditor's internal standards or policies, which 12 CFR 1002.9(b)(2) expressly deems insufficient because it does not indicate the principal reason(s) the model declined her.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1)(i), 1002.2(c)(2)(ii), 1002.2(f), 1002.2(q)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "Because the adverse action was based on the scorecard, 12 CFR 1002.9(b)(2) as interpreted by comments 9(b)(2)-4 and 9(b)(2)-5 requires the disclosed reasons to be factors actually scored and permits selecting the characteristics on which the applicant fell furthest short, so listing the four scorecard characteristics with the largest shortfalls is specific and correctly omits the unscored 2023 charge-off, which may not be listed as a principal reason.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR part 1002, Supp. I, comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "complies",
+    "reasoning": "Where an application is incomplete as to a matter the applicant can supply, 12 CFR 1002.9(c)(1)(i) allows the creditor to give notice of action taken under 1002.9(a) within 30 days, and because Meridian made no decision on the merits the principal reason for the action was in fact the missing income, so 'Credit application incomplete' (a reason the Bureau itself lists on sample Form C-1) is a specific statement of the principal reason under 12 CFR 1002.9(b)(2) rather than a prohibited reference to internal policies or a failed credit score.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(c)(1)(i); 12 CFR part 1002, Appendix C, Form C-1; Supp. I, comment 9(b)(2)-3",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

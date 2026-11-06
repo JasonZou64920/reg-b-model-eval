@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C51",
+    "label": "violates",
+    "reasoning": "Closing an existing account because the cardholder moved out of the service area is a termination of an account and so an adverse action under 12 CFR 1002.2(c)(1)(ii) that fits none of the 1002.2(c)(2) exceptions, which means Northgate owed a notice within 30 days under 1002.9(a)(1)(iii) giving the specific principal reason (residence outside its Ohio, Indiana and Michigan service area) as 1002.9(b)(2) and (a)(2)(i) require, or disclosing the right to that statement under (a)(2)(ii), and by sending nothing it gave no statement of specific reasons at all.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(iii) and (a)(2); 12 CFR 1002.2(c)(1)(ii) and (c)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

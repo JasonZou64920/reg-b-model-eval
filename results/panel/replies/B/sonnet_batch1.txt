@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C01",
+    "label": "violates",
+    "reasoning": "Listing the same four globally most important model features on every declined applicant's notice does not give the specific, principal reasons for each applicant's own denial, as required by 1002.9(b)(2) and comments 9(b)(2)-2 and 9(b)(2)-4, and it is not a reason-selection method of the kind comment 9(b)(2)-5 allows, which is based on the applicant's own factor shortfalls.",
+    "citation": "12 CFR 1002.9(b)(2); comments 9(b)(2)-2, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C16",
+    "label": "complies",
+    "reasoning": "The notice names the actual factor the model scored (balances relative to limits on revolving accounts) in plain terms, which satisfies the specificity and accuracy requirements of 1002.9(b)(2) and comment 9(b)(2)-2, and comment 9(b)(2)-3 means Arcadia need not explain how the 24-month averaging made the factor adverse.",
+    "citation": "12 CFR 1002.9(b)(2); comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C30",
+    "label": "violates",
+    "reasoning": "Although the reasons were supplied on request and within the time limit, a statement that the application 'did not meet our credit standards' is exactly the kind of reference to the creditor's internal standards that 1002.9(b)(2) says is insufficient, so it is not a specific statement of the principal reasons.",
+    "citation": "12 CFR 1002.9(b)(2); 1002.9(a)(2)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C25",
+    "label": "complies",
+    "reasoning": "The notice states the actual reason for the denial (the applicant did not supply the requested pay stubs, so the application was incomplete), which accurately describes the factor actually considered under comment 9(b)(2)-2, and comment 9(b)(2)-3 does not require more detail, so 1002.9(b)(2) is satisfied (any separate 1002.9(c) incompleteness-notice obligations are outside this provision).",
+    "citation": "12 CFR 1002.9(b)(2); comments 9(b)(2)-2, 9(b)(2)-3; Appendix C sample forms (reason 'Incomplete credit application')",
+    "deciding_fact": null
+  },
+  {
+    "id": "C10",
+    "label": "complies",
+    "reasoning": "Because the denial resulted from the application scoring below the cutoff rather than from an automatic-denial rule, comments 9(b)(2)-4 and 9(b)(2)-5 require only that the notice disclose the scored factors with the largest shortfalls, and comment 9(b)(2)-8 (disclosure of an automatic-denial factor such as prior bad history with the creditor) is not triggered on these facts.",
+    "citation": "12 CFR 1002.9(b)(2); comments 9(b)(2)-4, 9(b)(2)-5, 9(b)(2)-8",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

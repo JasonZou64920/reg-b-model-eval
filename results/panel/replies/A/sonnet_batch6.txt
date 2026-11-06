@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C31",
+    "label": "complies",
+    "reasoning": "The two stated reasons, 'Excessive obligations in relation to income' and 'Limited credit experience,' are specific and indicate principal reasons rather than the insufficient 'internal standards' or 'failed credit score' type of statement barred by 1002.9(b)(2), and nothing in that provision stops one notice from naming all three declining banks.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(g)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C22",
+    "label": "complies",
+    "reasoning": "Although the reason stems from a credit policy, the notice does not rely on a bare 'internal standards or policies' statement but identifies the concrete principal reason (an 84-month term exceeding the 72-month maximum for vehicles over five years old), which is specific as 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C24",
+    "label": "violates",
+    "reasoning": "Having chosen to send an adverse action notice rather than a notice of incompleteness, Meridian had to state the specific principal reason under 1002.9(b)(2), and the bare label 'Credit application incomplete' does not tell the applicant that the missing stated annual income was the reason.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(c)(1)",
+    "deciding_fact": null
+  },
+  {
+    "id": "C15",
+    "label": "violates",
+    "reasoning": "The model has no income or debt-to-income input, so the checklist reason 'Excessive obligations in relation to income' does not reflect the factor that actually drove the decision (the 24-month slope of revolving balances), and 1002.9(b)(2) requires the statement to be specific and to indicate the principal reasons actually relied on.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Official Interpretation to 1002.9(b)(2) (reasons must relate to and accurately describe the factors actually considered); CFPB Circulars 2022-03 and 2023-03",
+    "deciding_fact": null
+  },
+  {
+    "id": "C08",
+    "label": "violates",
+    "reasoning": "The true principal reason was the automatic decline rule for a bankruptcy discharged within 24 months, so checking 'Delinquent past or present credit obligations with others' does not accurately state the specific principal reason as 1002.9(b)(2) requires, when a bankruptcy reason was available to state.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); Official Interpretation to 1002.9(b)(2); Appendix C sample reasons",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

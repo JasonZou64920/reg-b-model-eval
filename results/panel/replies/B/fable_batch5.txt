@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C09",
+    "label": "complies",
+    "reasoning": "The applicant was denied at the knockout step because of the repossession, an automatic-denial factor, so under comment 9(b)(2)-8 (read with comment 9(b)(2)-7, which ties the reasons to the component the applicant actually failed) the creditor must disclose that specific factor, and 'Foreclosure or repossession' accurately identifies it; the monitoring-only score was not the basis for the denial, so comment 9(b)(2)-4 does not require scored factors to be listed.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-8, 9(b)(2)-7, 9(b)(2)-2, 9(b)(2)-3",
+    "deciding_fact": null
+  },
+  {
+    "id": "C13",
+    "label": "complies",
+    "reasoning": "The six reasons are specific scored characteristics selected by the first method expressly approved in comment 9(b)(2)-5, and comment 9(b)(2)-1 states that the regulation does not mandate any particular number of reasons, so listing more than four is merely 'not likely to be helpful' rather than a violation of § 1002.9(b)(2).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1, 9(b)(2)-4, 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C21",
+    "label": "complies",
+    "reasoning": "In a judgmental system the reason must relate to a factor in the applicant's record actually reviewed (comment 9(b)(2)-6), and 'Your Income: is below our minimum requirement' identifies the specific factor (income) that caused the denial using the regulation's own Appendix C Form C-2 wording, which is a specific reason rather than a bare reference to internal standards, and comment 9(b)(2)-3 does not require the creditor to state the $30,000 threshold or explain how the factor was applied.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-3, 9(b)(2)-6; Appendix C to Part 1002, Form C-2",
+    "deciding_fact": null
+  },
+  {
+    "id": "C23",
+    "label": "violates",
+    "reasoning": "Meridian actually evaluated and denied the application because its credit score on bureau data and stated income fell below the cutoff, so under comment 9(b)(2)-4 the disclosed reasons must relate to the factors actually scored and no principal scored reason may be omitted, and 'Credit application incomplete' neither relates to nor accurately describes the factors that produced the denial as comment 9(b)(2)-2 requires.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C26",
+    "label": "complies",
+    "reasoning": "Granting $6,000 instead of the $25,000 requested is a counteroffer, and because the applicant used the credit offered it is not 'adverse action' under 12 CFR 1002.2(c)(1)(i), so the § 1002.9(a)(2)(i) notice and the § 1002.9(b)(2) statement of specific reasons were never triggered (see also § 1002.9(a)(1)(iv), which requires an adverse action notice only if the counteroffer is not accepted or used within 90 days).",
+    "citation": "12 CFR 1002.2(c)(1)(i); 12 CFR 1002.9(a)(1)(iv); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.9(b)(2)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C42",
+    "label": "complies",
+    "reasoning": "Under 12 CFR 1002.9(b)(2) the notice must be specific and indicate the principal reason(s), and by naming the two scored characteristics with the dominant shortfalls (31 and 27 points, against 4, 3 and 2 for the rest) Westfield discloses the principal reasons for the denial without relying on the prohibited statements about internal standards or a failed qualifying score, and the rule does not require listing every minor contributing factor.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-opus-5-5

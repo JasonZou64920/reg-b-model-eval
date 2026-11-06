@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C64",
+    "label": "violates",
+    "reasoning": "Because the on-time borrower's request through Lakeview's own modification form was a refusal to grant credit on the terms requested, the email saying modifications are 'at our discretion' and the request 'was not approved' states no specific principal reason and is the kind of internal-policy or model-outcome statement that 1002.9(b)(2) calls insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(2)(i); 12 CFR 1002.2(c)(1); 12 CFR 1002.2(f)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-sonnet-5-5

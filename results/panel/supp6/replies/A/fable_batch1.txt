@@ -1,0 +1,31 @@
+[
+  {
+    "id": "C56",
+    "label": "complies",
+    "reasoning": "The denial rested on the scorecard, which has no characteristic for prior Pinecrest accounts, so the 2023 charge-off was not a factor actually scored or relied upon, and listing the four scored characteristics with the largest shortfalls is a specific statement of the principal reasons as permitted by comment 9(b)(2)-4 and consistent with comment 9(b)(2)-5, which requires that disclosed reasons relate only to factors actually scored in the system.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR Part 1002, Supp. I, comments 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": null
+  },
+  {
+    "id": "C58",
+    "label": "complies",
+    "reasoning": "The notice names the actual model factor behind the decline (the mismatch between stated and bureau-estimated income) rather than a generic reference to internal standards or a failing score, which satisfies the specific principal-reason requirement of 1002.9(b)(2), and under comment 9(b)(2)-2 the creditor need not explain how or why that factor hurt the applicant, consistent with CFPB Circular 2023-03 on disclosing the actual reasons produced by a model.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR Part 1002, Supp. I, comments 9(b)(2)-2 and 9(b)(2)-9; CFPB Circular 2023-03",
+    "deciding_fact": null
+  },
+  {
+    "id": "C54",
+    "label": "complies",
+    "reasoning": "Because the income field was blank the model could not evaluate the applicant at all, so 'Credit application incomplete' accurately states the principal reason for the action, and 1002.9(c)(1)(i) together with 1002.9(a)(1)(ii) expressly allows a creditor to respond to an incomplete application within 30 days with an adverse action notice under paragraph (a), with that exact reason appearing on sample Form C-1 in Appendix C.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1)(ii); 12 CFR 1002.9(c)(1)(i); 12 CFR Part 1002, Appendix C, Form C-1",
+    "deciding_fact": null
+  },
+  {
+    "id": "C57",
+    "label": "violates",
+    "reasoning": "When a single notice is given on behalf of multiple creditors under 1002.9(g), comment 9(g)-1 requires it to state the principal reasons each creditor relied on and to clearly indicate which reasons relate to which creditor, so a combined two-reason list that does not attribute 'excessive obligations in relation to income' to Bank A and 'limited credit experience' to Banks B and C does not give the applicant a specific statement of each creditor's principal reasons as 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(g); 12 CFR Part 1002, Supp. I, comment 9(g)-1",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

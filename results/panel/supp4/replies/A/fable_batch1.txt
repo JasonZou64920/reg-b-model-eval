@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C47",
+    "label": "violates",
+    "reasoning": "Closing the account in June, four months after the January delinquency was cured and with on-time payments since, is a termination of an account that counts as adverse action under 1002.2(c)(1)(ii) and is not saved by the 1002.2(c)(2)(ii) delinquency exclusion (which, per comment 2(c)(2)(ii)-2, covers only current delinquency, not action based on a past delinquency), so Northgate owed a notice under 1002.9(a)(1) containing a specific statement of the principal reasons under 1002.9(a)(2) and (b)(2), and by sending no notice at all it provided no statement of specific reasons.",
+    "citation": "12 CFR 1002.9(b)(2); 12 CFR 1002.9(a)(1), (a)(2)(i); 12 CFR 1002.2(c)(1)(ii), (c)(2)(ii); Official Interpretation comment 2(c)(2)(ii)-2",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

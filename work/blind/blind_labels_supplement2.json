@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C37",
+    "label": "complies",
+    "reasoning": "When credit is denied on an automatic-denial factor the creditor must disclose that specific factor, and 'Poor credit performance with us' accurately names the knockout factor here, a prior charged-off Pinecrest account, which the commentary itself lists as 'previous bad credit history with that creditor.'",
+    "citation": "comment 9(b)(2)-8; comment 9(b)(2)-2; appendix C, para. 5",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C39",
+    "label": "complies",
+    "reasoning": "The notice follows Form C-3, and its statement that the application did not score enough points is not offered as the reason on its own but is followed by the specific factors on which the applicant fell furthest short, so it is not the bare 'failed to achieve a qualifying score' statement that 1002.9(b)(2) calls insufficient.",
+    "citation": "12 CFR 1002.9(b)(2); appendix C, para. 5; comment 9(b)(2)-4; comment 9(b)(2)-1",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C42",
+    "label": "complies",
+    "reasoning": "The two characteristics with 31- and 27-point shortfalls are the principal reasons and the others (4, 3 and 2 points) are not, and since no particular number of reasons is required, listing the two principal reasons meets the rule.",
+    "citation": "12 CFR 1002.9(b)(2); comment 9(b)(2)-1; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  },
+  {
+    "id": "C44",
+    "label": "complies",
+    "reasoning": "In a combined system the reasons must come from the component the applicant failed, including where the judgmental review comes first, and since the applicant passed the officer's review and failed the scorecard, the scorecard's three largest shortfalls are the correct reasons and the officer's residence note need not be disclosed.",
+    "citation": "comment 9(b)(2)-7; comment 9(b)(2)-4",
+    "deciding_fact": null,
+    "confidence": "high",
+    "defensible_alternative": null
+  }
+]

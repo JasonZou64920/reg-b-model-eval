@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C14",
+    "label": "violates",
+    "reasoning": "Four characteristics with nearly identical shortfalls (22, 21, 19, 18) are all principal reasons for the denial, and comment 9(b)(2)-4 provides that no factor that was a principal reason may be excluded from disclosure, so a policy of disclosing only the single largest shortfall omits principal reasons and fails the requirement in 1002.9(b)(2) to indicate the principal reason(s).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C28",
+    "label": "violates",
+    "reasoning": "Cutting limits on only the roughly 8 percent of accounts whose behavior score fell below 600 is adverse action based on a credit scoring system, and a letter attributing the change to a 'portfolio-wide risk management review' is a statement that the action was based on the creditor's internal standards or policies, which 1002.9(b)(2) expressly deems insufficient, rather than a disclosure of the specific scored factors required by comment 9(b)(2)-4.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2 and 9(b)(2)-4",
+    "deciding_fact": null
+  },
+  {
+    "id": "C20",
+    "label": "violates",
+    "reasoning": "The scored factor was the number of 60-day or worse delinquencies, and comment 9(b)(2)-9 states that when an application is denied because of delinquent credit obligations the creditor must disclose that reason, so the generic label 'Credit history' does not accurately describe the factor actually scored as comment 9(b)(2)-2 requires, even though comment 9(b)(2)-3 excuses explaining how or why the factor hurt the applicant.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-2, 9(b)(2)-3 and 9(b)(2)-9",
+    "deciding_fact": null
+  },
+  {
+    "id": "C03",
+    "label": "depends",
+    "reasoning": "Ranking characteristics by the gap below the maximum points available is not one of the two methods described in comment 9(b)(2)-5 (gap below the average score of marginal passers or of all applicants), so it is acceptable only if it produces results substantially similar to one of those methods, which the case does not establish.",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-4 and 9(b)(2)-5",
+    "deciding_fact": "Whether Ridgeway's maximum-points-gap method produces reason selections substantially similar to the average-score comparison methods described in comment 9(b)(2)-5."
+  },
+  {
+    "id": "C07",
+    "label": "violates",
+    "reasoning": "For a gray-band application denied after a judgmental assessment, comment 9(b)(2)-7 requires that the disclosed reasons come from both the scoring and judgmental components, and comment 9(b)(2)-4 bars excluding any principal reason, so omitting the underwriter's 'Unable to verify income' reason because the template has only four lines violates 1002.9(b)(2) (the four-reason guidance in comment 9(b)(2)-1 is not a cap that justifies dropping a principal reason).",
+    "citation": "12 CFR 1002.9(b)(2); Supplement I comments 9(b)(2)-1, 9(b)(2)-4 and 9(b)(2)-7",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C39",
+    "label": "complies",
+    "reasoning": "Although the notice mentions that the applicant did not score enough points on the credit scoring system, it does not stop there (which alone would be insufficient under 1002.9(b)(2)); it goes on to list three specific, actually scored principal factors (proportion of balances to credit limits, number of recent inquiries, length of credit history) selected by a largest-shortfall method that the Official Interpretation expressly recognizes, so the statement is specific and indicates the principal reasons as 12 CFR 1002.9(b)(2) requires.",
+    "citation": "12 CFR 1002.9(b)(2); Official Interpretation, Supp. I, comment 9(b)(2)-5 (reasons from a credit scoring system; shortfall-based selection methods); Appendix C, Model Form C-1 (optional credit scoring language)",
+    "deciding_fact": null
+  }
+]
+MODEL_ID: claude-fable-5-1
